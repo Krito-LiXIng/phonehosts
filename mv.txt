@@ -1,0 +1,149 @@
+[Adblock Plus 2.0]
+! title: 乘风 视频广告过滤规则
+! Version: 202105021
+! Expires: 2 days
+! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
+
+v.youku.com##.control-phonewatch,#right-title-ad-banner
+youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
+!v.youku.com##+js(nano-stb)
+127.0.0.1 atm.youku.com/
+127.0.0.1 cibntv.net/youku/$media
+127.0.0.1 valipl.cp31.ott.cibntv.net/$media
+|https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
+127.0.0.1 sealine.youku.com/yk/*callback=adpagesdk$script
+
+iqiyi.com##div[data-adzone],#block-V
+!iqiyi.com##+js(nano-sib)
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+!127.0.0.1 t7z.cupid.iqiyi.com/show$script,important
+127.0.0.1 static.iqiyi.com/js/common/mars_v.js$script
+127.0.0.1 iqiyi.com/videos/other/20$xmlhttprequest,object-subrequest
+127.0.0.1 iqiyipic.com/image/20*_100000$image
+127.0.0.1 ssports.iqiyi.com/json/shop/shopInfo
+show.ssports.com
+127.0.0.1 ssports.iqiyi.com/app/$object-subrequest
+
+qq.com##.mod_ad, .txp_ad
+v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
+v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+@@||video.qq.com/fcgi-bin/
+127.0.0.1 mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
+127.0.0.1 gtimg.com/qqlive/
+miaozhen.com
+reachmax.cn
+scorecardresearch.com
+tencentmind.com
+xtgreat.com
+
+bilibili.com##.gg-floor-module,#slide_ad,#slide_ad+a[data-target-url]
+127.0.0.1 api.bilibili.com/x/web-show/res/loc?pf=$~script
+127.0.0.1 hdslb.com/bfs/sycp/creative_img/$image
+
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
+127.0.0.1 aixifan.com/static/*/appGuide/
+
+cctv.com###bgAd_div
+cctv.com,ddrk.me##+js(aeld,dblclick,isImmediatePropagationStopped)
+127.0.0.1 imall.cctv.com/$subdocument
+127.0.0.1 bjcathay.com/
+!127.0.0.1 player.cntv.cn/h5vod/$script
+
+pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game
+127.0.0.1 synacast.com
+127.0.0.1 de.as.pptv.com^
+127.0.0.1 g.pptv.com/game/$subdocument
+
+@@||tb.mgtv.com/sdk/*/ad-sdk.js$script
+127.0.0.1 video.da.mgtv.com/$media
+ys.da.mgtv.com
+127.0.0.1 da.mgtv.com/mediafiles/wiad_creative/$image
+
+@@||js.tv.itc.cn/gg.seed.js
+127.0.0.1 css.tv.itc.cn/m/img/player/dlBanner.$image
+127.0.0.1 data.vod.itc.cn/*&prod=ad&$media
+127.0.0.1 api.my.tv.sohu.com/wm/getads.do?
+127.0.0.1 aty.sohu.com/
+127.0.0.1 go.sohu.com/
+127.0.0.1 tv.sohu.com/upload/csad/admaster/$image
+tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+
+1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
+127.0.0.1 aliyun.com^$domain=1905.com
+127.0.0.1 aliyuncs.com^$domain=1905.com
+
+@@||ark.letv.com/adx?adzone=
+@@||stat.letv.com/$script
+*/letv-gug/$media,object-subrequest
+127.0.0.1 letvimg.com/$object,object-subrequest
+127.0.0.1 letvimg.com/*_gugwl/$image
+127.0.0.1 js.letvcdn.com/*_banner_$script
+127.0.0.1 banana.le.com/
+adxvip.com
+behe.com
+biddingx.com
+cr-nielsen.com
+fancyapi.com
+kejet.net
+127.0.0.1 jd.com/$domain=le.com
+ulmdb.cn
+yoyi.com.cn
+zhiziyun.com
+le.com##.banner_ad,div.banner_left,div.banner_right,.min_pause_img
+
+douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
+127.0.0.1 douyucdn.cn/adxdsp/$image
+127.0.0.1 wan.douyu.com/
+douyu.com,huya.com##a[href^="https://g.wan."]
+huya.com###hy-ad,#hy-ab,#huya-ab
+127.0.0.1 g.huya.com/
+
+127.0.0.1 pub.funshion.com
+
+*/preroll/$media,domain=91porn.com
+127.0.0.1 91p20.space^
+127.0.0.1 waust.at^
+
+dililitv.cc,lzvod.net##+js(aeld,dblclick,dp.fullScreen.request)
+127.0.0.1 www.dililitv.cc/*.php?ad=$script
+js.dilidd.com
+dililitv.cc,hmtv.me,imeiju.io##+js(acis,Object.defineProperty,location.href)
+
+dyjihe.com##.tempWrap
+
+haitur.com,haicaoys.com##.dplayer-web-fullscreen-fix .float-box
+haitur.com##.container:style(max-width:90%!important;width:90%!important)
+haitur.com##.left-content:style(width:77%!important)
+
+imomoe.*,xiamov.com,xxdm8.com##+js(ra, target, base[target])
+dyjihe.com,haicaoys.com,haitur.com,imomoe.*,kakadm.com,milimili.tv,qiqidongman.com,vodxc.in##+js(ra, target, a[href^="/"])
+127.0.0.1 alicdn.com/$image,domain=api.xiaomingming.org
+imomoe.*###adl,#adr
+
+yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
+yatu.tv##+js(set,document.oncontextmenu,null)
+127.0.0.1 tracker.$xhr,websocket,script,ping
+3z9e.cn
+7nsc.cn
+7b6l2j.cn
+anquanzhuomian.com
+ch-hr12333.com
+g1c5.com
+ieeod0.com
+fourier.taobao.com
+v4dwkcv.com
+weizhenwx.com
+youle55.com
+
+bmbaike.cn
+buzx53.cn
+cqqc3.com
+dacedsfa.cn
+qdwght.com
+quickapp.cn
+xcsci.cn
+xixiqiu.com
+xv5b.com
+xz6d.com
+127.0.0.1 www.yatu.tv:88/image/*.gif^$image
+127.0.0.1 www.yatu.tv:88/m/images/$image
