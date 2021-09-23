@@ -49,6 +49,29 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 Anti-AD
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
+hmirror
+来自海外西班牙用户整理的各种主机拦截资源汇总，包括来自adguard,easylist,ublock的主机资源. 下面是主机资源汇总页面
+https://github.com/hectorm/hmirror/
+
+MVPS host
+屏蔽美欧地区英文网站相关的广告
+http://winhelp2002.mvps.org/hosts.txt
+
+Hblock
+Hblock是一个脚本程序，他会自动提取来自很多规则源的恶意广告主机列表，比如 EasyList,AdGuard,uBlock ,disconnect.me 等数十个规则源，下面的链接是由该脚本生成的主机列表。
+https://hblock.molinero.dev/hosts
+
+StevenBlack
+国外维护比较知名的屏幕广告主机列表,整合和扩展多个精心设计的主机文件. github上获得15k+ Start 可以通过脚本生成你自己的hosts文件。
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+iOSAdblockList
+有海外维护针对移动网站的广告主机列表
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
+
+yhosts
+yhosts是国内比较知名的host维护列表，原作者目前已经停止维护,目前由VeleSila接手更新。
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 
 @@||aeventlog.beacon.qq.com^$important
 127.0.0.1 api.ad.xiaomi.com
@@ -59,3 +82,11 @@ https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-a
 8.8.8.8 cocomanga.com
 127.0.0.1 connect.rom.miui.com
 @@||console.cloud.google.com^$important
+
+#去广告效果检测网站
+https://checkadblock.ru/
+https://blockads.fivefilters.org/
+https://canyoublockit.com/extreme-test/
+https://ads-blocker.com/testing/
+https://www.detectadblock.com/
+http://simple-adblock.com/faq/testing-your-adblocker/
