@@ -46,6 +46,9 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 AdGuard Simplified Domain Names filter
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
+Anti-AD
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+
 
 @@||aeventlog.beacon.qq.com^$important
 127.0.0.1 api.ad.xiaomi.com
