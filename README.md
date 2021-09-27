@@ -73,6 +73,12 @@ yhosts
 yhosts是国内比较知名的host维护列表，原作者目前已经停止维护,目前由VeleSila接手更新。
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 
+大圣净化（针对国内视频网站）
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+yhosts（针对国内网站广告）
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
 @@||aeventlog.beacon.qq.com^$important
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 ad.mi.com
