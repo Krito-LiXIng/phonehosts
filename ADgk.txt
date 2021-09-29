@@ -1,8 +1,20 @@
-! Version: 20210916201651
+! Version: 20210927190035
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+127.0.0.1 31du.wang^
+127.0.0.1 zhihuiduijian.com^
+/obj/ad-
+127.0.0.1 coolapk.com/v6/feed/detail?$replace=/include_goods//
+127.0.0.1 coolapk.com/v6/feed/detail?$replace=/hotSponsorCard//
+127.0.0.1 coolapk.com/v6/feed/detail^$replace=/hotSponsorCard//
+127.0.0.1 coolapk.com/v6/feed/detail^$replace=/detailSponsorCard//
+127.0.0.1 liangcang-material.alicdn.com^
+127.0.0.1 zzhengyuli.com^
+127.0.0.1 gaomingbo.com^
+127.0.0.1 mangabz.com/wxh_asy.js
 127.0.0.1 event.toggle.qq.com^
+127.0.0.1 coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 127.0.0.1 pianku.li/ajax/matomo
 127.0.0.1 govchengdu.cn^
 127.0.0.1 govxian.cn^
@@ -165,7 +177,6 @@ rarbt.cc##div[class="cl"]
 127.0.0.1 yidianzixun.com/home/q/get_activity_girls_progress
 127.0.0.1 web-track.go2yd.com^
 127.0.0.1 si1.go2yd.com^
-127.0.0.1 api.coolapk.com/v6/feed/detail?$replace=/hotSponsorCard//
 t66y.com$$script[tag-content="r9aeadS"]
 127.0.0.1 to.redircdn.com/web/post.js
 127.0.0.1 api.afdback.ppsimg.com^
@@ -177,8 +188,6 @@ t66y.com$$script[tag-content="r9aeadS"]
 127.0.0.1 lc-cn-n1-shared.com^
 127.0.0.1 daa.shuzilm.cn^
 127.0.0.1 sdk.api.bjshcw.com^
-127.0.0.1 api2.coolapk.com/v6/feed/detail^$replace=/hotSponsorCard//
-127.0.0.1 api2.coolapk.com/v6/feed/detail^$replace=/detailSponsorCard//
 127.0.0.1 pinlue.com/style/js/common.js
 127.0.0.1 top2099.com^
 qidian.com$$div[class="app-deversion normal-version"]
@@ -247,7 +256,6 @@ csdn.net$$div[class="weixin-shadowbox wap-shadowbox"]
 127.0.0.1 msg-intl.qy.net^
 127.0.0.1 intl.iqiyi.com/control/feature_switch?
 127.0.0.1 api16-access-sg.pangle.io/api/ad^
-127.0.0.1 ibytedtos.com/obj/ad-pattern-sg^
 127.0.0.1 api.blibili.com/x/pd-proxy/tracker
 /ads/*.js^
 127.0.0.1 xn--3bs795g.chat^
@@ -335,7 +343,6 @@ _ad/*.js*$domain=~mp.weixin.qq.com
 /log.gif^
 127.0.0.1 log.snssdk.com^
 127.0.0.1 pglstatp-toutiao.com/obj^
-127.0.0.1 pstatp.com/obj^
 127.0.0.1 live-trace.bilibili.com^
 jingyan.baidu.com$$aside[class="wgt-ad"]
 127.0.0.1 amazon.*/gp/kindle/kfc/SpecialOffer/
@@ -9274,7 +9281,6 @@ wuhaozhan.net$$div[class="item-box"]
 127.0.0.1 api.zhihu.com/people/self$replace=/\"vip_info\"/\"null_vip\"/
 127.0.0.1 api.zhihu.com/topstory/recommend*$replace=/\"slot_event_card\"/\"null_card\"/
 127.0.0.1 cnwav.com^
-127.0.0.1 api.coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 127.0.0.1 moapi.wps.cn/onlineparam/onlineParamByVersion
 127.0.0.1 moapi.wps.cn/api/ad^
 127.0.0.1 account.wps.cn^$replace=/"has_ad": 1/"has_ad": 0/
