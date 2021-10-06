@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +DK6SoZakGEIjbbN6uAT+A
-! Version: 202109290151
+! Checksum: CyMMIPQQ4T7HhLITeplcvA
+! Version: 202110060543
 ! Title: EasyPrivacy
-! Last modified: 29 Sep 2021 01:51 UTC
+! Last modified: 06 Oct 2021 05:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -307,6 +307,7 @@
 /ac.fcgi?
 /acbeacon2.
 /accAnal.js
+/accessanalyzer/tracker?
 /AccessCounter/*
 /accesslog?
 /accesstracking/*
@@ -526,6 +527,7 @@
 /analytic/pageview
 /analytic?publisher
 /analytic_data_
+/analyticcdn.
 /analyticReporting.
 /analyticReportingAS3.$domain=~miniclip.com
 /analytics-2.
@@ -1175,7 +1177,7 @@
 /clicevent.php?
 /click-analytics.
 /click-count.
-/click-logger.
+/click-logger.$image,script
 /click-stat.js
 /click-tracker
 /click.cgi?callback=
@@ -2217,6 +2219,7 @@
 /hit2.php
 /hit?artefactId=
 /hit?t=*&__seed=
+/hit?time=
 /hit_count?
 /hit_counter
 /hit_img.cfm?
@@ -2333,6 +2336,7 @@
 /impression/cmp2?
 /impression/inline?
 /impression/stream/*
+/impression/track?
 /impression/widget?
 /impression?bid
 /impression?rkey=
@@ -2576,6 +2580,7 @@
 /livestats.js
 /livestats.php?
 /livezilla/server.php?request=track&
+/ljcounter/*
 /llbmetrics.
 /llntrack.
 /load.gif?
@@ -4669,6 +4674,7 @@
 /tunestats.
 /turn-proxy.html?
 /tw-track.js
+/TWDC-DTCI/*
 /TwitterTracking.
 /tynt.js
 /tzr.fcgi?
@@ -5586,6 +5592,8 @@ _mongo_stats/
 127.0.0.1 analysis.fi^
 127.0.0.1 apxl.io^
 127.0.0.1 auriro.net^
+127.0.0.1 ayc0zsm69431gfebd.info^
+127.0.0.1 ayc0zsm69431gfebd.xyz^
 127.0.0.1 azury.gg^
 127.0.0.1 bfmio.com^
 127.0.0.1 bidswitch.net^
@@ -5598,6 +5606,7 @@ _mongo_stats/
 127.0.0.1 crsspxl.com^
 127.0.0.1 crwdcntrl.net^
 127.0.0.1 cxt.ms^
+127.0.0.1 czx5eyk0exbhwp43ya.biz^
 127.0.0.1 demdex.net^
 127.0.0.1 dm-event.net^
 127.0.0.1 dmpxs.com^
@@ -5666,6 +5675,7 @@ _mongo_stats/
 127.0.0.1 lltrck.com^
 127.0.0.1 loloclicks.biz^
 127.0.0.1 matheranalytics.com^
+127.0.0.1 mdhv.io^
 127.0.0.1 mors22.com^
 127.0.0.1 mt48.net^
 127.0.0.1 ns1p.net^
@@ -5705,6 +5715,7 @@ _mongo_stats/
 127.0.0.1 ugdturner.com^
 127.0.0.1 videoplayerhub.com^
 127.0.0.1 wknd.ai^
+127.0.0.1 wmgroup.us^
 127.0.0.1 z0uolej1qnxzub1.info^
 127.0.0.1 zdbb.net^
 127.0.0.1 zoomhead.xyz^
@@ -6314,7 +6325,6 @@ _mongo_stats/
 127.0.0.1 cya2.net^$third-party
 127.0.0.1 cybermonitor.com^$third-party
 127.0.0.1 cytoclause.com^$third-party
-127.0.0.1 czx5eyk0exbhwp43ya.biz^$third-party
 127.0.0.1 d-1.co^$third-party
 127.0.0.1 d41.co^$third-party
 127.0.0.1 dacounter.com^$third-party
@@ -6336,6 +6346,7 @@ _mongo_stats/
 127.0.0.1 dataperforma.com^$third-party
 127.0.0.1 datasteam.io^$third-party
 127.0.0.1 dataxpand.com^$third-party
+127.0.0.1 datazoom.io^$third-party
 127.0.0.1 datvantage.com^$third-party
 127.0.0.1 daylogs.com^$third-party
 127.0.0.1 dc-storm.com^$third-party
@@ -6825,7 +6836,6 @@ _mongo_stats/
 127.0.0.1 informz.net^$third-party
 127.0.0.1 ingage.tech^$third-party
 127.0.0.1 inimbus.com.au^$third-party
-127.0.0.1 inmoment.com^$third-party
 127.0.0.1 innertrends.com^$third-party
 127.0.0.1 innomdc.com^$third-party
 127.0.0.1 innovateads.com^$third-party
@@ -7303,7 +7313,7 @@ _mongo_stats/
 127.0.0.1 ondu.ru^$third-party
 127.0.0.1 onefeed.co.uk^$third-party
 127.0.0.1 oneimpress.io^$third-party
-127.0.0.1 onelink.me^$third-party
+127.0.0.1 onelink.me^$image,script,third-party
 127.0.0.1 onestat.com^$third-party
 127.0.0.1 onetag-sys.com^$third-party
 127.0.0.1 onetag.io^$third-party
@@ -8191,6 +8201,7 @@ _mongo_stats/
 127.0.0.1 vmmpxl.com^$third-party
 127.0.0.1 voicefive.com^$third-party
 127.0.0.1 volantix.com^$third-party
+127.0.0.1 volument.com^$third-party
 127.0.0.1 votistics.com^$third-party
 127.0.0.1 vprza.com^$third-party
 127.0.0.1 vtracker.net^$third-party
@@ -8783,7 +8794,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 awesomeagreement.com^
 127.0.0.1 awzbijw.com^$third-party
 127.0.0.1 axiomaticalley.com^$third-party
-127.0.0.1 ayc0zsm69431gfebd.info^$third-party
 127.0.0.1 bagbeam.com^$third-party
 127.0.0.1 bandborder.com^$third-party
 127.0.0.1 basketballbelieve.com^$third-party
@@ -8862,6 +8872,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 enormousearth.com^$third-party
 127.0.0.1 enviousshape.com^$third-party
 127.0.0.1 fadedsnow.com^$third-party
+127.0.0.1 fadewaves.com^
 127.0.0.1 fallaciousfifth.com^$third-party
 127.0.0.1 falseframe.com^$third-party
 127.0.0.1 familiarrod.com^$third-party
@@ -9369,6 +9380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 zaehler.tv^$third-party
 ! French
 127.0.0.1 123compteur.com^$third-party
+127.0.0.1 24log.fr^$third-party
 127.0.0.1 7x4.fr^$third-party
 127.0.0.1 7x5.fr^$third-party
 127.0.0.1 abcompteur.com^$third-party
@@ -9995,6 +10007,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 pocitadlo.sk^$third-party
 127.0.0.1 toplist.sk^$third-party
 ! Spanish
+127.0.0.1 24log.es^$third-party
 127.0.0.1 botize.com^$third-party
 127.0.0.1 ccrtvi.com^$third-party
 127.0.0.1 certifica.com^$third-party
@@ -10923,7 +10936,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 foureyes.io/fe-init.js
 127.0.0.1 fourmtagservices.appspot.com^
 127.0.0.1 foxcontent.com/tracking/
-127.0.0.1 fp-cdn.azureedge.net/prod/
+127.0.0.1 fp-cdn.azureedge.net^
 127.0.0.1 freecurrencyrates.com/statgif.
 127.0.0.1 freedom.com^*/analytic/
 127.0.0.1 freedom.com^*/analytics/
@@ -11086,6 +11099,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 infosniper.net/locate-ip-on-map.php
 127.0.0.1 infusionsoft.com^*/getTrackingCode?
 127.0.0.1 ingest.make.rvapps.io^
+127.0.0.1 inmoment.com.au/intercept/
+127.0.0.1 inmoment.com/intercept/
+127.0.0.1 inmoment.com/websurvey/
 127.0.0.1 innogamescdn.com/media/js/metrics-
 127.0.0.1 inphonic.com/tracking/
 127.0.0.1 inq.com^*/onEvent?_
@@ -11145,6 +11161,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 key4web.com^*/set_cookie_by_referer/
 127.0.0.1 keyword.daumdn.com^
 127.0.0.1 kiwari.com^*/impressions.asp?
+127.0.0.1 kiwi.mdldb.net^
 127.0.0.1 kk-resources.com/ks.js
 127.0.0.1 klarnaservices.com^$image,third-party
 127.0.0.1 klickly.com/track
@@ -11523,6 +11540,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 privacy.outdoorsg.com^
 127.0.0.1 processor.asccommunications.com^
 127.0.0.1 proxy.dzeio.com^
+127.0.0.1 proxycheck.io/v2/
 127.0.0.1 pswec.com/px/$third-party
 127.0.0.1 pt.crossmediaservices.com^
 127.0.0.1 pt.ispot.tv^
@@ -13179,6 +13197,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 aax-us-iad.amazon.com^
 127.0.0.1 ab-machine.forbes.com^
 127.0.0.1 ab.fanatical.com^
+127.0.0.1 abcnews.com/assets/dtci/js/abcnews_visitorId.js
 127.0.0.1 abcnews.com/assets/dtci/js/at.js
 127.0.0.1 abebooks.com/timer.gif?
 127.0.0.1 about.me/track?
@@ -13256,7 +13275,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 arstechnica.com/keys/arstechnica.com/p.js
 127.0.0.1 atrack.allposters.com^
 127.0.0.1 ats.alot.com^
-127.0.0.1 auth2-eng.spankbang.com^
+127.0.0.1 auth3-eng.spankbang.com^
 127.0.0.1 avitop.com/aviation/hitlist.asp
 127.0.0.1 baidu.com^*/mwb2.gif?
 127.0.0.1 baidu.com^*/wb.gif?
@@ -13361,6 +13380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 desb.fkapi.net^
 127.0.0.1 desr.fkapi.net^
 127.0.0.1 dhl.com/g8Dj6P8TAg/
+127.0.0.1 dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 127.0.0.1 digg.com/library/tracker.js
 127.0.0.1 digital.flytedesk.com/js/head.js
 127.0.0.1 discord.com/api/*/science
@@ -13495,6 +13515,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 groupon.com/analytic/
 127.0.0.1 groupondata.com/tracky
 127.0.0.1 gsght.com/twizards.js
+127.0.0.1 gtreus.aliexpress.com^
 127.0.0.1 gurgle.pcmag.com^
 127.0.0.1 hanaana.socialblade.com^
 127.0.0.1 hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
@@ -13583,7 +13604,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 linktr.ee/events
 127.0.0.1 livehdcams.com/api/events
 127.0.0.1 livehdcams.com/api/metrics
-127.0.0.1 livejournal.com/ljcounter/?
+127.0.0.1 livejournal.com/log?
 127.0.0.1 liveperson.net/hc/*/?visitor=
 127.0.0.1 local.ch/track/
 127.0.0.1 log-api.newrelic.com^
@@ -13643,6 +13664,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 127.0.0.1 namethatporn.com/assets/imgs/1x1.gif
 127.0.0.1 nature.com/platform/track/
 127.0.0.1 naukrigulf.com/ni/nibms/bms_display.php
+127.0.0.1 nbc.com/webevents/
 127.0.0.1 nbcnews.com/_next/static/chunks/ads.$script,domain=msnbc.com|nbcnews.com
 127.0.0.1 ncbi.nlm.nih.gov/core/pinger
 127.0.0.1 neatorama.com/story/view/
@@ -24056,6 +24078,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 127.0.0.1 space-blogs.net/include/counter/
 127.0.0.1 stat.ouedkniss.com^
 127.0.0.1 stats.sexemodel.com^
+127.0.0.1 stats.wawacity.one^
 127.0.0.1 surace-jujitsu.fr/outils/compteur_php/
 127.0.0.1 t.blablacar.com^
 127.0.0.1 tc2.hometogo.net^
@@ -24211,6 +24234,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 127.0.0.1 sina.com.cn/view?
 127.0.0.1 sinajs.cn/open/api/js/wb.js
 127.0.0.1 sngmta.qq.com^
+127.0.0.1 sogou.com/cl.gif?
 127.0.0.1 sogou.com/cl?
 127.0.0.1 sogou.com/pv?
 127.0.0.1 sohu.com.cn/hdpb.gif?
@@ -24270,6 +24294,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 127.0.0.1 vipstatic.com/mars/
 127.0.0.1 weather.com.cn/a1.js
 127.0.0.1 webstat.kuwo.cn^
+127.0.0.1 weiyun.com/cgi-bin/tianshu_report
+127.0.0.1 weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
 127.0.0.1 wenku.baidu.com/tongji/
 127.0.0.1 wkctj.baidu.com^
 127.0.0.1 wl.jd.com^
@@ -24277,6 +24303,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 127.0.0.1 wumii.com/images/pixel.png
 127.0.0.1 xcar.com.cn/exp/
 127.0.0.1 xiaomi.com/js/mstr.js?
+127.0.0.1 ylog.huya.com^
 127.0.0.1 youdao.com/cf.gif?
 127.0.0.1 youdao.com/imp/cac.js
 127.0.0.1 youku.com/compvlog?
@@ -25283,7 +25310,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||getjad.io/library/$script,domain=gamestar.de
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|vox.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
-@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|radiorur.de|saturn.at|sport1.de|vox.de
+@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|radiorur.de|saturn.at|sport1.de|vox.de
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
@@ -25523,7 +25550,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||flipdesk.jp/wp/wp-content/themes/flipdesk/images/analytics3.png$image
 @@||game-tsutaya.tsite.jp/pc/common/scripts/analytics/s_code_ggame.js
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|hatenacorp.jp|kakuyomu.jp|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|hatenacorp.jp|kakuyomu.jp|mangaseek.net|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
 @@||howtonote.jp/google-analytics/$image,~third-party
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
@@ -25631,9 +25658,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !
 !---------- Romanian ----------
 !
+@@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||googletagmanager.com/gtm.js$script,domain=olx.ro
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||imobiliare.ro/js/gtm.js$script,~third-party
+@@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 !
 !---------- Russian ----------
 !
