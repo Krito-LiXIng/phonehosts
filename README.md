@@ -79,6 +79,10 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 yhosts（针对国内网站广告）
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
+广告域名列表 reject-list.txt：
+https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
+https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/reject-list.txt
+
 @@||aeventlog.beacon.qq.com^$important
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 ad.mi.com
