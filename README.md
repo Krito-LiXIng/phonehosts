@@ -83,6 +83,9 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/reject-list.txt
 
+Energized
+https://block.energized.pro/ultimate/formats/hosts
+
 @@||aeventlog.beacon.qq.com^$important
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 ad.mi.com
