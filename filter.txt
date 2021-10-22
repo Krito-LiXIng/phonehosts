@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-10-06T00:18:03.834Z
+! Last modified: 2021-10-22T09:31:34.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -16,6 +16,51 @@
 !
 ! The rules with hints are at the end of file
 !
+127.0.0.1 dendranthe4edm7um.com^
+127.0.0.1 piplep.com^
+127.0.0.1 salync.com^
+127.0.0.1 adsjumbo.com^
+127.0.0.1 needleworkemmaapostrophe.com^
+127.0.0.1 twentyhandful.com^
+127.0.0.1 aduterra.com^
+127.0.0.1 glirsoss.com^
+127.0.0.1 ugahutoa.com^
+127.0.0.1 creptdeservedprofanity.com^
+127.0.0.1 lukomol.com^
+127.0.0.1 neverthelessdepression.com^
+127.0.0.1 nothingnightingalejuly.com^
+127.0.0.1 fc2ppv.buzz^
+127.0.0.1 ckwlurries.com^
+127.0.0.1 squozelewing.com^
+127.0.0.1 toonoost.net^
+127.0.0.1 abdittoan.com^
+127.0.0.1 portalisimmo.com^
+127.0.0.1 eagath.com^
+127.0.0.1 hunoso.com^
+127.0.0.1 accompliceexpressingpug.com^
+127.0.0.1 stimulateartificial.com^
+127.0.0.1 elementalantecedent.com^
+127.0.0.1 stickervillain.com^
+127.0.0.1 abasgimental.com^
+127.0.0.1 natexo-programmatic.com^
+127.0.0.1 udinugoo.com^
+127.0.0.1 itskiddoan.club^
+127.0.0.1 icepey.com^
+127.0.0.1 jurehi.com^
+127.0.0.1 fqvvgjvjn.com^
+127.0.0.1 include.canale.live^
+127.0.0.1 absorbedexistence.com^
+127.0.0.1 accessiblescopevisitor.com^
+127.0.0.1 feewuvoo.net^
+127.0.0.1 cdend.com^
+127.0.0.1 googles.video^
+127.0.0.1 postsupport.net^
+127.0.0.1 rapidantivirus.com^
+127.0.0.1 securesystemguide.com^
+127.0.0.1 servicesdrtviceshjgugjgufjfiffjfufjffjfjfjfjfjfjfjjdhgd.azurewebsites.net^
+127.0.0.1 brunettemattersrefused.com^
+127.0.0.1 v00ske77693f.com^
+127.0.0.1 myezads.com^
 127.0.0.1 adshares.net^
 127.0.0.1 writeratic.xyz^
 127.0.0.1 tonemedia.com^
@@ -28,7 +73,6 @@
 127.0.0.1 2d56d0483a.com^
 127.0.0.1 complainfriendshipperry.com^
 127.0.0.1 parringepigene.com^
-127.0.0.1 2933448a31.4e39c772dc.com^
 127.0.0.1 slowerwave.cyou^
 127.0.0.1 thawheek.com^
 127.0.0.1 uhmevofiatnjg.xyz^
@@ -37,7 +81,6 @@
 127.0.0.1 tickmatureparties.com^
 127.0.0.1 bit-ad.com^
 127.0.0.1 nearestaxe.com^
-127.0.0.1 a0a18dc255.1772c9ffd2.com^
 127.0.0.1 rilins.com^
 127.0.0.1 liddid.com^
 127.0.0.1 antananarbdivu.com^
@@ -78,7 +121,6 @@
 127.0.0.1 kragr.com^
 127.0.0.1 underworldoptical.com^
 127.0.0.1 bybastiodoner.com^
-127.0.0.1 fiorenetwork.com^
 127.0.0.1 overlapflintsidenote.com^
 127.0.0.1 parlorscenes.com^
 127.0.0.1 rndhaunteran.com^
@@ -94,8 +136,6 @@
 127.0.0.1 culmedmaumee.com^
 127.0.0.1 enacttournamentcute.com^
 127.0.0.1 h3helgf2g7k8.com^
-127.0.0.1 hunchbacktransformation.com^
-127.0.0.1 respectivepreservation.com^
 127.0.0.1 590578zugbr8.com^
 127.0.0.1 aloveste.site^
 127.0.0.1 amplitudewassnap.com^
@@ -154,7 +194,6 @@
 127.0.0.1 videosprofitnetwork.com^
 127.0.0.1 phhitgjxsit.com^
 127.0.0.1 mujnmhmfhrubzq.com^
-127.0.0.1 wovazaix.com^
 127.0.0.1 nomorepecans.com^
 127.0.0.1 phoaraut.com^
 127.0.0.1 bluffyporn.com^
@@ -199,7 +238,6 @@
 127.0.0.1 ethadepic.club^
 127.0.0.1 forzslodge.com^
 127.0.0.1 ptunogrywhy.pro^
-127.0.0.1 go.tmrjmp.com^
 127.0.0.1 sub.superxxxfree.com^
 127.0.0.1 news-back.org^
 127.0.0.1 beta-news.org^
@@ -221,7 +259,6 @@
 127.0.0.1 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz^
 127.0.0.1 shemale.house^
 127.0.0.1 pixfuture.com^
-127.0.0.1 71692fai4cc0.com^
 127.0.0.1 dotardberet.com^
 127.0.0.1 bendcauslesscauslessnotion.com^
 127.0.0.1 eppmedia.si^
@@ -238,7 +275,6 @@
 127.0.0.1 scrapebust.com^
 127.0.0.1 beach-trk.com^
 127.0.0.1 habeglee.net^
-127.0.0.1 besmeargleor.com^
 127.0.0.1 ouroborosx.com^
 127.0.0.1 sholke.com^
 127.0.0.1 scripts.static-od.com^
@@ -282,7 +318,6 @@
 127.0.0.1 hunter-hub.com^
 127.0.0.1 a.trk-imps.com^
 127.0.0.1 ocdnmq.com^
-127.0.0.1 glamourgreek.com^
 127.0.0.1 reialsoha.biz^
 127.0.0.1 arysignificc.fun^
 127.0.0.1 godfulsiums.com^
@@ -293,7 +328,6 @@
 127.0.0.1 cawkyhouhere.com^
 127.0.0.1 beatsightcab.com^
 127.0.0.1 citheekr.com^
-127.0.0.1 ithaibap.com^
 127.0.0.1 9v58v.com^
 127.0.0.1 1ts11.top^
 127.0.0.1 alkypeewit.com^
@@ -359,7 +393,6 @@
 127.0.0.1 ptwmstc.com^
 127.0.0.1 addictionestimated.com^
 127.0.0.1 awcrpu.com^
-127.0.0.1 creative.mshago.com^
 127.0.0.1 describedarkchair.top^
 127.0.0.1 viiigle.com^
 127.0.0.1 flvpcdnb.com^
@@ -555,7 +588,6 @@
 127.0.0.1 ccdnqxu.com^
 127.0.0.1 harmoniousstrandbulk.com^
 127.0.0.1 vidyceky.com^
-127.0.0.1 delivery.contextads.live^
 127.0.0.1 gjqhufkamcoc.com^
 127.0.0.1 vhlduhrldc.com^
 127.0.0.1 frshueaxf.com^
@@ -592,7 +624,6 @@
 127.0.0.1 guvivqlbh.com^
 127.0.0.1 abhorboring.com^
 127.0.0.1 fdrptpyxchzjk.com^
-127.0.0.1 news-easy.org^
 127.0.0.1 premiumbros.com^
 127.0.0.1 filterexchangecage.com^
 127.0.0.1 reluctanceleatheroptional.com^
@@ -889,7 +920,6 @@
 127.0.0.1 hugregregy.pro^
 127.0.0.1 detailyesgrip.com^
 127.0.0.1 irkerecue.com^
-127.0.0.1 paychat.fuse-cloud.com^
 127.0.0.1 adright.co^
 127.0.0.1 outtunova.com^
 127.0.0.1 rqhere2.com^
@@ -3033,7 +3063,11 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
-127.0.0.1 d26adrx9c3n0mq.cloudfront.net^
+127.0.0.1 tagrec.sphdigital.com^
+127.0.0.1 adimage.sphdigital.com^
+127.0.0.1 creative.sphdigital.com^
+127.0.0.1 adtag.sphdigital.com^
+127.0.0.1 eventreg.sphdigital.com^
 127.0.0.1 asg.faperoni.com^
 127.0.0.1 aa.pornvideotop.com^
 127.0.0.1 ads-partners.coupang.com^
@@ -3111,7 +3145,6 @@ www.llllllllllll.net^
 127.0.0.1 d2nrdy2pg3k168.cloudfront.net^
 127.0.0.1 tm-banners.gamingadult.com^
 127.0.0.1 blyxb.27667.club^
-127.0.0.1 delivery.porn.com^
 127.0.0.1 d9tnvwv7i2n85.cloudfront.net^
 127.0.0.1 d35r45qhjmgs3g.cloudfront.net^
 127.0.0.1 sam.msn.com^
@@ -3195,6 +3228,30 @@ www.llllllllllll.net^
 127.0.0.1 d9rj2sdxjer5v.cloudfront.net^
 127.0.0.1 dk2mvwe4uw0z3.cloudfront.net^
 127.0.0.1 js.bulkhentai.com^
+! https://github.com/AdguardTeam/AdguardFilters/pull/96908
+127.0.0.1 eb500d5e2b.cf031d45b5.com^
+127.0.0.1 2da6d8fae9.cc29bca73b.com^
+127.0.0.1 8e15d1e530.551327fd36.com^
+127.0.0.1 a72d79c58b.33e429d29e.com^
+127.0.0.1 dd77535fba.3901da0f4a.com^
+127.0.0.1 a0b24c83b8.3000f4e548.com^
+127.0.0.1 aa446af0ed.75bb9a4031.com^
+127.0.0.1 e981646c2a.d131c7173a.com^
+127.0.0.1 c4b2dbf3a0.040e9e6099.com^
+127.0.0.1 f00961160c.25391ebf69.com^
+127.0.0.1 d28a863f16.a6dbb52634.com^
+127.0.0.1 e4c8e13238.bad8b2e252.com^
+127.0.0.1 a8cc179007.efe0df50ac.com^
+127.0.0.1 07d0087b14.9f3a91e76f.com^
+127.0.0.1 90447d62cf.f53d8e67f8.com^
+127.0.0.1 81035ddbf4.32c5637f3c.com^
+127.0.0.1 599e7d6968.9ec1589ddb.com^
+127.0.0.1 e00a17117b.a5ee094155.com^
+127.0.0.1 0fccf56c02.d14b19b49f.com^
+127.0.0.1 f4984720c7.b26d946337.com^
+127.0.0.1 b94ea798af.ac2e81c7b8.com^
+127.0.0.1 751cb31e39.1ce86868bf.com^
+127.0.0.1 b062a19b2f.d03165aacb.com^
 
 !
 ! Source name: AdGuard Base filter ad servers foreign
@@ -3507,7 +3564,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 12fb602fb307.com^
 127.0.0.1 12place.com^
 127.0.0.1 12xlwin6a.net^
-127.0.0.1 13190546cd1dec9bbdc.com^
+127.0.0.1 13e0df9b41.com^
 127.0.0.1 13vm73vbmp.com^
 127.0.0.1 148dfe140d0f3d5e.com^
 127.0.0.1 14nuzznszbdp.com^
@@ -3576,7 +3633,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 233fb5b59351.com^
 127.0.0.1 23a6b8b0afb.com^
 127.0.0.1 24-sportnews.com^
-127.0.0.1 2444efc8cd8e.com^
 127.0.0.1 247realmedia.com^
 127.0.0.1 24ad89fc2690ed9369.com^
 127.0.0.1 24affiliates.com^
@@ -3584,6 +3640,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 24x7adservice.com^
 127.0.0.1 254a.com^
 127.0.0.1 2559a303164ddde96.com^
+127.0.0.1 25a2143174.com^
 127.0.0.1 26554a376a71735.com^
 127.0.0.1 27ceb2d5631623.com^
 127.0.0.1 27vckaccbto7p761.pro^
@@ -3606,7 +3663,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 2cnjuh34jbstar.com^
 127.0.0.1 2dbd87c7a091b.com^
 127.0.0.1 2g6gj3aojcrj.com^
-127.0.0.1 2gok8g15p2.com^
 127.0.0.1 2kl08cd74f.com^
 127.0.0.1 2lwlh385os.com^
 127.0.0.1 2mdn.info^
@@ -3677,6 +3733,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 473863a8ef28.com^
 127.0.0.1 47b63cbfb34a0.com^
 127.0.0.1 48331375c351e.com^
+127.0.0.1 48d58df525.com^
 127.0.0.1 493b98cce8bc1a2dd.com^
 127.0.0.1 4a93ed09d81f.com^
 127.0.0.1 4ac484684040.com^
@@ -3708,6 +3765,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 508ec56533e3937e.com^
 127.0.0.1 50trk.com^
 127.0.0.1 51189fb815.com^
+127.0.0.1 5150ab4aa5.com^
 127.0.0.1 52ddc254575a.com^
 127.0.0.1 538b5d8f303be.com^
 127.0.0.1 54ca10abaa788.com^
@@ -3768,7 +3826,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 65vk1fba34.com^
 127.0.0.1 65xps.com^
 127.0.0.1 6657f1d5a25b6.com^
-127.0.0.1 66ce98158e4f402.com^
 127.0.0.1 67frzna9e9.com^
 127.0.0.1 688de7b3822de.com^
 127.0.0.1 68d0d5e26bb0ae.com^
@@ -3800,6 +3857,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 7029c575c3ee.com^
 127.0.0.1 70ee6484605f.com^
 127.0.0.1 712e2a170bb3.com^
+127.0.0.1 71692fai4cc0.com^
 127.0.0.1 71a30cae934e.com^
 127.0.0.1 71bcab8994dbe2.com^
 127.0.0.1 71d7511a4861068.com^
@@ -3853,7 +3911,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 7yucu023o36p.com^
 127.0.0.1 80055404.vtt^
 127.0.0.1 806360b129d126.com^
-127.0.0.1 8092686a39ac5.com^
 127.0.0.1 810f3f9dde63ae3.com^
 127.0.0.1 8233fa03a40c92d.com^
 127.0.0.1 823bc1a6cd3f1657.com^
@@ -3878,6 +3935,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 88d7b6aa44fb8eb.com^
 127.0.0.1 88hb7evabd.com^
 127.0.0.1 89tmolir.top^
+127.0.0.1 8a78031439.com^
 127.0.0.1 8b0b17dc1f9f8010.com^
 127.0.0.1 8baf7ae42000024.com^
 127.0.0.1 8bf8170108e3304.com^
@@ -3903,6 +3961,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 93aihbjs7bv4.com^
 127.0.0.1 93c82d38a751.com^
 127.0.0.1 944e66f8683ac43c.com^
+127.0.0.1 94bc29639b.com^
 127.0.0.1 951e8b9cd72.com^
 127.0.0.1 956b2fb847d.com^
 127.0.0.1 96660970b05417.com^
@@ -3946,7 +4005,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 a337b163a0bc.com^
 127.0.0.1 a353364ec1bd19a.com^
 127.0.0.1 a35c92d96766745.com^
-127.0.0.1 a3761801a40c59b48.com^
 127.0.0.1 a3yqjsrczwwp.com^
 127.0.0.1 a40hd1mh5deq.com^
 127.0.0.1 a4mt150303tl.com^
@@ -3964,6 +4022,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 aaaaaco.com^
 127.0.0.1 aabmxezph.com^
 127.0.0.1 aafdcq.com^
+127.0.0.1 aahqiyum.com^
 127.0.0.1 aaqiycetqwx.com^
 127.0.0.1 aaxads.com^
 127.0.0.1 ab4tn.com^
@@ -3984,6 +4043,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 abgeobalancer.com^
 127.0.0.1 abgligarchan.com^
 127.0.0.1 abjectisassiez.xyz^
+127.0.0.1 ablatesgascon.cam^
 127.0.0.1 ablerivetdoubted.com^
 127.0.0.1 abluvdiscr.com^
 127.0.0.1 ablybeastssarcastic.com^
@@ -4017,7 +4077,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 accessoryoppression.com^
 127.0.0.1 accidentrepeat.com^
 127.0.0.1 acclaimrecommendation.com^
-127.0.0.1 accoladebestiality.com^
 127.0.0.1 accoladethoroughly.com^
 127.0.0.1 accommodationinfractructuretwo.com^
 127.0.0.1 accompared.club^
@@ -4037,9 +4096,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 acidlikenessdejected.com^
 127.0.0.1 acinuf.com^
 127.0.0.1 acirtpkh.com^
+127.0.0.1 acjqxrkgiiqxprg.xyz^
 127.0.0.1 ackcdn.net^
 127.0.0.1 aclickads.com^
 127.0.0.1 acloudvideos.com^
+127.0.0.1 acnqlsmfxf.xyz^
 127.0.0.1 acofrnsr44es3954b.com^
 127.0.0.1 acquirethem.com^
 127.0.0.1 acrhuqzewrius.com^
@@ -4053,6 +4114,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 actressact.com^
 127.0.0.1 actsvane.com^
 127.0.0.1 actuallysheep.com^
+127.0.0.1 aculdi.com^
 127.0.0.1 acweb.online^
 127.0.0.1 acybrccvwoftb.com^
 127.0.0.1 ad-arata.com^
@@ -4092,6 +4154,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 adbidgo.com^
 127.0.0.1 adbit.co^
 127.0.0.1 adblockanalytics.com^
+127.0.0.1 adblockervideo.com^
 127.0.0.1 adbma.com^
 127.0.0.1 adbmi.com^
 127.0.0.1 adboost.com^
@@ -4134,12 +4197,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 addiply.com^
 127.0.0.1 additionalmedia.com^
 127.0.0.1 additionsselfemployedpeachy.com^
+127.0.0.1 additionvouch.com^
 127.0.0.1 addkt.com^
 127.0.0.1 addoer.com^
 127.0.0.1 addonsmash.com^
 127.0.0.1 addresseetransportationsyndrome.com^
 127.0.0.1 addressen.club^
 127.0.0.1 addroplet.com^
+127.0.0.1 adequality.xyz^
 127.0.0.1 adex.media^
 127.0.0.1 adexchange.io^
 127.0.0.1 adexchangecloud.com^
@@ -4173,6 +4238,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 adgorithms.com^
 127.0.0.1 adgoto.com^
 127.0.0.1 adgxptnsiwxjx.com^
+127.0.0.1 adhbkatqyzqd.com^
 127.0.0.1 adhealers.com^
 127.0.0.1 adhoc4.net^
 127.0.0.1 adieusyaktop.com^
@@ -4185,6 +4251,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 adl-hunter.com^
 127.0.0.1 adlane.info^
 127.0.0.1 adlook.net^
+127.0.0.1 adme-net.com^
 127.0.0.1 admenhost.com^
 127.0.0.1 admez.com^
 127.0.0.1 admob.com^
@@ -4340,6 +4407,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 adtaily.com^
 127.0.0.1 adtaily.pl^
 127.0.0.1 adtival.com^
+127.0.0.1 adtlgc.com^
 127.0.0.1 adtng.com^
 127.0.0.1 adtoadd.com^
 127.0.0.1 adtoll.com^
@@ -4382,6 +4450,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 adverti.io^
 127.0.0.1 advertica-cdn.com^
 127.0.0.1 advertica.ae^
+127.0.0.1 advertisecountrycrunch.com^
 127.0.0.1 advertisegame.com^
 127.0.0.1 advertiserurl.com^
 127.0.0.1 advertiseworld.com^
@@ -4433,10 +4502,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 adxxx.org^
 127.0.0.1 adyoulike.com^
 127.0.0.1 adz.co.zw^
-127.0.0.1 adzchoice.com^
 127.0.0.1 adzfun.info^
 127.0.0.1 adzfun.me^
-127.0.0.1 adzhits.com^
 127.0.0.1 adzhub.com^
 127.0.0.1 adziff.com^
 127.0.0.1 adzincome.in^
@@ -4455,6 +4522,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 aeesy.com^
 127.0.0.1 aelick.com^
 127.0.0.1 aelphotog.pro^
+127.0.0.1 aentafmxkmhea.com^
 127.0.0.1 aetejxolo.com^
 127.0.0.1 aexperiod.fun^
 127.0.0.1 afa9bdfa63bf7.com^
@@ -4513,6 +4581,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 afgr9.com^
 127.0.0.1 afk-i.com^
 127.0.0.1 aflrm.com^
+127.0.0.1 afordi.com^
 127.0.0.1 africaewgrhdtb.com^
 127.0.0.1 africawin.com^
 127.0.0.1 afriflatry.co^
@@ -4613,11 +4682,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 ajkzd9h.com^
 127.0.0.1 ajrequestion.xyz^
 127.0.0.1 akeasignifica.biz^
+127.0.0.1 akielf.com^
 127.0.0.1 akingsslativ.club^
 127.0.0.1 aklglpwljiv.com^
 127.0.0.1 alaccinalcom.top^
 127.0.0.1 alawachi.net^
-127.0.0.1 albalbant.com^
 127.0.0.1 albarkale.site^
 127.0.0.1 albertonne.com^
 127.0.0.1 albireo.xyz^
@@ -4637,7 +4706,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 aliadvert.ru^
 127.0.0.1 aliencesuffe.top^
 127.0.0.1 alignclamstram.com^
-127.0.0.1 alimama.com^
 127.0.0.1 all-ti-cod.com^
 127.0.0.1 all2cnjuh34jb.com^
 127.0.0.1 allabc.com^
@@ -4732,9 +4800,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 ampugi334f.com^
 127.0.0.1 ampxchange.com^
 127.0.0.1 amre.work^
-127.0.0.1 amsfi.com^
-127.0.0.1 amsthr.com^
-127.0.0.1 amsvts.com^
 127.0.0.1 amswtlxkvzc.com^
 127.0.0.1 amtminjo.com^
 127.0.0.1 amtracking01.com^
@@ -4761,6 +4826,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 anelexpres.club^
 127.0.0.1 anerqdd.ga^
 127.0.0.1 angege.com^
+127.0.0.1 angeleswouldnt.com^
+127.0.0.1 angioidmodular.casa^
 127.0.0.1 anglended.club^
 127.0.0.1 anglishreasts.site^
 127.0.0.1 angprobinsyano.su^
@@ -4776,7 +4843,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 anncmq.com^
 127.0.0.1 annelinterv.fun^
 127.0.0.1 anniversarytoothbrush.com^
-127.0.0.1 announcedvillainvaluable.com^
 127.0.0.1 anomaloustradingmerciful.com^
 127.0.0.1 anonolpucka.com^
 127.0.0.1 anonymousads.com^
@@ -4784,6 +4850,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 anothingsev.top^
 127.0.0.1 answeredfluency.com^
 127.0.0.1 antaraimedia.com^
+127.0.0.1 antennacountingfloor.com^
 127.0.0.1 antiadblocksystems.com^
 127.0.0.1 anticipatedlying.com^
 127.0.0.1 anticipationbelieved.com^
@@ -4826,6 +4893,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 appearancefingerprintabet.com^
 127.0.0.1 appendad.com^
 127.0.0.1 appendixwarmingauthors.com^
+127.0.0.1 appfuedenough.xyz^
 127.0.0.1 applebarq.com^
 127.0.0.1 applicateco.space^
 127.0.0.1 applutysurve.xyz^
@@ -4851,13 +4919,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 aqjdigkqvmakz.com^
 127.0.0.1 aqpjyujihpbggj.com^
 127.0.0.1 arableredressalacrity.com^
+127.0.0.1 aratyr.com^
 127.0.0.1 arbitrarydefectrightfully.com^
 127.0.0.1 arccdyvgh.com^
 127.0.0.1 archhandlingperpetrate.com^
 127.0.0.1 archivendrons.xyz^
 127.0.0.1 ardesolived.club^
 127.0.0.1 ardingage.club^
-127.0.0.1 areandarm.com^
 127.0.0.1 areantaid.site^
 127.0.0.1 arearmark.club^
 127.0.0.1 areasnap.com^
@@ -4887,7 +4955,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 arrivaltroublesome.com^
 127.0.0.1 arrlnk.com^
 127.0.0.1 arrnaught.com^
-127.0.0.1 arrowkeeperdigest.com^
 127.0.0.1 arshgkcfdhgr.com^
 127.0.0.1 arsoncanteenpicky.com^
 127.0.0.1 arsonexchangefly.com^
@@ -4918,6 +4985,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 asdnow.xyz^
 127.0.0.1 asdpoi.com^
 127.0.0.1 aseadnet.com^
+127.0.0.1 asecw.xyz^
 127.0.0.1 asepurch.pro^
 127.0.0.1 asev.xyz^
 127.0.0.1 asgclickkl.com^
@@ -4928,12 +4996,15 @@ vkcdnservice.appspot.com^
 127.0.0.1 ashoupsu.com^
 127.0.0.1 ashtraysophomore.com^
 127.0.0.1 asiangfsex.com^
+127.0.0.1 asimad.com^
 127.0.0.1 askewpatienceblameless.com^
 127.0.0.1 asklots.com^
+127.0.0.1 askrswaths.casa^
 127.0.0.1 asksexually.com^
 127.0.0.1 aslaironer.com^
 127.0.0.1 aslaprason.com^
 127.0.0.1 asmodeusfields.com^
+127.0.0.1 asmsagvjbxejm.xyz^
 127.0.0.1 aso1.net^
 127.0.0.1 asoulrox.com^
 127.0.0.1 asparagusmeaninglessyearly.com^
@@ -4952,15 +5023,17 @@ vkcdnservice.appspot.com^
 127.0.0.1 assignedlikecrawford.com^
 127.0.0.1 assimilatesmartlyawfully.com^
 127.0.0.1 assisteggs.com^
+127.0.0.1 associalbde.xyz^
+127.0.0.1 associalunb.xyz^
 127.0.0.1 assumptivestation.com^
 127.0.0.1 assurancemercysneak.com^
 127.0.0.1 assuremath.com^
 127.0.0.1 astancerta.fun^
 127.0.0.1 astertour.fun^
+127.0.0.1 astop.xyz^
 127.0.0.1 astra9dlya10.com^
 127.0.0.1 astspewpaor.com^
 127.0.0.1 asundersimultaneously.com^
-127.0.0.1 asuppsttp.com^
 127.0.0.1 asuqoqsea.com^
 127.0.0.1 asuydisi.com^
 127.0.0.1 aswemaching.xyz^
@@ -5072,12 +5145,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 avickhoseman.cam^
 127.0.0.1 avkyu1tesnwy.com^
 127.0.0.1 avuvldbc.com^
-127.0.0.1 avwcupyzbccer.com^
 127.0.0.1 avwincall.info^
 127.0.0.1 awaitcola.com^
 127.0.0.1 awaitssnerp.com^
 127.0.0.1 awakeexterior.com^
 127.0.0.1 awaps.net^
+127.0.0.1 awarentew.xyz^
 127.0.0.1 away-stay.com^
 127.0.0.1 awbbcre.com^
 127.0.0.1 awbbjmp.com^
@@ -5115,8 +5188,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 awstaticdn.net^
 127.0.0.1 awsurveys.com^
 127.0.0.1 awtvnrgwxletd.com^
-127.0.0.1 axazusys.xyz^
 127.0.0.1 axeldivision.com^
+127.0.0.1 axhntisudyhmxjd.xyz^
 127.0.0.1 axill.com^
 127.0.0.1 ay.delivery^
 127.0.0.1 ayads.co^
@@ -5135,6 +5208,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 azorbe.com^
 127.0.0.1 azpresearch.club^
 127.0.0.1 aztecash.com^
+127.0.0.1 azygeydluhz.com^
 127.0.0.1 b014381c95cb.com^
 127.0.0.1 b02byun5xc3s.com^
 127.0.0.1 b07b29ceb5c.com^
@@ -5145,12 +5219,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 b142d1440666173b0.com^
 127.0.0.1 b18a21ab3c9cb53.com^
 127.0.0.1 b1f6fe5e3f0c3c8ba6.com^
+127.0.0.1 b1f72fc1be.com^
 127.0.0.1 b1fb813dc806b7d.com^
 127.0.0.1 b1fe8a95ae27823.com^
 127.0.0.1 b1g1w7wic0.com^
 127.0.0.1 b2408e4e788280e.com^
 127.0.0.1 b29f325f9383.com^
 127.0.0.1 b2e92952aa6.com^
+127.0.0.1 b370db8cb7.com^
 127.0.0.1 b3ff2cfeb6f49e.com^
 127.0.0.1 b3z29k1uxb.com^
 127.0.0.1 b400393baba7cd476a3.com^
@@ -5159,6 +5235,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 b57acfcd767.com^
 127.0.0.1 b59812ee54afcabd.com^
 127.0.0.1 b5ae848728034caddca.com^
+127.0.0.1 b5e75c56.com^
 127.0.0.1 b6aa6257a22451c.com^
 127.0.0.1 b81oidrmy82w.com^
 127.0.0.1 b88c9bd1dcedfc3.com^
@@ -5269,7 +5346,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 baresi.xyz^
 127.0.0.1 barfsmiaowpit.com^
 127.0.0.1 bargainingpeacock.com^
-127.0.0.1 bargainingrip.com^
 127.0.0.1 bargaret.club^
 127.0.0.1 barnabaslinger.com^
 127.0.0.1 baronmathematics.com^
@@ -5297,17 +5373,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 baysexthy.com^
 127.0.0.1 baztnnews24.com^
 127.0.0.1 bb1acb0ea5ddb1fed8.com^
-127.0.0.1 bb475d71fa0b1b2.com^
 127.0.0.1 bb4cf48126aab4.com^
 127.0.0.1 bbaahc.com^
+127.0.0.1 bbes.xyz^
+127.0.0.1 bbgomsvyyacndcf.xyz^
 127.0.0.1 bblo.xyz^
-127.0.0.1 bbnfcfrvjs.com^
 127.0.0.1 bbocajxn.com^
 127.0.0.1 bbom2b434493.com^
 127.0.0.1 bcdnfk.com^
 127.0.0.1 bce97f29c40fc40.com^
 127.0.0.1 bcfabscdt.com^
 127.0.0.1 bckfnohmg.com^
+127.0.0.1 bclheggx.com^
 127.0.0.1 bcloudhost.com^
 127.0.0.1 bcnewltd.club^
 127.0.0.1 bcuuipewdz.com^
@@ -5348,7 +5425,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 beevakum.net^
 127.0.0.1 beewakiy.com^
 127.0.0.1 befortugal.club^
-127.0.0.1 befriendcarawaycarbon.com^
 127.0.0.1 beginadvisor.com^
 127.0.0.1 beginnertonemerit.com^
 127.0.0.1 begrudgecorrespondence.com^
@@ -5356,7 +5432,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 behalfplead.com^
 127.0.0.1 behangneurin.casa^
 127.0.0.1 behavingsali.club^
-127.0.0.1 behybmunweid.com^
 127.0.0.1 bejolteonor.com^
 127.0.0.1 beklefkiom.com^
 127.0.0.1 belamicash.com^
@@ -5368,7 +5443,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 believeicanm.biz^
 127.0.0.1 bellyfernfoster.com^
 127.0.0.1 belongrobustgreedy.com^
-127.0.0.1 belonnanotservice.ga^
 127.0.0.1 beltudri.com^
 127.0.0.1 beludicolor.com^
 127.0.0.1 belwrite.com^
@@ -5384,6 +5458,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 benonblkd.xyz^
 127.0.0.1 benoopto.com^
 127.0.0.1 beonixom.com^
+127.0.0.1 bephamema.com^
 127.0.0.1 bepiletussar.casa^
 127.0.0.1 berningbegi.club^
 127.0.0.1 berryborrowing.com^
@@ -5394,6 +5469,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 besguses.pro^
 127.0.0.1 beshtienhr2hd8j09.com^
 127.0.0.1 besiasmere.site^
+127.0.0.1 besmeargleor.com^
+127.0.0.1 besoes.com^
 127.0.0.1 best-vpn.click^
 127.0.0.1 bestaryua.com^
 127.0.0.1 bestcontentaccess.top^
@@ -5422,7 +5499,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 betokendolous.com^
 127.0.0.1 betonpolite.com^
 127.0.0.1 betrayedgeoffrey.com^
-127.0.0.1 betrayedregretdeadline.com^
 127.0.0.1 betshucklean.com^
 127.0.0.1 bett2you.com^
 127.0.0.1 betteradsystem.com^
@@ -5438,7 +5514,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 bf1872dae47d.com^
 127.0.0.1 bfast.com^
 127.0.0.1 bfb487de1f2da5c.com^
-127.0.0.1 bfc70a51929fff2d7fe.com^
 127.0.0.1 bfe4e6d364be199.com^
 127.0.0.1 bftrlhesrlfjp.com^
 127.0.0.1 bfts.xyz^
@@ -5470,7 +5545,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 bigchoicegroup.com^
 127.0.0.1 bigprizesonline.com^
 127.0.0.1 bihamcurchef.cam^
-127.0.0.1 bihyteqy.xyz^
+127.0.0.1 bihexoipaomfjie.xyz^
 127.0.0.1 bikesmodestnotoriety.com^
 127.0.0.1 bikesseafoodchewing.com^
 127.0.0.1 bikrurda.net^
@@ -5503,6 +5578,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 biteburied.com^
 127.0.0.1 bitesizememorable.com^
 127.0.0.1 bitpcn.com^
+127.0.0.1 bitvnvjfakrik.xyz^
 127.0.0.1 bitx.tv^
 127.0.0.1 bizographics.com^
 127.0.0.1 bizrotator.com^
@@ -5524,6 +5600,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 blanketurban.com^
 127.0.0.1 blastcahs.com^
 127.0.0.1 blazingswatstated.com^
+127.0.0.1 bleinu.com^
 127.0.0.1 blessgarments.com^
 127.0.0.1 blessingpudding.com^
 127.0.0.1 blinkadr.com^
@@ -5558,6 +5635,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 bmxg.xyz^
 127.0.0.1 bn5x.net^
 127.0.0.1 bnbxwdkxccxfsn.com^
+127.0.0.1 bnc1m.com^
+127.0.0.1 bnc2m.com^
+127.0.0.1 bnc3m.com^
+127.0.0.1 bnc4m.com^
+127.0.0.1 bnc5m.com^
 127.0.0.1 bngpt.com^
 127.0.0.1 bngwlt.com^
 127.0.0.1 bnhtml.com^
@@ -5597,6 +5679,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 bohowhepsandked.info^
 127.0.0.1 boilstaircasehug.com^
 127.0.0.1 boinkcash.com^
+127.0.0.1 bojebyze.com^
+127.0.0.1 bojtguluck.com^
 127.0.0.1 bokrelri.com^
 127.0.0.1 bolahepelm.com^
 127.0.0.1 bolizirs.com^
@@ -5646,6 +5730,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 boulevardgoodnesslassitude.com^
 127.0.0.1 bounce.bar^
 127.0.0.1 boustahe.com^
+127.0.0.1 boutiquerestless.com^
 127.0.0.1 bowcompetitionbesides.com^
 127.0.0.1 bowells.com^
 127.0.0.1 bowerywill.com^
@@ -5681,6 +5766,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 brayerspenta.com^
 127.0.0.1 brazendistil.com^
 127.0.0.1 brazenserialsociety.com^
+127.0.0.1 brdletywiuawc.xyz^
 127.0.0.1 brdmin.com^
 127.0.0.1 breadpro.com^
 127.0.0.1 breadstringscrashed.com^
@@ -5736,6 +5822,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 brunettebow.com^
 127.0.0.1 bruvwmrxudd.com^
 127.0.0.1 bsdaban.com^
+127.0.0.1 bshrdr.com^
 127.0.0.1 bsjjtpkc.com^
 127.0.0.1 bskevojpydks.com^
 127.0.0.1 bst-offers.com^
@@ -5776,6 +5863,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 bumblecash.com^
 127.0.0.1 bungalowfollowbestowed.com^
 127.0.0.1 bunnymediaserver.com^
+127.0.0.1 bupatp.com^
 127.0.0.1 bupserge.com^
 127.0.0.1 burbibape.com^
 127.0.0.1 bureaucracyambiguousfellow.com^
@@ -5840,13 +5928,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 c7e4d34b2afc3.com^
 127.0.0.1 c93b1cd7829ee.com^
 127.0.0.1 c9emgwai66zi.com^
+127.0.0.1 ca4363f2035eb8674cc42e2787ffb3bb.bar^
 127.0.0.1 ca4ec6874a33a13.com^
 127.0.0.1 ca638b6c5a45059.com^
 127.0.0.1 ca72472d7aee.com^
 127.0.0.1 caac1761385.com^
 127.0.0.1 cab-too-low.com^
 127.0.0.1 cabineteen.club^
-127.0.0.1 cacfbf85ad2005e4c31.com^
+127.0.0.1 cabnnr.com^
 127.0.0.1 cadfixbig.site^
 127.0.0.1 cadsabs.com^
 127.0.0.1 cadsabz.com^
@@ -5865,7 +5954,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 cadsokz.com^
 127.0.0.1 cadspms.com^
 127.0.0.1 cadspmz.com^
+127.0.0.1 caeebxhzg.com^
 127.0.0.1 cafe58cc6d0ac.com^
+127.0.0.1 cafegraha.com^
 127.0.0.1 cagelrib.net^
 127.0.0.1 caglaikr.net^
 127.0.0.1 cagothie.net^
@@ -5875,6 +5966,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 calculatorconceivenonetheless.com^
 127.0.0.1 calfsbreedstax.com^
 127.0.0.1 callburdenblizzard.com^
+127.0.0.1 callelundotre.xyz^
 127.0.0.1 calorieintimidating.com^
 127.0.0.1 calumnythreaten.com^
 127.0.0.1 calvali.com^
@@ -5905,16 +5997,17 @@ vkcdnservice.appspot.com^
 127.0.0.1 captivatecustomergentlemen.com^
 127.0.0.1 capultytrese.xyz^
 127.0.0.1 caradstag.casa^
+127.0.0.1 caraganaarborescenspendula.com^
 127.0.0.1 carbonads.com^
 127.0.0.1 cardinalimprovementscartrige.com^
 127.0.0.1 cardiwersg.com^
-127.0.0.1 cardmrket.com^
 127.0.0.1 careersincorrectquickie.com^
-127.0.0.1 carelacysince.com^
 127.0.0.1 cargonurture.com^
 127.0.0.1 caribedtucana.cam^
 127.0.0.1 carotolbhavan.com^
+127.0.0.1 carpi3fnusbetgu5lus.com^
 127.0.0.1 carpreposition.com^
+127.0.0.1 carriedmycosis.com^
 127.0.0.1 carsickstrodeproductive.com^
 127.0.0.1 cartstick.com^
 127.0.0.1 cascadehunterelton.com^
@@ -5932,7 +6025,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 cashtrafic.info^
 127.0.0.1 casinohacksforyou.com^
 127.0.0.1 caspion.com^
-127.0.0.1 casseroleenvioustransgress.com^
 127.0.0.1 cassettepreceding.com^
 127.0.0.1 casterpretic.com^
 127.0.0.1 catastrophetray.com^
@@ -5965,10 +6057,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 ccc1063d848b.com^
 127.0.0.1 ccd8450321.com^
 127.0.0.1 ccdgav.com^
+127.0.0.1 ccjysdii.xyz^
 127.0.0.1 cconseent.info^
 127.0.0.1 cd4348d1133.com^
 127.0.0.1 cd490573c64f3f.com^
 127.0.0.1 cd828.com^
+127.0.0.1 cdn-server.cc^
 127.0.0.1 cdn-server.top^
 127.0.0.1 cdn1.pro^
 127.0.0.1 cdn4ads.com^
@@ -6020,6 +6114,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 centralnervous.net^
 127.0.0.1 centuriesactionperfectly.com^
 127.0.0.1 centwrite.com^
+127.0.0.1 cephalanthuseoccidu4entalis.com^
 127.0.0.1 cepractliq.top^
 127.0.0.1 ceraitoa.com^
 127.0.0.1 cerberushead1o07.com^
@@ -6040,6 +6135,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 cfasync.tk^
 127.0.0.1 cfatceaikgxdhv.com^
 127.0.0.1 cfcloudcdn.com^
+127.0.0.1 cfegwufto.xyz^
 127.0.0.1 cfgr1.com^
 127.0.0.1 cfrsqptn.com^
 127.0.0.1 cfts1tifqr.com^
@@ -6054,7 +6150,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 chaiseviscountsturgeon.com^
 127.0.0.1 chaissoo.com^
 127.0.0.1 chalkedapplaudincident.com
-127.0.0.1 challengedeprave.com^
 127.0.0.1 chameleon.ad^
 127.0.0.1 chancesmusicalinterrogation.com^
 127.0.0.1 chandlerimageproduct.com^
@@ -6099,6 +6194,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 cheetieaha.com^
 127.0.0.1 cheewait.net^
 127.0.0.1 cheewhoa.net^
+127.0.0.1 chegostyzi.com^
+127.0.0.1 chegrupsishu.com^
 127.0.0.1 chekaksam.com^
 127.0.0.1 cheksoam.com^
 127.0.0.1 chelaxeshi.com^
@@ -6114,6 +6211,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 chiasephim.xyz^
 127.0.0.1 chichayen.com^
 127.0.0.1 chickencashier.com^
+127.0.0.1 chigloxixa.com^
 127.0.0.1 chigrikecy.pro^
 127.0.0.1 chiliadv.com^
 127.0.0.1 chimaerason.com^
@@ -6144,6 +6242,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 choupsee.com^
 127.0.0.1 chpfgx.com^
 127.0.0.1 chpok.pw^
+127.0.0.1 chrigm.com^
 127.0.0.1 christingera.site^
 127.0.0.1 christmasporn.top^
 127.0.0.1 chronicads.com^
@@ -6159,14 +6258,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 chygkk.com^
 127.0.0.1 chykohija.pro^
 127.0.0.1 chylenogre.com^
+127.0.0.1 chypturotu.com^
 127.0.0.1 chystechagre.pro^
+127.0.0.1 chywupefo.com^
 127.0.0.1 cialanaly.club^
 127.0.0.1 ciendsbusi.top^
 127.0.0.1 cieopennisd.top^
 127.0.0.1 cietypostcoa.top^
 127.0.0.1 cigaretteprovenaffected.com^
+127.0.0.1 cijexuthi.com^
 127.0.0.1 ciksolre.net^
 127.0.0.1 cilcountee.top^
+127.0.0.1 cinglecitrals.com^
 127.0.0.1 ciphuptace.com^
 127.0.0.1 circuitrestbeds.com^
 127.0.0.1 circumferencefurfavour.com^
@@ -6188,7 +6291,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 cizykytha.com^
 127.0.0.1 cjezgbjbltos.com^
 127.0.0.1 cjf25jklrwqt.com^
-127.0.0.1 cjlqwfpkwi.com^
 127.0.0.1 cjt1.net^
 127.0.0.1 ckjlmqgxy.com^
 127.0.0.1 ckrf1.com^
@@ -6216,6 +6318,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 cleanbrowser.network^
 127.0.0.1 cleaneryelded.site^
 127.0.0.1 cleanmediaads.com^
+127.0.0.1 cleanupcokesunny.com^
 127.0.0.1 clear-request.com^
 127.0.0.1 clearac.com^
 127.0.0.1 clearadnetwork.com^
@@ -6291,6 +6394,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 closestfantasticpoll.com^
 127.0.0.1 closiner.com^
 127.0.0.1 closkeyrespond.com^
+127.0.0.1 closureevaporatefume.com^
 127.0.0.1 closuremammalfury.com^
 127.0.0.1 clotezar.com^
 127.0.0.1 clotherinde.space^
@@ -6318,6 +6422,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 cmfads.com^
 127.0.0.1 cmpgns.net^
 127.0.0.1 cmrdr.com^
+127.0.0.1 cndeccsqtmjyh.com^
 127.0.0.1 cneeittlirec.club^
 127.0.0.1 cnnected.org^
 127.0.0.1 cnolhzguwnfgk.com^
@@ -6331,7 +6436,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 coccusadmanlob.com^
 127.0.0.1 coccyxwickimp.com^
 127.0.0.1 cocktaildejectionknights.com^
-127.0.0.1 cocoafortunately.com^
 127.0.0.1 codedexchange.com^
 127.0.0.1 codefund.app^
 127.0.0.1 codefund.io^
@@ -6369,6 +6473,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 collectrum.com^
 127.0.0.1 colletsopelu.cam^
 127.0.0.1 colliersads.com^
+127.0.0.1 colltz.com^
 127.0.0.1 colonialismresolute.com^
 127.0.0.1 colouredcavity.com^
 127.0.0.1 colpursehowl.com^
@@ -6405,6 +6510,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 committeecoffeebad.com^
 127.0.0.1 commonvivacious.com^
 127.0.0.1 communityi.biz^
+127.0.0.1 comorw.com^
 127.0.0.1 companycouncilbreeze.com^
 127.0.0.1 compartmentnovel.com^
 127.0.0.1 compartmentnutsnovember.com^
@@ -6415,11 +6521,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 complicatedgeneratelens.com^
 127.0.0.1 complicatedincite.com^
 127.0.0.1 complicatedtelegraph.com^
-127.0.0.1 composedwatchman.com^
+127.0.0.1 complimentscarp.com^
 127.0.0.1 composurepectoral.com^
+127.0.0.1 composurevulnerable.com^
 127.0.0.1 comprehendstrategic.com^
 127.0.0.1 comprehensiveunconsciousblast.com^
 127.0.0.1 comproliverton.pro^
+127.0.0.1 computeterrifyingobdurate.com^
 127.0.0.1 comunicazio.com^
 127.0.0.1 comwgi.com^
 127.0.0.1 conceiveintentlybookie.com^
@@ -6532,7 +6640,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 copysign.link^
 127.0.0.1 corateencountry.pro^
 127.0.0.1 corebelbyrri.com^
-127.0.0.1 corkysound.com^
 127.0.0.1 cornerbut.com^
 127.0.0.1 cornfloweramnesty.com^
 127.0.0.1 correspondencecellularstudious.com^
@@ -6582,7 +6689,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 cpaway.com^
 127.0.0.1 cpays.com^
 127.0.0.1 cpcmart.com^
-127.0.0.1 cphjydduuh.com^
 127.0.0.1 cpl1.ru^
 127.0.0.1 cpm-ad.com^
 127.0.0.1 cpm.biz^
@@ -6610,6 +6716,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 cqxgtafgnc.com^
 127.0.0.1 cqyirsc.com^
 127.0.0.1 cr-brands.net^
+127.0.0.1 cradleton.xyz^
 127.0.0.1 cragbrasyeps.com^
 127.0.0.1 crakbanner.com^
 127.0.0.1 crakcash.com^
@@ -6637,6 +6744,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 cretgate.com^
 127.0.0.1 crewelkain.com^
 127.0.0.1 cribsectstux.com^
+127.0.0.1 cridiqrtf.com^
 127.0.0.1 criesredden.com^
 127.0.0.1 criminglynuk.pro^
 127.0.0.1 crisdomson.com^
@@ -6644,6 +6752,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 criticbrass.com^
 127.0.0.1 criticismvillagegun.com^
 127.0.0.1 crm4d.com^
+127.0.0.1 croakflabbyconsume.com^
 127.0.0.1 crocoads.com^
 127.0.0.1 crocodilemounted.com^
 127.0.0.1 crocopop.com^
@@ -6666,6 +6775,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ctasnet.com^
 127.0.0.1 ctationsfthe.biz^
 127.0.0.1 ctdhylltfighs.com^
+127.0.0.1 ctetgwxrgaldb.xyz^
 127.0.0.1 ctiontouritysh.club^
 127.0.0.1 ctivesprepaired.club^
 127.0.0.1 ctjvkaqiekquag.com^
@@ -6700,6 +6810,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 curriculture.com^
 127.0.0.1 currietory.xyz^
 127.0.0.1 curtisfrierson.com^
+127.0.0.1 curtlychit.com^
 127.0.0.1 curveconjure.com^
 127.0.0.1 custodyabsolutiondrawback.com^
 127.0.0.1 cuterbond.com^
@@ -6723,8 +6834,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 cykynethe.com^
 127.0.0.1 cyneburg-yam.com^
 127.0.0.1 cyrasi.com^
+127.0.0.1 cyruqdmagde.xyz^
 127.0.0.1 cytrkxfzkxrjv.com^
 127.0.0.1 cyulewkqz.com^
+127.0.0.1 cyxvtitmydfg.com^
 127.0.0.1 cyzdyiccpwx.com^
 127.0.0.1 cyzyyv.com^
 127.0.0.1 czechose.com^
@@ -6741,7 +6854,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 d2ab631af57.com^
 127.0.0.1 d2ship.com^
 127.0.0.1 d3b75cfc88a9.com^
-127.0.0.1 d3e44a82c2df88.com^
+127.0.0.1 d4624d2bc2.com^
 127.0.0.1 d4a77d8bc81ae17.com^
 127.0.0.1 d4d48974197052ea.com^
 127.0.0.1 d58bf31082fa97.com^
@@ -6754,7 +6867,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 d7dc491d44.com^
 127.0.0.1 d869381a42af33b.com^
 127.0.0.1 d8d4ab7673.com^
-127.0.0.1 d99sure.xyz^
 127.0.0.1 d9kvn70l4ogn.com^
 127.0.0.1 da-ads.com^
 127.0.0.1 da60995df247712.com^
@@ -6800,7 +6912,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 danmeneldur.com^
 127.0.0.1 dansotant.xyz^
 127.0.0.1 dantbritingd.club^
-127.0.0.1 danyhazo.online^
 127.0.0.1 danzabucks.com^
 127.0.0.1 danzhallfes.com^
 127.0.0.1 dapper.net^
@@ -6838,6 +6949,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 dbclix.com^
 127.0.0.1 dblmove.com^
 127.0.0.1 dbmdoldiqf.com^
+127.0.0.1 dbnghpxnbqpquh.com^
 127.0.0.1 dbvault.net^
 127.0.0.1 dcdz5xfv4nws.com^
 127.0.0.1 dcfkalvbcs.com^
@@ -6879,6 +6991,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 deductdoorwayfig.com^
 127.0.0.1 deductionorderly.com^
 127.0.0.1 deedeedwinos.com^
+127.0.0.1 deefauph.com^
 127.0.0.1 deemsteppemental.com^
 127.0.0.1 deepcolander.com^
 127.0.0.1 deeperindoorsrestriction.com^
@@ -6891,6 +7004,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 definedlaunching.com^
 127.0.0.1 definitial.com^
 127.0.0.1 defpush.com^
+127.0.0.1 degreenoxious.com^
 127.0.0.1 degrtdqvaansd.com^
 127.0.0.1 degryrubi.com^
 127.0.0.1 dehtxweiq.com^
@@ -6961,6 +7075,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 deskminkgnu.com^
 127.0.0.1 desolatethings.com^
 127.0.0.1 despisenoughtshit.com^
+127.0.0.1 destineddominant.com^
 127.0.0.1 deswhatlike.biz^
 127.0.0.1 detachedbates.com^
 127.0.0.1 detailextentprevail.com^
@@ -6992,6 +7107,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 dfdybylchujl.com^
 127.0.0.1 dfgbalon.com^
 127.0.0.1 dfgchcnqsa.com^
+127.0.0.1 dftvhvapqxs.xyz^
 127.0.0.1 dgafgadsgkjg.top^
 127.0.0.1 dgmatix.com^
 127.0.0.1 dgmaustralia.com^
@@ -7011,6 +7127,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 diamondtraff.com^
 127.0.0.1 dianomioffers.co.uk^
 127.0.0.1 diapersophisticated.com^
+127.0.0.1 diaryeavesdropdecipher.com^
 127.0.0.1 dibsemey.com^
 127.0.0.1 diclotrans.com^
 127.0.0.1 dicularstors.top^
@@ -7020,7 +7137,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 difficultydilapidationsodium.com^
 127.0.0.1 digadser.com^
 127.0.0.1 digestiontub.com^
-127.0.0.1 digeyule.xyz^
 127.0.0.1 digitaldsp.com^
 127.0.0.1 digitrevenue.com^
 127.0.0.1 digressremarkableconfide.com^
@@ -7030,23 +7146,26 @@ vkcdnservice.appspot.com^
 127.0.0.1 dikeletwhelk.cam^
 127.0.0.1 dikkoplida.cam^
 127.0.0.1 dilateneedybeyond.com^
+127.0.0.1 dilemmaemergencyleisure.com^
 127.0.0.1 dilemmatryingless.com^
 127.0.0.1 dilruwha.net^
 127.0.0.1 dilutecellar.com^
 127.0.0.1 dilutionjavelinexterminator.com^
+127.0.0.1 dimeromaean.com^
 127.0.0.1 dimessing-parker.com^
 127.0.0.1 dimfarlow.com^
 127.0.0.1 diminishkidnapping.com^
 127.0.0.1 dimpawlam.com^
+127.0.0.1 dimpuxoh.net^
 127.0.0.1 dinclinx.com^
 127.0.0.1 diningprefixmyself.com^
+127.0.0.1 dinnerweather.com^
 127.0.0.1 dinovala.com^
 127.0.0.1 dintrateim.top^
 127.0.0.1 dionax.com^
 127.0.0.1 dioneperson.pro^
 127.0.0.1 dipegrathy.com^
 127.0.0.1 diplomadosagedream.com^
-127.0.0.1 diplomaticlastingpert.com^
 127.0.0.1 diptaich.com^
 127.0.0.1 directaclick.com^
 127.0.0.1 directadvert.net^
@@ -7162,9 +7281,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 dlxrlc2ni2.com^
 127.0.0.1 dlyzcopkko.com^
 127.0.0.1 dmhpgshchfoawtn.com^
+127.0.0.1 dmnprx.com^
 127.0.0.1 dmsqzqvuapb.com^
 127.0.0.1 dmvbdfblevxvx.com^
+127.0.0.1 dmvbonnha.com^
 127.0.0.1 dmxftmoqz.com^
+127.0.0.1 dmzjmp.com^
 127.0.0.1 dnbizcdn.com^
 127.0.0.1 dnemkhkbsdbl.com^
 127.0.0.1 doagleeh.com^
@@ -7199,7 +7321,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 donecooler.com^
 127.0.0.1 donescaffold.com^
 127.0.0.1 donkeyrecentfaith.com^
-127.0.0.1 dontaxoaf.com^
 127.0.0.1 doolooku.net^
 127.0.0.1 dooloust.net^
 127.0.0.1 doomail.org^
@@ -7276,6 +7397,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 dressuresl.top^
 127.0.0.1 dreyeli.info^
 127.0.0.1 driverwinggranulated.com^
+127.0.0.1 droopingballisticscenario.com^
 127.0.0.1 droppedrolling.com^
 127.0.0.1 dropsymooant.com^
 127.0.0.1 dropzenad.com^
@@ -7294,7 +7416,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 dsstrk.com^
 127.0.0.1 dsufferent.top^
 127.0.0.1 dsultra.com^
-127.0.0.1 dt2xr6g2i5.com^
 127.0.0.1 dtcpdvnojquf.com^
 127.0.0.1 dtcstcltwzuno.com^
 127.0.0.1 dtjvwspznqgtwf.com^
@@ -7320,8 +7441,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 duetads.com^
 127.0.0.1 duetgypsyantis.com^
 127.0.0.1 dufibepe.com^
+127.0.0.1 dugothitachan.com^
 127.0.0.1 duhhgazz.com^
 127.0.0.1 duhochid.net^
+127.0.0.1 dukagrygro.com^
 127.0.0.1 dukirliaon.com^
 127.0.0.1 dulillipupan.com^
 127.0.0.1 dulnarpatro.top^
@@ -7338,8 +7461,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 dustycondition.com^
 127.0.0.1 dutirtougaon.com^
 127.0.0.1 dutorterraom.com^
+127.0.0.1 duujslachc.xyz^
 127.0.0.1 duxumpou.com^
 127.0.0.1 dvaminusodin.net^
+127.0.0.1 dvitohrrmq.xyz^
+127.0.0.1 dvnmyltt.xyz^
 127.0.0.1 dvoyy3qexr.com^
 127.0.0.1 dvtnrwppxk.com^
 127.0.0.1 dvucdnv.com^
@@ -7350,6 +7476,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 dxpxlt.com^
 127.0.0.1 dxrzzmhwdp.com^
 127.0.0.1 dycej.com^
+127.0.0.1 dydjxvazbj.com^
 127.0.0.1 dyecowwhy.com^
 127.0.0.1 dyingdesignscharming.com^
 127.0.0.1 dyino.com^
@@ -7392,9 +7519,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 e9590c90a8.com^
 127.0.0.1 e9c1khhwn4uf.com^
 127.0.0.1 e9d1f13c08d.com^
+127.0.0.1 ea1a7e5216.com^
 127.0.0.1 ea1abaf867.com^
+127.0.0.1 ea38b1fdc5.com^
 127.0.0.1 ea6353e47e0ab3f78.com^
 127.0.0.1 ea978ca12bb65.com^
+127.0.0.1 eaaltkvtuge.com^
 127.0.0.1 eabids.com^
 127.0.0.1 eaboutvth.biz^
 127.0.0.1 eac0823ca94e3c07.com^
@@ -7413,6 +7543,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 earchcreastil.top^
 127.0.0.1 earchmess.fun^
 127.0.0.1 eardepth-prisists.com^
+127.0.0.1 earlapspur.com^
 127.0.0.1 earliestinspectprone.com^
 127.0.0.1 earlinggea.info^
 127.0.0.1 earnbigo.com^
@@ -7440,6 +7571,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 easygoingtouchybribe.com^
 127.0.0.1 easylist-to.xyz^
 127.0.0.1 easystopadblock.com^
+127.0.0.1 eaterenhanced.com^
 127.0.0.1 eatsidebicep.com^
 127.0.0.1 eavesdroppingsickleemotionally.com^
 127.0.0.1 eawp2ra7.top^
@@ -7471,7 +7603,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 ecpms.net^
 127.0.0.1 ecsfunhget.com^
 127.0.0.1 ecsqyotk.com^
-127.0.0.1 ecto-ecto-uno.com^
 127.0.0.1 ectoralmin.fun^
 127.0.0.1 ed9wkbpy.com^
 127.0.0.1 edampeci.com^
@@ -7517,6 +7648,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 eenfertyred.top^
 127.0.0.1 eengaums.com^
 127.0.0.1 eensoans.com^
+127.0.0.1 eererg.com^
 127.0.0.1 eergaroa.com^
 127.0.0.1 eergithi.com^
 127.0.0.1 eergurty.net^
@@ -7535,8 +7667,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 effectivecpmgate.com^
 127.0.0.1 effectivedisplayformat.com^
 127.0.0.1 effectivemeasure.net^
+127.0.0.1 effectiveperformanceformat.com^
 127.0.0.1 effectpinching.com^
 127.0.0.1 effectwringoverreact.com^
+127.0.0.1 efficaciousart.com^
 127.0.0.1 efficiencycypressregarding.com^
 127.0.0.1 efficientapplesimulator.com^
 127.0.0.1 effixtile-inceive.com^
@@ -7551,15 +7685,17 @@ vkcdnservice.appspot.com^
 127.0.0.1 egxlbyokjk.com^
 127.0.0.1 ehnjtmqchrub.com^
 127.0.0.1 ehu96t2p.com^
+127.0.0.1 eighteenmedal.com^
 127.0.0.1 eikegolehem.com^
+127.0.0.1 eissop.com^
 127.0.0.1 eiteratebef.top^
 127.0.0.1 eithereda.fun^
 127.0.0.1 eitherunkindvapour.com^
+127.0.0.1 eitiso.com^
 127.0.0.1 eivbjsegbino.com^
 127.0.0.1 ejdkqclkzq.com^
 127.0.0.1 ejectfeudburly.com^
 127.0.0.1 ejectsurvivalfollower.com^
-127.0.0.1 ejirytuw.xyz^
 127.0.0.1 ejoonsoo.net^
 127.0.0.1 ejurzsax.com^
 127.0.0.1 ekansovi.com^
@@ -7614,7 +7750,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 emolapnay.com^
 127.0.0.1 emotersjervina.com^
 127.0.0.1 emotificc.top^
-127.0.0.1 emotionalballotneedlework.com^
 127.0.0.1 emotionpiousconformity.com^
 127.0.0.1 empirelayer.club^
 127.0.0.1 empiremoney.com^
@@ -7682,11 +7817,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 entsnotesq.fun^
 127.0.0.1 enumerateenvironment.com^
 127.0.0.1 enumeraterunnerscommence.com^
+127.0.0.1 enviablewaistwhereabouts.com^
 127.0.0.1 enviousfundraiserbelonged.com^
 127.0.0.1 environymsc.info^
 127.0.0.1 envyemerged.com^
 127.0.0.1 envyindebted.com^
 127.0.0.1 eo62cocntx.com^
+127.0.0.1 eobgrawc.xyz^
 127.0.0.1 eocceucbqnu.com^
 127.0.0.1 eofgreatid.biz^
 127.0.0.1 eondunpea.com^
@@ -7703,6 +7840,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 epicgameads.com^
 127.0.0.1 epnredirect.ru^
 127.0.0.1 epochokaypeerless.com^
+127.0.0.1 epsesy.com^
 127.0.0.1 epu.sh^
 127.0.0.1 eqads.com^
 127.0.0.1 eqfgc.com^
@@ -7736,6 +7874,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 erstopnyrt.online^
 127.0.0.1 ersunt.com^
 127.0.0.1 ertmained.club^
+127.0.0.1 eruptneuroticstealing.com^
 127.0.0.1 eruvpdymynpjw.xyz^
 127.0.0.1 ervicoren.online^
 127.0.0.1 es54i9g7p7xh.com^
@@ -7754,7 +7893,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 eshncdkjp.com^
 127.0.0.1 esignificanvi.info^
 127.0.0.1 estafair.com^
-127.0.0.1 esteemencyclopediagodmother.com^
 127.0.0.1 esteephy.net^
 127.0.0.1 estferdita.top^
 127.0.0.1 estoopsi.com^
@@ -7764,6 +7902,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 esuuqqdmsuil.com^
 127.0.0.1 eswaterialw.top^
 127.0.0.1 etcodes.com^
+127.0.0.1 etetum.com^
 127.0.0.1 ethamake.club^
 127.0.0.1 ethemuseu.biz^
 127.0.0.1 etheopportu.biz^
@@ -7821,7 +7960,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 ewooe6df.com^
 127.0.0.1 ewrerew29w09.com^
 127.0.0.1 ewruuqe5p8ca.com^
+127.0.0.1 ewxewjponmh.xyz^
 127.0.0.1 examinerprospectsbutton.com^
+127.0.0.1 examscradle.com^
 127.0.0.1 exanae.com^
 127.0.0.1 excdnrdsu.com^
 127.0.0.1 exceedinglydiscovered.com^
@@ -7830,7 +7971,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 exceptionimageknife.com^
 127.0.0.1 exchancetaur.info^
 127.0.0.1 exchangedaudacious.com^
-127.0.0.1 exchangepresumeethel.com^
 127.0.0.1 excitedyou.biz^
 127.0.0.1 excludeneighbourlyattempting.com^
 127.0.0.1 excuseparen.com^
@@ -7941,6 +8081,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 fadsokz.com^
 127.0.0.1 fadspms.com^
 127.0.0.1 fadvindictive.com^
+127.0.0.1 fae46gussylvatica.com^
 127.0.0.1 fagaxesea.com^
 127.0.0.1 faggrim.com^
 127.0.0.1 fagold.xyz^
@@ -7968,6 +8109,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 fancyfourthvolcano.com^
 127.0.0.1 fandelcot.com^
 127.0.0.1 fandmo.com^
+127.0.0.1 fanumi.com^
 127.0.0.1 faqrdrkwdhqgug.com^
 127.0.0.1 faracoon.com^
 127.0.0.1 farcdnf.com^
@@ -7989,6 +8131,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 fastenpaganhelm.com^
 127.0.0.1 fastpopclick.com^
 127.0.0.1 fastpopunder.com^
+127.0.0.1 fastred.biz^
 127.0.0.1 fatchilli.media^
 127.0.0.1 fatherceremony.com^
 127.0.0.1 fathuntsgall.com^
@@ -8018,6 +8161,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 fccinteractive.com^
 127.0.0.1 fcdnmkc.com^
 127.0.0.1 fcfd5de4b3be3.com^
+127.0.0.1 fckjoujpsna.xyz^
 127.0.0.1 fd555b2faf5a40c.com^
 127.0.0.1 fd7qz88ckd.com^
 127.0.0.1 fdbtvavxtfvpbx.com^
@@ -8063,7 +8207,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 feljack.com^
 127.0.0.1 femininefurrow.com^
 127.0.0.1 feministascertained.com^
-127.0.0.1 fenailany.com^
 127.0.0.1 fenixm.com^
 127.0.0.1 fenrunwayradiant.com^
 127.0.0.1 feredgurned.xyz^
@@ -8138,9 +8281,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 finistentcou.top^
 127.0.0.1 finitiesstaffec.top^
 127.0.0.1 finized.co^
+127.0.0.1 fiorenetwork.com^
 127.0.0.1 firefeeder.com^
 127.0.0.1 firescorrelationprodigy.com^
-127.0.0.1 firewoodnativewoodlands.com^
 127.0.0.1 fireworkssetstill.com^
 127.0.0.1 firexclamation.com^
 127.0.0.1 firingair.com^
@@ -8148,6 +8291,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 first-rate.com^
 127.0.0.1 firstadsolution.com^
 127.0.0.1 firstlightera.com^
+127.0.0.1 firstlychivw.com^
 127.0.0.1 firtribe.com^
 127.0.0.1 fishermanmartial.com^
 127.0.0.1 fistcartyped.casa^
@@ -8200,10 +8344,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 floordisclosewhereas.com^
 127.0.0.1 flopinclose.com^
 127.0.0.1 floraltaperiez.xyz^
-127.0.0.1 flowerythug.com^
 127.0.0.1 flowln.com^
 127.0.0.1 flownabbot.com^
 127.0.0.1 flowndescendenttucked.com^
+127.0.0.1 flowsearch.info^
 127.0.0.1 flowwiththetide.xyz^
 127.0.0.1 flrdra.com^
 127.0.0.1 fluencymister.com^
@@ -8214,10 +8358,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 flux16.com^
 127.0.0.1 fluxads.com^
 127.0.0.1 fluxioncytasic.com^
+127.0.0.1 fluxy.xyz^
 127.0.0.1 flxargtrgwt.com^
 127.0.0.1 flycheapen.com^
 127.0.0.1 fmebili.info^
 127.0.0.1 fmkfzc.com^
+127.0.0.1 fmpannkmn.xyz^
 127.0.0.1 fmpub.net^
 127.0.0.1 fmsads.com^
 127.0.0.1 fmsde0dv2j54.com^
@@ -8244,8 +8390,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 followfact.com^
 127.0.0.1 foloatoo.com^
 127.0.0.1 fondledcarnose.casa^
+127.0.0.1 fondnatural.com^
 127.0.0.1 fontainsuny.club^
-127.0.0.1 fontawfully.com^
 127.0.0.1 fontfewer.com^
 127.0.0.1 foocheeb.net^
 127.0.0.1 foodaino.net^
@@ -8263,6 +8409,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 forced-lose.de^
 127.0.0.1 forcefuldirect.com^
 127.0.0.1 fordpeculiarity.com^
+127.0.0.1 foregroundheirloom.com^
 127.0.0.1 foremaneasierperiods.com^
 127.0.0.1 foremangreek.com^
 127.0.0.1 forepresently.com^
@@ -8349,14 +8496,16 @@ vkcdnservice.appspot.com^
 127.0.0.1 frontierdough.com^
 127.0.0.1 frookshop-winsive.com^
 127.0.0.1 frsuli.com^
+127.0.0.1 frtya.com^
+127.0.0.1 frtyd.com^
 127.0.0.1 frustratingtabletaltered.com^
-127.0.0.1 frustrationstudy.com^
 127.0.0.1 fruzrotula.com^
 127.0.0.1 fryawlauk.com^
 127.0.0.1 fryhecticcolonize.com^
 127.0.0.1 fryirktan.com^
 127.0.0.1 fsalfrwdr.com^
 127.0.0.1 fsitel.com^
+127.0.0.1 fsobjvtkew.com^
 127.0.0.1 ftjcfx.com^
 127.0.0.1 ftklr.com^
 127.0.0.1 ftliokfhtyijhl.com^
@@ -8377,9 +8526,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 funkscar.com^
 127.0.0.1 funtikapa.info^
 127.0.0.1 fupzhtvo.com^
+127.0.0.1 fuqxpjxay.com^
 127.0.0.1 furmnas.com^
 127.0.0.1 furrowmaidphantom.com^
-127.0.0.1 furwayfareracerbity.com^
+127.0.0.1 fuse-cloud.com^
 127.0.0.1 fuseplatform.net^
 127.0.0.1 fusepsywi.com^
 127.0.0.1 fusionads.net^
@@ -8393,8 +8543,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 fwnowvgk.com^
 127.0.0.1 fwrrcnkzn5ik.com^
 127.0.0.1 fxdepo.com^
+127.0.0.1 fxjbosijndirva.xyz^
 127.0.0.1 fyhishushe.com^
 127.0.0.1 fykmahfa.com^
+127.0.0.1 fykqixiyyd.com^
 127.0.0.1 fythavoshu.com^
 127.0.0.1 fz5akngy5o6r.com^
 127.0.0.1 fzehxxsdxyfg.com^
@@ -8404,7 +8556,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 g22rbb7.com^
 127.0.0.1 g2440001011.com^
 127.0.0.1 g2546417787.com^
-127.0.0.1 g27zkdvsxl.com^
 127.0.0.1 g2921554487.com^
 127.0.0.1 g3j2wzmon8b.com^
 127.0.0.1 g5fzq2l.com^
@@ -8494,12 +8645,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 gchgao.com^
 127.0.0.1 gcomrarlta.com^
 127.0.0.1 gconfirmat.fun^
-127.0.0.1 gcxjczooe.com^
 127.0.0.1 gdcjzyfjwvyqvq.com^
 127.0.0.1 gddpmmuubwm.xyz^
 127.0.0.1 gdl5vtbbv0lj.com^
 127.0.0.1 gdmconvtrck.com^
 127.0.0.1 gdmdigital.com^
+127.0.0.1 gdrtgroyhtqsx.xyz^
 127.0.0.1 gdxisixdrk.com^
 127.0.0.1 gebadu.com^
 127.0.0.1 gecl.xyz^
@@ -8511,6 +8662,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 gemhamsore.com^
 127.0.0.1 gemlocomotivemid.com^
 127.0.0.1 gencehepatie.club^
+127.0.0.1 genecousin.com^
 127.0.0.1 generablel.fun^
 127.0.0.1 generablep.top^
 127.0.0.1 generalebad.xyz^
@@ -8539,6 +8691,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 getawayspectaclejumped.com^
 127.0.0.1 getdonspeg.work^
 127.0.0.1 getiluda.com^
+127.0.0.1 getinclinarss.xyz^
 127.0.0.1 getoptad360.com^
 127.0.0.1 getp.xyz^
 127.0.0.1 getpdaiddaily.com^
@@ -8555,12 +8708,16 @@ vkcdnservice.appspot.com^
 127.0.0.1 gflnzl1vqntw.com^
 127.0.0.1 gfnttldx.com^
 127.0.0.1 gforasale.club^
+127.0.0.1 gfpplflrif.com^
 127.0.0.1 ggafb.com^
 127.0.0.1 ggjcswb4rln4.com^
+127.0.0.1 ggkgocbyhut.xyz^
 127.0.0.1 ggkk.xyz^
 127.0.0.1 gglx.me^
 127.0.0.1 ggsfq.com^
 127.0.0.1 ggunauhe.com^
+127.0.0.1 ghargh.com^
+127.0.0.1 gharnt.com^
 127.0.0.1 ghcncwmm.com^
 127.0.0.1 ghsmfmjcicgup.com^
 127.0.0.1 giantaffiliates.com^
@@ -8589,6 +8746,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 gjslebmbiawh.com^
 127.0.0.1 gjw5qbyn93b8.com^
 127.0.0.1 gk8j5woqk26f.com^
+127.0.0.1 gkefsixxlzhn.com^
 127.0.0.1 gkgojxjucutvnt.com^
 127.0.0.1 gkirfipavwra.com^
 127.0.0.1 gl-cash.com^
@@ -8600,7 +8758,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 glaiwhee.net^
 127.0.0.1 glaixich.net^
 127.0.0.1 glaksads.net^
+127.0.0.1 glamourgreek.com^
 127.0.0.1 glandtest.com^
+127.0.0.1 glaptevaphy.com^
 127.0.0.1 glareart.com^
 127.0.0.1 glaresling.com^
 127.0.0.1 glargoun.uk^
@@ -8626,15 +8786,19 @@ vkcdnservice.appspot.com^
 127.0.0.1 gletaums.net^
 127.0.0.1 glfhqurv.com^
 127.0.0.1 gliese-682c.com^
+127.0.0.1 gligluzotho.com^
 127.0.0.1 glihargi.net^
 127.0.0.1 glimmerswiftlyforgery.com^
+127.0.0.1 glimpsemankind.com^
 127.0.0.1 glimtors.net^
 127.0.0.1 glitteringcourageous.com^
+127.0.0.1 glmpdqess.xyz^
 127.0.0.1 glo-glo-oom.com^
 127.0.0.1 gloarowu.com^
 127.0.0.1 gloatdiagnosis.com^
 127.0.0.1 gloatwhisper.com^
 127.0.0.1 globaladmedia.com^
+127.0.0.1 globaladmedia.net^
 127.0.0.1 globaladsales.com^
 127.0.0.1 globaladv.net^
 127.0.0.1 globalinteractive.com^
@@ -8651,12 +8815,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 glookroz.net^
 127.0.0.1 glooliso.net^
 127.0.0.1 gloomilyinvesthave.com^
-127.0.0.1 gloomilypainkiller.com^
 127.0.0.1 gloophoa.net^
 127.0.0.1 gloovids.com^
 127.0.0.1 glophagh.com^
 127.0.0.1 gloriajunkiebegging.com^
 127.0.0.1 gloriasouvenirtill.com^
+127.0.0.1 glossarysack.com^
 127.0.0.1 glotchat.click^
 127.0.0.1 gloumsee.net^
 127.0.0.1 gloviphewhe.com^
@@ -8676,9 +8840,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 gmzdaily.com^
 127.0.0.1 gnatgrocery.com^
 127.0.0.1 gnatneatlyembodiment.com^
-127.0.0.1 gnatpointed.com^
 127.0.0.1 gnawinstruct.com^
 127.0.0.1 gneyjsdv.com^
+127.0.0.1 gnoyvsielusbi.xyz^
 127.0.0.1 go-rillatrack.com^
 127.0.0.1 go2.global^
 127.0.0.1 go2affise.com^
@@ -8779,6 +8943,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 gravelringer.com^
 127.0.0.1 gravelycontainsstruggle.com^
 127.0.0.1 graveuniversalapologies.com^
+127.0.0.1 gravidtrekker.com^
 127.0.0.1 grayrecruitbrainwash.com^
 127.0.0.1 greatcpm.com^
 127.0.0.1 greatdexchange.com^
@@ -8810,12 +8975,15 @@ vkcdnservice.appspot.com^
 127.0.0.1 gresokie.com^
 127.0.0.1 greypayoffdiningroom.com^
 127.0.0.1 greystripe.com^
+127.0.0.1 grichewoza.pro^
 127.0.0.1 grifictuberal.site^
+127.0.0.1 grilledjut.com^
 127.0.0.1 grilydivy.com^
 127.0.0.1 grirault.net^
 127.0.0.1 gritchuw.com^
 127.0.0.1 grivupie.net^
 127.0.0.1 grmtas.com^
+127.0.0.1 grmtmuabcrss.xyz^
 127.0.0.1 groackam.com^
 127.0.0.1 grobido.info^
 127.0.0.1 groguzoo.net^
@@ -8862,6 +9030,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 gtrd.xyz^
 127.0.0.1 gtsads.com^
 127.0.0.1 guardcathedral.com^
+127.0.0.1 guardedfebruaryenclosed.com^
 127.0.0.1 guardiandigitalcomparison.co.uk^
 127.0.0.1 guardssentinelcreepy.com^
 127.0.0.1 guemechan.top^
@@ -8880,6 +9049,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 gwallet.com^
 127.0.0.1 gwatchestfe.top^
 127.0.0.1 gwoyrhpjeloo.com^
+127.0.0.1 gwrstksnxo.xyz^
 127.0.0.1 gwwhheahisrtld.com^
 127.0.0.1 gx101.com^
 127.0.0.1 gxhxmy88.com^
@@ -8921,6 +9091,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hairdosslitter.casa^
 127.0.0.1 hairdressercommentarydown.com^
 127.0.0.1 hairsthoughtfulgovernor.com^
+127.0.0.1 hairwqxnpkxfphd.xyz^
 127.0.0.1 haithoaz.net^
 127.0.0.1 halfcharitable.com^
 127.0.0.1 halfpriceozarks.com^
@@ -8949,7 +9120,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 haracteris.club^
 127.0.0.1 haractice.club^
 127.0.0.1 harassinglimb.com^
-127.0.0.1 hardyconflict.com^
 127.0.0.1 hardydisplayedprawn.com^
 127.0.0.1 haribdathesea.com^
 127.0.0.1 harlsmums.com^
@@ -8984,7 +9154,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 hazelnutshighs.com^
 127.0.0.1 hb-247.com^
 127.0.0.1 hbfqcy.com^
-127.0.0.1 hbfxmcgazuail.com^
 127.0.0.1 hbgwmkydpjmv.com^
 127.0.0.1 hbtzzlcxfijk.com^
 127.0.0.1 hcrhymydx.com^
@@ -8997,13 +9166,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 hditers.com^
 127.0.0.1 hdpreview.com^
 127.0.0.1 hdvcode.com^
+127.0.0.1 he3mero6calli4s.com^
 127.0.0.1 he7ll.com^
 127.0.0.1 headedtamhemp.com^
 127.0.0.1 headlinemoment.com^
 127.0.0.1 headlinesnetwork.com^
 127.0.0.1 headmasterroyalgrope.com^
 127.0.0.1 headquartercloudlessselfservice.com^
-127.0.0.1 headquartersbanishspook.com^
 127.0.0.1 headscamelstooped.com^
 127.0.0.1 headstonerinse.com^
 127.0.0.1 headup.com^
@@ -9041,6 +9210,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hempunevenfeminist.com^
 127.0.0.1 hemtatch.net^
 127.0.0.1 hentaibiz.com^
+127.0.0.1 heplhvadpmkq.com^
 127.0.0.1 heraldintimidatestipulate.com^
 127.0.0.1 heratheacle.com^
 127.0.0.1 herbaijansob.club^
@@ -9055,6 +9225,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hersfatigua.fun^
 127.0.0.1 herwisegim.fun^
 127.0.0.1 hesterinoc.info^
+127.0.0.1 hetaint.com^
 127.0.0.1 hetapus.com^
 127.0.0.1 hethereasso.top^
 127.0.0.1 heyad.xyz^
@@ -9075,6 +9246,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hhit.xyz^
 127.0.0.1 hhunvu.com^
 127.0.0.1 hiadone.com^
+127.0.0.1 hiankh.com^
 127.0.0.1 hiasor.com^
 127.0.0.1 hibernateagitationpre.com^
 127.0.0.1 hibids10.com^
@@ -9085,6 +9257,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hicpm10.com^
 127.0.0.1 hiddenbucks.com^
 127.0.0.1 hiddenlocationpredicate.com^
+127.0.0.1 hidelen.com^
 127.0.0.1 hidupsoo.com^
 127.0.0.1 higherdebateplume.com^
 127.0.0.1 higherincomparablehandicraft.com^
@@ -9107,6 +9280,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 himediads.com^
 127.0.0.1 himediadx.com^
 127.0.0.1 himekingrow.com^
+127.0.0.1 himrjpcofu.xyz^
 127.0.0.1 himselves.com^
 127.0.0.1 himselvesobr.club^
 127.0.0.1 himselvethe.info^
@@ -9147,6 +9321,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hlmiq.com^
 127.0.0.1 hlwlizloq.com^
 127.0.0.1 hmikw.com^
+127.0.0.1 hmikxktkmccfoyq.xyz^
 127.0.0.1 hmonstabb.fun^
 127.0.0.1 hmyjpt.com^
 127.0.0.1 hnpvnnhzazkl.com^
@@ -9157,7 +9332,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 hockeymusclebanged.com^
 127.0.0.1 hoemasfat.site^
 127.0.0.1 hofofici.com^
+127.0.0.1 hogawn.com^
 127.0.0.1 hognoseabient.com^
+127.0.0.1 hoguchiphe.com^
 127.0.0.1 hoistchart.com^
 127.0.0.1 holdierpriv.club^
 127.0.0.1 holdspreoccupation.com^
@@ -9234,6 +9411,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 hpljupfyb.com^
 127.0.0.1 hplose.de^
 127.0.0.1 hpuvkfbww.com^
+127.0.0.1 hpxlfmddqw.xyz^
 127.0.0.1 hpyjmp.com^
 127.0.0.1 hpyrdr.com^
 127.0.0.1 hpzdwnkb.com^
@@ -9295,6 +9473,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 husbandbazaar.com^
 127.0.0.1 husktheoretical.com^
 127.0.0.1 hustlereorganizesatin.com^
+127.0.0.1 hutawheglu.com^
 127.0.0.1 hvato.info^
 127.0.0.1 hxlswibowjf.com^
 127.0.0.1 hxrylvbm.com^
@@ -9333,10 +9512,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 iamtheid.club^
 127.0.0.1 iasbetaffiliates.com^
 127.0.0.1 iasrv.com^
-127.0.0.1 ib1oyteqqn.com^
+127.0.0.1 iatmaihn.xyz^
 127.0.0.1 ibatom.com^
 127.0.0.1 ibbkuhwgqawhvt.com^
 127.0.0.1 ibexcacaoboy.com^
+127.0.0.1 ibjivrhrflquy.xyz^
 127.0.0.1 ibjjsptlmv.com^
 127.0.0.1 ibryte.com^
 127.0.0.1 iccompanzens.fun^
@@ -9365,6 +9545,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 identificationralphrefuel.com^
 127.0.0.1 identifyluckyexactly.com^
 127.0.0.1 idiafix.com^
+127.0.0.1 idiarb.com^
+127.0.0.1 idlinz.com^
 127.0.0.1 idownloadgalore.com^
 127.0.0.1 idqhmtgeskkkwr.com^
 127.0.0.1 idsbaefm.com^
@@ -9396,6 +9578,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ikcyxcbqmoptk.com^
 127.0.0.1 ikoptaud.com^
 127.0.0.1 ikunselt.com^
+127.0.0.1 ilbmhvmjev.xyz^
 127.0.0.1 ileokscsawzzrh.com^
 127.0.0.1 ilinouck.net^
 127.0.0.1 ilirlyduzxb.com^
@@ -9411,6 +9594,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ilusors.com^
 127.0.0.1 ilyf4amifh.com^
 127.0.0.1 imageadvantage.net^
+127.0.0.1 imagineposition.com^
 127.0.0.1 imbetan.info^
 127.0.0.1 imcpqxmtlapagng.com^
 127.0.0.1 imediarevenue.com^
@@ -9446,7 +9630,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 impressionassassin.com^
 127.0.0.1 imprisoninstancescourtyard.com^
 127.0.0.1 impulsepicky.com^
-127.0.0.1 impulsiveinvade.com^
 127.0.0.1 imqrxkarp.com^
 127.0.0.1 imstks.com^
 127.0.0.1 in-appadvertising.com^
@@ -9498,6 +9681,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 inexplicableprayer.com^
 127.0.0.1 inextricableaveragefourteenth.com^
 127.0.0.1 inextricablescope.com^
+127.0.0.1 infercapture.com^
 127.0.0.1 infesthazardous.com^
 127.0.0.1 inflationbreedinghoax.com^
 127.0.0.1 inflationmileage.com^
@@ -9520,6 +9704,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 injuredcandy.com^
 127.0.0.1 inkornesto.com^
 127.0.0.1 inktad.com^
+127.0.0.1 inminuner.com^
 127.0.0.1 innity.net^
 127.0.0.1 innumerablecaw.com^
 127.0.0.1 inoculatebroadlyduke.com^
@@ -9554,7 +9739,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 instrumentatlasjacket.com^
 127.0.0.1 insumber.com^
 127.0.0.1 inswebt.com^
-127.0.0.1 intangibleconcordant.com^
 127.0.0.1 intellibanners.com^
 127.0.0.1 intelligenceadx.com^
 127.0.0.1 intellitxt.com^
@@ -9576,6 +9760,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 interloquent.xyz^
 127.0.0.1 intermediaryinvoluntaryflippant.com^
 127.0.0.1 intermediarypurchaser.com^
+127.0.0.1 intermediatetonightsituation.com^
 127.0.0.1 internewsweb.com^
 127.0.0.1 interst12.com^
 127.0.0.1 interstitial-07.com^
@@ -9585,6 +9770,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 intimidatinggodlessketchup.com^
 127.0.0.1 intnotif.club^
 127.0.0.1 intrudeaccess.com^
+127.0.0.1 invaluableadapt.com^
 127.0.0.1 inventoryjeep.com^
 127.0.0.1 investigatesupernatural.com^
 127.0.0.1 invincibledefybegun.com^
@@ -9631,6 +9817,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 irtyvhrthhya.com^
 127.0.0.1 irxqmnmmow.com^
 127.0.0.1 isawaalphol.casa^
+127.0.0.1 isdbjvok.xyz^
 127.0.0.1 iseajapicuym.com^
 127.0.0.1 isiblenorm.club^
 127.0.0.1 isingefforta.biz^
@@ -9649,8 +9836,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 itchingadore.com^
 127.0.0.1 itchingcrystalfemales.com^
 127.0.0.1 itdise.info^
+127.0.0.1 itemolgaer.com^
 127.0.0.1 itempana.site^
 127.0.0.1 itgiblean.com^
+127.0.0.1 ithaibap.com^
 127.0.0.1 itheatmora.com^
 127.0.0.1 itheatmoran.com^
 127.0.0.1 itinerarymonarchy.com^
@@ -9675,6 +9864,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 iwantuonly.com^
 127.0.0.1 iwhugaul.com^
 127.0.0.1 iwkjldjp.com^
+127.0.0.1 iwofkvupfz.com^
 127.0.0.1 iwyphlxfuufeos.com^
 127.0.0.1 ixcris.com^
 127.0.0.1 ixhparehw.com^
@@ -9745,6 +9935,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 jenicdntc.com^
 127.0.0.1 jeperdee.net^
 127.0.0.1 jeqixokniyny.com^
+127.0.0.1 jeravagy.com^
 127.0.0.1 jerrcotch.com^
 127.0.0.1 jerredsite.pro^
 127.0.0.1 jessieflown.com^
@@ -9788,6 +9979,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 jjpnveujkk.com^
 127.0.0.1 jkgrczjllhq.com^
 127.0.0.1 jltzknvw.com^
+127.0.0.1 jmnvxpgmcbrk.xyz^
 127.0.0.1 jmoiubqzzrsugm.com^
 127.0.0.1 jmrnews.pro^
 127.0.0.1 jmuaoupnykie.com^
@@ -9829,6 +10021,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 josephinealteration.com^
 127.0.0.1 joubozie.com^
 127.0.0.1 jougrevu.com^
+127.0.0.1 journalismthreshold.com^
 127.0.0.1 jouteetu.net^
 127.0.0.1 joxhvjnlpb.com^
 127.0.0.1 joyekepus.online^
@@ -9837,6 +10030,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 joyvowdig.com^
 127.0.0.1 jpjmpqaupc.com^
 127.0.0.1 jppbyrkkgpgo.com^
+127.0.0.1 jpyjdpal.xyz^
 127.0.0.1 jpzwomhbxoalxu.com^
 127.0.0.1 jqk72ugyl2pz.com^
 127.0.0.1 jqueryserve.org^
@@ -9849,11 +10043,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 jsmentry.com^
 127.0.0.1 jsmjmp.com^
 127.0.0.1 jsmpsi.com^
+127.0.0.1 jsnaktyxljsohwp.xyz^
 127.0.0.1 jsretra.com^
 127.0.0.1 jssearch.net^
 127.0.0.1 jstatic.org^
 127.0.0.1 jswxwofumjg.com^
 127.0.0.1 jtbdzlpuojqln.com^
+127.0.0.1 jtigctkh.com^
 127.0.0.1 jtinssutynyf.com^
 127.0.0.1 jtjsevmr.com^
 127.0.0.1 jua05myfbe.com^
@@ -9875,6 +10071,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 jumperdeduction.com^
 127.0.0.1 jumperproprietaryfifth.com^
 127.0.0.1 jumptap.com^
+127.0.0.1 junipe3rus4virginiana.com^
 127.0.0.1 junmediadirect.com^
 127.0.0.1 junotherome.com^
 127.0.0.1 jupaubsa.com^
@@ -9924,7 +10121,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 kagrooxa.net^
 127.0.0.1 kaifiluk.com^
 127.0.0.1 kaiphapt.net^
-127.0.0.1 kaishist.top^
 127.0.0.1 kaiu-marketing.com^
 127.0.0.1 kalauxet.com^
 127.0.0.1 kalespurhoes.com^
@@ -9936,6 +10132,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 kaollpuhcfl.com^
 127.0.0.1 kappalinks.com^
 127.0.0.1 kaptytypso.com^
+127.0.0.1 kaqmshynxe.com^
 127.0.0.1 katecrochetvanity.com^
 127.0.0.1 katerigordas.pro^
 127.0.0.1 katoptristhemirr.com^
@@ -9945,6 +10142,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 kaurouby.net^
 127.0.0.1 kavanga.ru^
 127.0.0.1 kayakm.com^
+127.0.0.1 kazandirtyscoot.com^
 127.0.0.1 kazucivi.com^
 127.0.0.1 kbirdsind.top^
 127.0.0.1 kbngab.com^
@@ -9957,6 +10155,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 kbzdxt.com^
 127.0.0.1 kcdn.xyz^
 127.0.0.1 kcehdslfcqva.com^
+127.0.0.1 kdanxmiirxh.xyz^
 127.0.0.1 kdbumyha.com^
 127.0.0.1 kdkgwhntslalwj.com^
 127.0.0.1 keapeiros.xyz^
@@ -9968,6 +10167,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 keezoupe.net^
 127.0.0.1 kegsandremembrance.com^
 127.0.0.1 kehalim.com^
+127.0.0.1 kejebbirmaxmwhv.xyz^
 127.0.0.1 kellyfight.com^
 127.0.0.1 kelt-195b.com^
 127.0.0.1 kemperare.club^
@@ -9981,11 +10181,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 kesmdg.com^
 127.0.0.1 ketadeep.com^
 127.0.0.1 ketads.com^
+127.0.0.1 ketchupscreech.com^
 127.0.0.1 ketoo.com^
 127.0.0.1 kettinggiantry.com^
 127.0.0.1 kevabila.com^
 127.0.0.1 kevypeta.com^
 127.0.0.1 kewhexethe.com^
+127.0.0.1 kewholypti.com^
 127.0.0.1 kewuruve.xyz^
 127.0.0.1 keyboardinvolvedspacious.com^
 127.0.0.1 keydawnawe.com^
@@ -10033,6 +10235,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 kitrigthy.com^
 127.0.0.1 kittenmilletfoggy.com^
 127.0.0.1 kityko.com^
+127.0.0.1 kivaphugri.com^
 127.0.0.1 kiynew.com^
 127.0.0.1 kj2hy.com^
 127.0.0.1 kjbipwznkbtybs.com^
@@ -10058,8 +10261,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 kmqkdhqaqt.com^
 127.0.0.1 kmuvaerfumy.com^
 127.0.0.1 kneadbewitch.com^
+127.0.0.1 knedow.com^
 127.0.0.1 kneeansweras.com^
 127.0.0.1 kneelidiotic.com^
+127.0.0.1 kneesfrostcompare.com^
 127.0.0.1 kneestep.com^
 127.0.0.1 kneetournament.com^
 127.0.0.1 kneeunsettled.com^
@@ -10098,7 +10303,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 kouraija.net^
 127.0.0.1 koutobey.net^
 127.0.0.1 kouwheey.net^
-127.0.0.1 kozoysnsx.com^
+127.0.0.1 kpuqwdqsol.xyz^
+127.0.0.1 kqimuhkxnh.xyz^
 127.0.0.1 kqpcfthouivgvs.com^
 127.0.0.1 kqpkigli.com^
 127.0.0.1 kqzyfj.com^
@@ -10108,6 +10314,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 kronosspell.com^
 127.0.0.1 krouekal.com^
 127.0.0.1 ksdqhiaythajdv.com^
+127.0.0.1 ksharu.com^
 127.0.0.1 ksjrehefupsrkz.com^
 127.0.0.1 kt5850pjz0.com^
 127.0.0.1 ktbhboeaqw.com^
@@ -10124,11 +10331,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 kuntzenyt.club^
 127.0.0.1 kuptabachy.com^
 127.0.0.1 kursatarak.com^
+127.0.0.1 kushufycy.com^
 127.0.0.1 kustaucu.com^
 127.0.0.1 kutjilsi.com^
 127.0.0.1 kutuheca.com^
 127.0.0.1 kvilhypwtelaos.xyz^
-127.0.0.1 kvpizvilvz.com^
 127.0.0.1 kvygpqttzqhhl.com^
 127.0.0.1 kwnq4hg2n9.com^
 127.0.0.1 kwqptcvwaalgur.com^
@@ -10184,6 +10391,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 laiphouz.net^
 127.0.0.1 lakequincy.com^
 127.0.0.1 lakshmiwafered.cam^
+127.0.0.1 lakvandula.com^
 127.0.0.1 lalaping.com^
 127.0.0.1 lamberserer.club^
 127.0.0.1 lambingsyddir.com^
@@ -10200,6 +10408,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 landslidechoreloft.com^
 127.0.0.1 lanistaads.com^
 127.0.0.1 lankychaosrun.com^
+127.0.0.1 lanternpossibly.com^
 127.0.0.1 lapsefledmayor.com^
 127.0.0.1 laptalesdray.com^
 127.0.0.1 lapypushistyye.com^
@@ -10213,9 +10422,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 lasyowayrzgv.com^
 127.0.0.1 lataurir.com^
 127.0.0.1 latest-news.life^
+127.0.0.1 lathechevo.com^
 127.0.0.1 latheendsmoo.com^
 127.0.0.1 lativenayl.top^
 127.0.0.1 latterinconvenient.com^
+127.0.0.1 latuga.com^
 127.0.0.1 lauhefoo.com^
 127.0.0.1 lauhoosh.net^
 127.0.0.1 laujouty.com^
@@ -10244,10 +10455,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 lcentntel.com^
 127.0.0.1 lcrtltft.com^
 127.0.0.1 ld3hkhldgbkl.com^
-127.0.0.1 ldgvxuhg.com^
 127.0.0.1 ldiscdnkbg.com^
 127.0.0.1 ldliketouse.biz^
-127.0.0.1 ldt1duixoe.com^
 127.0.0.1 lduhtrp.net^
 127.0.0.1 ldutvi.com^
 127.0.0.1 ldvatxaqcd.com^
@@ -10307,6 +10516,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 lesslizardfastened.com^
 127.0.0.1 letadnew.com^
 127.0.0.1 letsinfospree.com^
+127.0.0.1 leucan3thegm6um.com^
 127.0.0.1 leukemiatwinklesagacious.com^
 127.0.0.1 leveloped.club^
 127.0.0.1 leveryone.club^
@@ -10314,12 +10524,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 lfg5jnbi.com^
 127.0.0.1 lfmfrsvguf.com^
 127.0.0.1 lfstmedia.com^
+127.0.0.1 lftklqdjldf.com^
 127.0.0.1 lftqch650apz.com^
 127.0.0.1 lgazyaq.com^
 127.0.0.1 lgcblkbn.com^
 127.0.0.1 lghdoxzulv.com^
 127.0.0.1 lgmsekxqwxe.com^
 127.0.0.1 lgse.com^
+127.0.0.1 lhbdpnhdjcxtr.xyz^
 127.0.0.1 lhhrupisllmy.com^
 127.0.0.1 lhljbgevp.com^
 127.0.0.1 lhs-3844b.com^
@@ -10328,6 +10540,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 libedgolart.com^
 127.0.0.1 libertycdn.com^
 127.0.0.1 libertystmedia.com^
+127.0.0.1 librariessunflower.com^
 127.0.0.1 libreriamedina.com^
 127.0.0.1 licantrum.com^
 127.0.0.1 licenseblindnessbureau.com^
@@ -10361,6 +10574,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 limitagesdidjet.site^
 127.0.0.1 limnigraphes.xyz^
 127.0.0.1 limporaltourist.com^
+127.0.0.1 linealmalling.com^
 127.0.0.1 lingchallersh.top^
 127.0.0.1 lingeriebarren.com^
 127.0.0.1 linicom.co.il^
@@ -10376,6 +10590,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 linkonclick.com^
 127.0.0.1 linkredirect.biz^
 127.0.0.1 linkreferral.com^
+127.0.0.1 linurk.com^
 127.0.0.1 liofypwnko.com^
 127.0.0.1 liondignify.com^
 127.0.0.1 liongetme.com^
@@ -10388,7 +10603,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 lithingbre.top^
 127.0.0.1 litourge.com^
 127.0.0.1 littercipher.com^
-127.0.0.1 littlecdn.com^
 127.0.0.1 livelihoodpracticaloperating.com^
 127.0.0.1 livezombymil.com^
 127.0.0.1 livwrite.com^
@@ -10419,8 +10633,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 lndjj.com^
 127.0.0.1 lnhidzzighzolm.com^
 127.0.0.1 lnkrdr.com^
+127.0.0.1 lnwejgghmtrqdka.xyz^
 127.0.0.1 loading-resource.com^
 127.0.0.1 loamauji.com^
+127.0.0.1 loanonionbidding.com^
 127.0.0.1 loaphour.com^
 127.0.0.1 lobby-x.eu^
 127.0.0.1 loboclick.com^
@@ -10430,9 +10646,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 localedgemedia.com^
 127.0.0.1 locallyrivalliberal.com^
 127.0.0.1 locatedunderwear.com^
-127.0.0.1 locationivanstutter.com^
 127.0.0.1 locationsreverenceaid.com^
 127.0.0.1 lockerdomecdn.com^
+127.0.0.1 locketamoral.com^
 127.0.0.1 lockgranted.com^
 127.0.0.1 lockhosts.com^
 127.0.0.1 lockingadmitted.com^
@@ -10463,6 +10679,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 loopredsglen.com^
 127.0.0.1 lootynews.com^
 127.0.0.1 lophaszip.com^
+127.0.0.1 loptyinterva.xyz^
 127.0.0.1 lorajety.com^
 127.0.0.1 loricalreach.info^
 127.0.0.1 lorimertoned.com^
@@ -10500,6 +10717,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 lsxdcdnrrco.com^
 127.0.0.1 ltassrv.com.s3.amazonaws.com^
 127.0.0.1 ltassrv.com^
+127.0.0.1 ltbbfotur.xyz^
 127.0.0.1 lubowitz.biz^
 127.0.0.1 lubricantentrance.com^
 127.0.0.1 lucidmedia.com^
@@ -10511,6 +10729,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 lumcarring.fun^
 127.0.0.1 luminosoocchio.com^
 127.0.0.1 lumreckle.fun^
+127.0.0.1 lumses.com^
 127.0.0.1 lunagyja.xyz^
 127.0.0.1 lunaticcrushedtogether.com^
 127.0.0.1 lunio.net^
@@ -10537,8 +10756,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 luxupcdna.com^
 127.0.0.1 luxupcdnb.com^
 127.0.0.1 luxupcdnc.com^
+127.0.0.1 luxuriouspickpocketsmuggle.com^
 127.0.0.1 lvecygampj.com^
-127.0.0.1 lvgvax82bp.com^
 127.0.0.1 lvntekpejrmtb.com^
 127.0.0.1 lvodomo.info^
 127.0.0.1 lvqnychauf.com^
@@ -10564,6 +10783,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 m73lae5cpmgrv38.com^
 127.0.0.1 m968kpz550cx.com^
 127.0.0.1 ma2gs3wne3gfej70osium.com^
+127.0.0.1 maaled.com^
 127.0.0.1 machings.com^
 127.0.0.1 madadsmedia.com^
 127.0.0.1 madcpms.com^
@@ -10586,6 +10806,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 madspms.com^
 127.0.0.1 madspmz.com^
 127.0.0.1 maebtjn.com^
+127.0.0.1 maegkrquttm.xyz^
 127.0.0.1 magazinescontaining.com^
 127.0.0.1 magicianboundary.com^
 127.0.0.1 magicianoptimisticbeard.com^
@@ -10606,6 +10827,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 majorgeorgiana.com^
 127.0.0.1 makerangerdistinct.com^
 127.0.0.1 makeupworddisparage.com^
+127.0.0.1 makisk.com^
 127.0.0.1 makzidhq.com^
 127.0.0.1 maldini.xyz^
 127.0.0.1 malharpossible.pro^
@@ -10649,6 +10871,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 marezzocorke.cam^
 127.0.0.1 margarinedifferencequick.com^
 127.0.0.1 margaritabusiness.com^
+127.0.0.1 mariabrowseattending.com^
 127.0.0.1 marial.pro^
 127.0.0.1 marimedia.com^
 127.0.0.1 maritalglancing.com^
@@ -10782,6 +11005,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 mediuminsert.com^
 127.0.0.1 medleyads.com^
 127.0.0.1 medusasglance.com^
+127.0.0.1 medvrloiqxsv.xyz^
 127.0.0.1 medyanetads.com^
 127.0.0.1 meehaina.net^
 127.0.0.1 meephais.net^
@@ -10822,6 +11046,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 mentionedabjection.com^
 127.0.0.1 mentredu.top^
 127.0.0.1 menuhivewomb.com^
+127.0.0.1 meowboltadequate.com^
 127.0.0.1 meowpushnot.com^
 127.0.0.1 meratsignons.com^
 127.0.0.1 merchenta.com^
@@ -10853,6 +11078,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 methupteshu.com^
 127.0.0.1 metimemee.biz^
 127.0.0.1 metosk.com^
+127.0.0.1 metreelusive.com^
 127.0.0.1 metrica-yandex.com^
 127.0.0.1 metricfast.com^
 127.0.0.1 metrics.io^
@@ -10879,6 +11105,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 microscoperestriction.com^
 127.0.0.1 microscopeundertakingprowl.com^
 127.0.0.1 microsoftaffiliates.net^
+127.0.0.1 microusconvilla.xyz^
 127.0.0.1 midasatlas.com^
 127.0.0.1 midastouchrt.com^
 127.0.0.1 middleimpetuous.com^
@@ -10895,14 +11122,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 mightyhulsjdk.com^
 127.0.0.1 mignished-sility.com^
 127.0.0.1 mignoops.net^
-127.0.0.1 migongetlucky.com^
 127.0.0.1 mikrairs.com^
 127.0.0.1 milabra.com^
 127.0.0.1 milanorangest.com^
 127.0.0.1 milasktic.com^
 127.0.0.1 milestonetelephone.com^
 127.0.0.1 milkygoodness.xyz^
-127.0.0.1 milkytarcub.com^
 127.0.0.1 millagesert.info^
 127.0.0.1 millennialmedia.com^
 127.0.0.1 milligraminstructionundesirable.com^
@@ -10918,12 +11143,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 minently.com^
 127.0.0.1 mineralscreamrobes.com^
 127.0.0.1 minessetion.info^
-127.0.0.1 miniatureabhor.com^
+127.0.0.1 mingledunorder.com^
 127.0.0.1 minimizeglanceanyway.com^
 127.0.0.1 minimumgold.com^
 127.0.0.1 minimumkilledupdated.com^
 127.0.0.1 minimumpay.info^
 127.0.0.1 minisms.xyz^
+127.0.0.1 minismss.xyz^
 127.0.0.1 ministedik.info^
 127.0.0.1 minkglentriumphal.com^
 127.0.0.1 minologyhesia.site^
@@ -10937,13 +11163,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 mirrorpersonalinjury.co.uk^
 127.0.0.1 miscellaneouspiledrely.com^
 127.0.0.1 mischiefdiscount.com^
+127.0.0.1 misdealcpi.com^
 127.0.0.1 misdem.pro^
 127.0.0.1 miserincarnatestack.com^
 127.0.0.1 miserycontemplaterubbish.com^
 127.0.0.1 miseryheight.com^
 127.0.0.1 misfireploughsquat.com^
 127.0.0.1 misguidedstork.com^
-127.0.0.1 missingarchery.com^
 127.0.0.1 missiondues.com^
 127.0.0.1 missiontestamentinterfering.com^
 127.0.0.1 misslk.com^
@@ -10955,6 +11181,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 misxgkvnlf.com^
 127.0.0.1 mitatic.xyz^
 127.0.0.1 miwhelake.pro^
+127.0.0.1 mixedbloodynicholas.com^
 127.0.0.1 mixmarket.biz^
 127.0.0.1 mixpo.com^
 127.0.0.1 mixturehopeful.com^
@@ -11094,6 +11321,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 morguecountryportray.com^
 127.0.0.1 moritava.com^
 127.0.0.1 morningsophisticatedcenter.com^
+127.0.0.1 moronsquacco.com^
+127.0.0.1 morps.xyz^
 127.0.0.1 mortalunacceptable.com^
 127.0.0.1 mortantameron.club^
 127.0.0.1 mosece.com^
@@ -11163,6 +11392,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ms3t.club^
 127.0.0.1 msads.net^
 127.0.0.1 msgose.com^
+127.0.0.1 mshago.com^
 127.0.0.1 msidentityw.biz^
 127.0.0.1 mstorer.net^
 127.0.0.1 msypr.com^
@@ -11185,6 +11415,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 mummyanonymous.com^
 127.0.0.1 mummypepdye.com^
 127.0.0.1 municalwarn.top^
+127.0.0.1 mupsytyzu.com^
 127.0.0.1 mupteekr.net^
 127.0.0.1 muqson0kgr.com^
 127.0.0.1 murdenedo.club^
@@ -11201,6 +11432,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 mustardlearnfourteenth.com^
 127.0.0.1 mustwaste.com^
 127.0.0.1 mutenessdollyheadlong.com^
+127.0.0.1 mutteredslashfolly.com^
 127.0.0.1 muttonvalet.com^
 127.0.0.1 muvimtim.com^
 127.0.0.1 muyoozrkkyr.com^
@@ -11376,12 +11608,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 new17write.com^
 127.0.0.1 newaprads.com^
 127.0.0.1 newdisplayformats.com^
-127.0.0.1 newerannews.com^
+127.0.0.1 newdomain.center^
 127.0.0.1 newjulads.com^
 127.0.0.1 newmarads.com^
 127.0.0.1 newmayads.com^
 127.0.0.1 newnovads.com^
 127.0.0.1 newoctads.com^
+127.0.0.1 news-easy.org^
 127.0.0.1 news-headlines.co^
 127.0.0.1 news-jupiter.com^
 127.0.0.1 news-mars.com^
@@ -11401,6 +11634,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 newthuads.com^
 127.0.0.1 nextgencounter.com^
 127.0.0.1 neyhdjwpumivpa.com^
+127.0.0.1 nezttolpyroty.com^
+127.0.0.1 nfadiivfibqrk.com^
 127.0.0.1 nfanxxuegzp.com^
 127.0.0.1 nfkq8jy5db0b.com^
 127.0.0.1 nfqglptm47uc.com^
@@ -11439,6 +11674,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 nieveni.com^
 127.0.0.1 nificincreasi.club^
 127.0.0.1 niforniadistollie.info^
+127.0.0.1 nightceramicoutgoing.com^
 127.0.0.1 nighter.club^
 127.0.0.1 nightfallinquiredune.com^
 127.0.0.1 nightmareadministerwatch.com^
@@ -11452,6 +11688,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ninecovetous.com^
 127.0.0.1 ninetypatsy.com^
 127.0.0.1 ninkorant.online^
+127.0.0.1 nippona7n2theum.com^
 127.0.0.1 nirifude.com^
 127.0.0.1 nislanelibrar.top^
 127.0.0.1 niteratebefo.top^
@@ -11465,7 +11702,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 njzheqkcyr.com^
 127.0.0.1 nk26uvjrz0tt.com^
 127.0.0.1 nkjomdiztdy.com^
-127.0.0.1 nklrfqgz.com^
 127.0.0.1 nkmarxpzacidhn.com^
 127.0.0.1 nkmsite.com^
 127.0.0.1 nkredir.com^
@@ -11483,6 +11719,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 nmentsce.top^
 127.0.0.1 nmwalbwu.com^
 127.0.0.1 nmywwgnnkmud.com^
+127.0.0.1 nnkeajhamwoo.xyz^
 127.0.0.1 nnolljzcxzud.com^
 127.0.0.1 noagliph.com^
 127.0.0.1 noagloot.net^
@@ -11493,8 +11730,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 noawhupt.net^
 127.0.0.1 noblefun.net^
 127.0.0.1 noblemagnition.com^
+127.0.0.1 noblemanscramblemoderately.com^
 127.0.0.1 noclef.com^
 127.0.0.1 nodecrisp.com^
+127.0.0.1 nodowd.com^
 127.0.0.1 noespondcob.com^
 127.0.0.1 nofejectontrab.info^
 127.0.0.1 nogburger.site^
@@ -11569,8 +11808,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 nowadaysluciusfilch.com^
 127.0.0.1 nowfastcrew.online^
 127.0.0.1 nowlooking.net^
+127.0.0.1 nowrs.xyz^
 127.0.0.1 nowspots.com^
 127.0.0.1 noy-95.com^
+127.0.0.1 npcad.com^
 127.0.0.1 nposition.club^
 127.0.0.1 npubzssuoini.com^
 127.0.0.1 npvos.com^
@@ -11590,6 +11831,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 nsideservie.space^
 127.0.0.1 nskoxgsb.com^
 127.0.0.1 nsmartad.com^
+127.0.0.1 nsontrackso.online^
 127.0.0.1 nspmotion.com^
 127.0.0.1 nspot.co^
 127.0.0.1 nssyawqyj.com^
@@ -11656,11 +11898,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 nyadmcncserve-05y06a.com^
 127.0.0.1 nyadra.com^
 127.0.0.1 nyalacornily.cam^
-127.0.0.1 nydrctnk.com^
 127.0.0.1 nyetm2mkch.com^
 127.0.0.1 nyjixoco.com^
 127.0.0.1 nymotuda.com^
-127.0.0.1 nyphtrue.com^
 127.0.0.1 nyphuboshu.com^
 127.0.0.1 nyptistaha.com^
 127.0.0.1 nyrithenrebarro.info^
@@ -11681,6 +11921,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 oaffolksy.cam^
 127.0.0.1 oaftaijo.net^
 127.0.0.1 oagnatch.com^
+127.0.0.1 oahaurti.com^
 127.0.0.1 oainternetservices.com^
 127.0.0.1 oalselry.com^
 127.0.0.1 oampitsa.com^
@@ -11703,6 +11944,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 obeus.com^
 127.0.0.1 obkcnezxxuw.com^
 127.0.0.1 obligationmelonvase.com^
+127.0.0.1 obligationsovereign.com^
 127.0.0.1 obliteratebedblue.com^
 127.0.0.1 oblivionwatcherrebellious.com^
 127.0.0.1 obnyujeibv.com^
@@ -11731,6 +11973,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 odichaly.space^
 127.0.0.1 odinstreamy.com^
 127.0.0.1 odiumdrawlip.com^
+127.0.0.1 odkbfdck.com^
+127.0.0.1 odnkcbcsacab.com^
+127.0.0.1 odpdpzlvgufq.com^
 127.0.0.1 oebadu.com^
 127.0.0.1 oedlwhcqfpfup.xyz^
 127.0.0.1 oedoxundnibwc.com^
@@ -11738,7 +11983,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 oesfriences.fun^
 127.0.0.1 oetn.xyz^
 127.0.0.1 oeuanvyte.com^
+127.0.0.1 oewdfyhdfq.xyz^
 127.0.0.1 ofdittor.com^
+127.0.0.1 ofenge.com^
 127.0.0.1 ofexmskz.com^
 127.0.0.1 offerimage.com^
 127.0.0.1 officular.xyz^
@@ -11768,6 +12015,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ogskle.com^
 127.0.0.1 ogweswpvzuz.com^
 127.0.0.1 ogzdcghzpwos.com^
+127.0.0.1 ohchateauominous.com^
 127.0.0.1 ohkdsplu.com^
 127.0.0.1 ohldsplu.com^
 127.0.0.1 ohmcasting.com^
@@ -11789,6 +12037,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 oiycak.com^
 127.0.0.1 ojbhoukw.com^
 127.0.0.1 ojhmakoqg.com^
+127.0.0.1 ojwejqeqvxn.xyz^
 127.0.0.1 okaoqyvdgoozbt.com^
 127.0.0.1 okayarab.com^
 127.0.0.1 okdigital.me^
@@ -11811,6 +12060,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 olouphoo.com^
 127.0.0.1 olourseskit.fun^
 127.0.0.1 olveddel.xyz^
+127.0.0.1 olxrrxfb.xyz^
 127.0.0.1 omafaren.pw^
 127.0.0.1 omatri.info^
 127.0.0.1 omchanseyr.com^
@@ -11889,6 +12139,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 oorunsey.com^
 127.0.0.1 ootchoft.com^
 127.0.0.1 ooxoatse.com^
+127.0.0.1 opawyzoh.xyz^
 127.0.0.1 opekoobs.net^
 127.0.0.1 openmindedisabella.com^
 127.0.0.1 openx.net^
@@ -11930,6 +12181,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 oqrjbnriumr.com^
 127.0.0.1 orangeads.fr^
 127.0.0.1 orbengine.com^
+127.0.0.1 orbhcvyfgitkpfl.xyz^
 127.0.0.1 orcjagpox.com^
 127.0.0.1 ordealgraveyard.com^
 127.0.0.1 organicalews.info^
@@ -11940,6 +12192,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 originalcharactercausing.com^
 127.0.0.1 originedreting.site^
 127.0.0.1 originhermichermicpros.com^
+127.0.0.1 oriqgdrbqqcgn.com^
 127.0.0.1 orisapple.top^
 127.0.0.1 orkonavariet.biz^
 127.0.0.1 ornament-i.com^
@@ -11967,6 +12220,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 otnolatrnup.com^
 127.0.0.1 ottomdisede.club^
 127.0.0.1 ouboosta.com^
+127.0.0.1 ouchansoxdid.xyz^
 127.0.0.1 oucywciij.com^
 127.0.0.1 oudccdjvh.com^
 127.0.0.1 oudseroa.com^
@@ -11976,7 +12230,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 oufydwtklfi.com^
 127.0.0.1 oughtbuilding.com^
 127.0.0.1 oughtedcrim.top^
-127.0.0.1 ouh3igaeb.com^
 127.0.0.1 ouhegapy.net^
 127.0.0.1 oujouniw.com^
 127.0.0.1 oukreesy.net^
@@ -12012,7 +12265,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 overboardinclose.com^
 127.0.0.1 overboardinflected.com^
 127.0.0.1 overcomecheck.com^
-127.0.0.1 overhaps.com^
 127.0.0.1 overhearledgebake.com^
 127.0.0.1 overloadhomes.com^
 127.0.0.1 overlymaddenkidnap.com^
@@ -12036,6 +12288,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 owlsyumducal.com^
 127.0.0.1 owncutone.com^
 127.0.0.1 owndata.network^
+127.0.0.1 ownerswifeimprove.com^
 127.0.0.1 owsvolksk.space^
 127.0.0.1 oxado.com^
 127.0.0.1 oxharmonysample.com^
@@ -12048,7 +12301,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 oxybe.com^
 127.0.0.1 oxygenpurpleairtight.com^
 127.0.0.1 oylewasb.club^
-127.0.0.1 oysterscarton.com^
 127.0.0.1 oyywtwcx.com^
 127.0.0.1 ozertesa.com^
 127.0.0.1 ozmifi.info^
@@ -12125,14 +12377,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 paranoiseras.site^
 127.0.0.1 paraterinchest.site^
 127.0.0.1 parcelcommitted.com^
-127.0.0.1 parchlusciousepoch.com^
 127.0.0.1 parchmentwhale.com^
 127.0.0.1 parentful.club^
 127.0.0.1 parflushfeet.com^
 127.0.0.1 paripartners.ru^
 127.0.0.1 parkinggrumpy.com^
 127.0.0.1 parkurl.com^
-127.0.0.1 parsruingmeld.com^
+127.0.0.1 parth2enerocis9tsust2ricus7pidata.com^
 127.0.0.1 parthanonstatue.com^
 127.0.0.1 particlesmanuscript.com^
 127.0.0.1 particularmadam.com^
@@ -12153,6 +12404,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 passiveinitialclass.com^
 127.0.0.1 passivemarcoanyhow.com^
 127.0.0.1 pastaesthetictracks.com^
+127.0.0.1 pastelsreist.com^
 127.0.0.1 pastimeswindle.com^
 127.0.0.1 pastreflected.com^
 127.0.0.1 pastspur.com^
@@ -12174,6 +12426,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 pavementinhumanabstain.com^
 127.0.0.1 pawheatyous.com^
 127.0.0.1 pawnorderpampas.work^
+127.0.0.1 pawnprime.com^
 127.0.0.1 paxmedia.net^
 127.0.0.1 paxtro.com^
 127.0.0.1 pay-click.ru^
@@ -12214,11 +12467,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 peculiaritiesfrequencymedicine.com^
 127.0.0.1 pedestalturner.com^
 127.0.0.1 pedestrianneighbourly.com^
+127.0.0.1 pedisp.com^
 127.0.0.1 pednorthe.top^
 127.0.0.1 peefeehu.com^
 127.0.0.1 peekdedicatecylinder.com^
 127.0.0.1 peekscrane.com^
 127.0.0.1 peemee.com^
+127.0.0.1 peensthapes.cam^
 127.0.0.1 peepholecarrying.com^
 127.0.0.1 peepholetwin.com^
 127.0.0.1 peer39.net^
@@ -12268,6 +12523,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 periljuicywary.com^
 127.0.0.1 periodsalter.com^
 127.0.0.1 periously.xyz^
+127.0.0.1 perkingpurpled.cam^
 127.0.0.1 permanentnearly.com^
 127.0.0.1 permissiveconvenientlyoath.com^
 127.0.0.1 perpetrateinadequateties.com^
@@ -12282,6 +12538,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 petchesa.net^
 127.0.0.1 petchoch.com^
 127.0.0.1 petfoppew.com^
+127.0.0.1 petriekalmias.com^
 127.0.0.1 petsarlaaafru.com^
 127.0.0.1 pettybureaushady.com^
 127.0.0.1 petulantsubordinate.com^
@@ -12320,6 +12577,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 phaurtuh.net^
 127.0.0.1 phauwooz.net^
 127.0.0.1 pheasantcardboardcohort.com^
+127.0.0.1 pheasantgobetweenyearbook.com^
 127.0.0.1 phechogofe.com^
 127.0.0.1 phedudug.net^
 127.0.0.1 pheedroh.net^
@@ -12411,19 +12669,22 @@ vkcdnservice.appspot.com^
 127.0.0.1 pixfuture.net^
 127.0.0.1 pixiv.org^
 127.0.0.1 pixxur.com^
+127.0.0.1 pjjpp.com^
 127.0.0.1 pjx1ky4xhwip.com^
 127.0.0.1 pkgebysm.com^
 127.0.0.1 pkhhyool.com^
 127.0.0.1 pkldrgupis.com^
-127.0.0.1 pkmkkjwknvf.com^
 127.0.0.1 pktqcr.com^
 127.0.0.1 plaguealacritytwitter.com^
+127.0.0.1 plaicecaught.com^
 127.0.0.1 plaicenaive.com^
 127.0.0.1 plainlycradlescalp.com^
+127.0.0.1 plaintfarrel.com^
 127.0.0.1 plaintiffalphabetslacken.com^
 127.0.0.1 plainwrk.name^
 127.0.0.1 plandiscriminationtakeout.com^
 127.0.0.1 planktab.com^
+127.0.0.1 planneddeference.com^
 127.0.0.1 planneradministratorsignify.com^
 127.0.0.1 plannerladyreality.com^
 127.0.0.1 planningflattery.com^
@@ -12456,6 +12717,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 plenituderingaccelerate.com^
 127.0.0.1 plenomedia.com^
 127.0.0.1 plexop.net^
+127.0.0.1 plgulesln.xyz^
 127.0.0.1 plierprival.biz^
 127.0.0.1 plified.pro^
 127.0.0.1 plightmoanshock.com^
@@ -12478,7 +12740,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 pmsrvr.com^
 127.0.0.1 pmzer.com^
 127.0.0.1 pnd.gs^
-127.0.0.1 pnhdnlrzwu.com^
 127.0.0.1 pnhtmagmhbu.com^
 127.0.0.1 pnmoclqxtcsbw.com^
 127.0.0.1 pnrblholty.com^
@@ -12487,6 +12748,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 poasotha.com^
 127.0.0.1 pobliba.info^
 127.0.0.1 pockhopatone.com^
+127.0.0.1 pocrd.cc^
 127.0.0.1 pocrowpush.com^
 127.0.0.1 podhopfit.site^
 127.0.0.1 podsolnu9hi10.com^
@@ -12529,7 +12791,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 poolgmsd.com^
 127.0.0.1 poolunbelievably.com^
 127.0.0.1 poorapparel.com^
-127.0.0.1 poorlydig.com^
 127.0.0.1 poorlygarrisondistant.com^
 127.0.0.1 poosoahe.com^
 127.0.0.1 poosugap.com^
@@ -12549,7 +12810,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 poplarmakessouls.com^
 127.0.0.1 popmarker.com^
 127.0.0.1 popmonetizer.net^
-127.0.0.1 popmyad.com^
 127.0.0.1 popmyads.com^
 127.0.0.1 popnc.com^
 127.0.0.1 popnet.xyz^
@@ -12604,6 +12864,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 potatoescollections.com^
 127.0.0.1 potawe.com^
 127.0.0.1 potentiallythrobbinggrotesque.com^
+127.0.0.1 potentill3afr5ui7ticosa.com^
 127.0.0.1 potentingaknt.club^
 127.0.0.1 potentingxyr.club^
 127.0.0.1 potentionsdarket.site^
@@ -12638,6 +12899,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 pprq7.com^
 127.0.0.1 ppscdnqkgj.com^
 127.0.0.1 ppxbsbluutiwc.xyz^
+127.0.0.1 ppxldikxksuo.com^
 127.0.0.1 pqtiqpfyeeayjk.com^
 127.0.0.1 pqvnjgeimffiu.com^
 127.0.0.1 pqxadekhqotwkv.com^
@@ -12681,7 +12943,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 premiumvertising.com^
 127.0.0.1 preonesetro.com^
 127.0.0.1 preparecanyonpendulous.com^
-127.0.0.1 preparedjuxtapose.com^
 127.0.0.1 preparedtennismissionary.com^
 127.0.0.1 preparesecretary.com^
 127.0.0.1 prepayproceedingsground.com^
@@ -12709,6 +12970,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 preyjustly.com^
 127.0.0.1 prfctmney.com^
 127.0.0.1 prfdesk.pro^
+127.0.0.1 prheoxpdoqmjou.com^
 127.0.0.1 pricestern.top^
 127.0.0.1 prideidiotswarthy.com^
 127.0.0.1 primaryads.com^
@@ -12731,7 +12993,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 privilegesurround.com^
 127.0.0.1 prizel.com^
 127.0.0.1 prizepierceassort.com^
-127.0.0.1 prjslxhtx005.top^
 127.0.0.1 prm-native.com^
 127.0.0.1 prmtracks.com^
 127.0.0.1 pro-advert.de^
@@ -12768,6 +13029,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 prognosisshallowpliant.com^
 127.0.0.1 programminghonourable.com^
 127.0.0.1 prograph.club^
+127.0.0.1 prohibitionformersporting.com^
 127.0.0.1 projectagora.net^
 127.0.0.1 projectagora.tech^
 127.0.0.1 projectagoralibs.com^
@@ -12801,7 +13063,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 protagcdn.com^
 127.0.0.1 protally.net^
 127.0.0.1 protecsee.site^
-127.0.0.1 protectdedication.com^
 127.0.0.1 protecthumor.com^
 127.0.0.1 protection-booster.club^
 127.0.0.1 protoawe.com^
@@ -12810,6 +13071,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 proveexclusionaye.com^
 127.0.0.1 proverballegationenergy.com^
 127.0.0.1 provers.pro^
+127.0.0.1 providedcolonelpermit.com^
 127.0.0.1 provider-direct.com^
 127.0.0.1 providesoftenlookout.com^
 127.0.0.1 provisionappscissor.com^
@@ -12848,6 +13110,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 pseepsie.com^
 127.0.0.1 psekesheva.pro^
 127.0.0.1 psensuds.net^
+127.0.0.1 pseptegoti.com^
 127.0.0.1 pseudoreseaux.xyz^
 127.0.0.1 psewhaur.net^
 127.0.0.1 psisalte.com^
@@ -12871,6 +13134,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 psqiwslwpjccb.com^
 127.0.0.1 pstreetma.com^
 127.0.0.1 psugeglapha.com^
+127.0.0.1 psuhuchize.com^
 127.0.0.1 psulsobi.net^
 127.0.0.1 psuphuns.net^
 127.0.0.1 psurdoak.com^
@@ -12934,6 +13198,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 ptuxinewhi.pro^
 127.0.0.1 ptwmjmp.com^
 127.0.0.1 ptystuthyglo.com^
+127.0.0.1 pu1.biz^
+127.0.0.1 pu3.biz^
 127.0.0.1 pub.network^
 127.0.0.1 pubacca5mc.com^
 127.0.0.1 publicsparedpen.com^
@@ -12953,7 +13219,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 pulpix.com^
 127.0.0.1 pulpsbarndomed.com^
 127.0.0.1 pulpyads.com^
-127.0.0.1 pulse360.com^
 127.0.0.1 pulsemgr.com^
 127.0.0.1 pulseonclick.com^
 127.0.0.1 pumdfferpkin5hs454r43eeds.com^
@@ -13069,6 +13334,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 pyroguanites.xyz^
 127.0.0.1 pyrroylceriums.com^
 127.0.0.1 pyvqoaoeeen.com^
+127.0.0.1 pzhuzlwjiymfos.com^
 127.0.0.1 pzjrabknapw.com^
 127.0.0.1 pzpvvmcnq.com^
 127.0.0.1 q0zsp5e3dv.com^
@@ -13138,7 +13404,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 qppdqcid.com^
 127.0.0.1 qptqoylpxmqbz.com^
 127.0.0.1 qpwiyfmlkhbxop.com^
-127.0.0.1 qqqporn.com^
 127.0.0.1 qrezvwhtppiv.com^
 127.0.0.1 qrksjrjppkam.com^
 127.0.0.1 qrlgcrzmbuy.com^
@@ -13189,7 +13454,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 qwertytracks.com^
 127.0.0.1 qwfuqtyjdkdxi.com^
 127.0.0.1 qwhbkjlawhw.com^
-127.0.0.1 qwlltztcbwif.com^
 127.0.0.1 qydhjirz.com^
 127.0.0.1 qyxwfe.com^
 127.0.0.1 qzfrmewdbzkcsf.com^
@@ -13214,11 +13478,13 @@ vkcdnservice.appspot.com^
 127.0.0.1 radeant.com^
 127.0.0.1 radiancethedevice.com^
 127.0.0.1 radiantskilled.com^
+127.0.0.1 radiationcrag.com^
 127.0.0.1 radiusfellowship.com^
 127.0.0.1 radiusinlandexhibit.com^
 127.0.0.1 radiusmarketing.com^
 127.0.0.1 radiusproceedings.com^
 127.0.0.1 raenfh9tkuka.com^
+127.0.0.1 raftcomposuremeals.com^
 127.0.0.1 ragapa.com^
 127.0.0.1 ragenessed.top^
 127.0.0.1 ragsaved.com^
@@ -13232,6 +13498,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 raisingnegligencemanages.com^
 127.0.0.1 raivikod.net^
 127.0.0.1 rakamu.com^
+127.0.0.1 ralijqugghwqil.com^
 127.0.0.1 ramatering.club^
 127.0.0.1 ramponneraient.xyz^
 127.0.0.1 ramptariff.com^
@@ -13243,6 +13510,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rangsunbaa.com^
 127.0.0.1 ransparleddorob.info^
 127.0.0.1 rantsbroug.biz^
+127.0.0.1 rapeunevenphiladelphia.com^
 127.0.0.1 rapeuptown.com^
 127.0.0.1 rapgasyogin.com^
 127.0.0.1 rapiddictionarytemporarily.com^
@@ -13271,12 +13539,15 @@ vkcdnservice.appspot.com^
 127.0.0.1 rcvlink.com^
 127.0.0.1 rcvlinks.com^
 127.0.0.1 rddywd.com^
+127.0.0.1 rdgfnqakk.com^
 127.0.0.1 rditatehapp.top^
+127.0.0.1 rdowulajr.xyz^
 127.0.0.1 rdrceting.com^
 127.0.0.1 rdrtrk.com^
 127.0.0.1 rdsb2.club^
 127.0.0.1 rdtk.io^
 127.0.0.1 rdtrck2.com^
+127.0.0.1 rdwdwmli.xyz^
 127.0.0.1 reabondasses.xyz^
 127.0.0.1 reacheffectsp.work^
 127.0.0.1 reachmode.com^
@@ -13339,7 +13610,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 recyclesubsidedplight.com^
 127.0.0.1 recyclingbees.com^
 127.0.0.1 recyclingmaim.com^
-127.0.0.1 red1r.com^
 127.0.0.1 redads.biz^
 127.0.0.1 redfunlob.casa^
 127.0.0.1 redirect2719.ws^
@@ -13352,6 +13622,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 redundancyphilosophicalwest.com^
 127.0.0.1 redvxjlmaehy.com^
 127.0.0.1 reechokelvin.casa^
+127.0.0.1 reedscarved.com^
 127.0.0.1 reedthatm.biz^
 127.0.0.1 reembrasserait.website^
 127.0.0.1 reenakun.com^
@@ -13369,6 +13640,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 reformexpectbeyond.com^
 127.0.0.1 reformtomb.com^
 127.0.0.1 refpabuyoj.top^
+127.0.0.1 refraidinterva.xyz^
 127.0.0.1 refraintupaiid.com^
 127.0.0.1 refreshscoundreltendon.com^
 127.0.0.1 refunsiy.net^
@@ -13379,6 +13651,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 registrybrotherinlawdots.com^
 127.0.0.1 registrytensesuffocate.com^
 127.0.0.1 reglistigru.com^
+127.0.0.1 regmacimbia.com^
 127.0.0.1 regrisaillerais.site^
 127.0.0.1 regulationprivilegescan.top^
 127.0.0.1 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
@@ -13402,6 +13675,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 relevanti.com^
 127.0.0.1 reliancehamlet.com^
 127.0.0.1 remainfascinatedhappy.com^
+127.0.0.1 remainingshook.com^
 127.0.0.1 remainttalenty.site^
 127.0.0.1 remarketingpixel.com^
 127.0.0.1 remarravions.xyz^
@@ -13418,6 +13692,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 reojou.com^
 127.0.0.1 reopenmetresubstance.com^
 127.0.0.1 reople.co.kr^
+127.0.0.1 reorganizeprince.com^
 127.0.0.1 reorganizewallet.com^
 127.0.0.1 repairedtightslavishness.com^
 127.0.0.1 repetaradiez.xyz^
@@ -13433,7 +13708,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 reportsnakefill.com^
 127.0.0.1 reprak.com^
 127.0.0.1 representationfighter.com^
-127.0.0.1 representativeskipcloudy.com^
 127.0.0.1 represiderp.top^
 127.0.0.1 reproachoctavian.com^
 127.0.0.1 reprohibasse.xyz^
@@ -13452,7 +13726,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 rescuephrase.com^
 127.0.0.1 resentmentveneering.com^
 127.0.0.1 reservehearingmissing.com^
-127.0.0.1 reservoircourthouse.com^
 127.0.0.1 residebroadly.com^
 127.0.0.1 resissylvespu.info^
 127.0.0.1 resistcorrectly.com^
@@ -13462,6 +13735,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 resolvedweighpasswords.com^
 127.0.0.1 resonance.pk^
 127.0.0.1 respectfulcoal.com^
+127.0.0.1 respectivepreservation.com^
 127.0.0.1 respirationcafeincomparable.com^
 127.0.0.1 respirationghastly.com^
 127.0.0.1 respiratorhair.com^
@@ -13533,6 +13807,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rexbeautifully.com^
 127.0.0.1 rexbucks.com^
 127.0.0.1 rexujojo.pro^
+127.0.0.1 rfihub.com^
 127.0.0.1 rfihub.net^
 127.0.0.1 rfity.com^
 127.0.0.1 rgttoipdr.com^
@@ -13556,7 +13831,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 richcatis.com^
 127.0.0.1 richmedia247.com^
 127.0.0.1 richwebmedia.com^
-127.0.0.1 rick-rick-rob.com^
 127.0.0.1 riderfabric.com^
 127.0.0.1 ridethesisfrankly.com^
 127.0.0.1 ridferbad.com^
@@ -13611,6 +13885,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rkfnrkjfnrkfnkjh.xyz^
 127.0.0.1 rkomf.com^
 127.0.0.1 rkpecade.com^
+127.0.0.1 rkxkesgncpkcf.xyz^
 127.0.0.1 rkyijdrys.com^
 127.0.0.1 rlomivunesqal.com^
 127.0.0.1 rmbn.net^
@@ -13625,6 +13900,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rndrx0rqwkb8.com^
 127.0.0.1 rndskittytor.com^
 127.0.0.1 rnigait.com^
+127.0.0.1 rnkasjneejw.xyz^
 127.0.0.1 rnmd.net^
 127.0.0.1 rnorlexanderly.info^
 127.0.0.1 ro7s8wo57qnb.com^
@@ -13675,6 +13951,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rosemand.pro^
 127.0.0.1 roserobotx.online^
 127.0.0.1 roserobotx.ru^
+127.0.0.1 rosmjbees.com^
 127.0.0.1 rosqb6vb1cqp.com^
 127.0.0.1 rosteldicycle.cam^
 127.0.0.1 rosyteapotgabble.com^
@@ -13692,6 +13969,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 roujonoa.net^
 127.0.0.1 roulediana.com^
 127.0.0.1 rousedmilk.com^
+127.0.0.1 roustarlyan.com^
 127.0.0.1 roustast.net^
 127.0.0.1 routeit.one^
 127.0.0.1 routeme.one^
@@ -13712,10 +13990,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 rozivpxtl.com^
 127.0.0.1 rpjzlykhkdc.com^
 127.0.0.1 rprygapywrk.com^
+127.0.0.1 rptnwbxbl.com^
 127.0.0.1 rpts.org^
 127.0.0.1 rptxjrygvkmnl.xyz^
 127.0.0.1 rqhere.com^
 127.0.0.1 rqusuqakwyejjn.com^
+127.0.0.1 rqzmfbxjxfi.com^
 127.0.0.1 rs-stripe.com^
 127.0.0.1 rsalcch.com^
 127.0.0.1 rsaltsjt.com^
@@ -13727,6 +14007,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rszimg.com^
 127.0.0.1 rtantventu.biz^
 127.0.0.1 rtb-media.me^
+127.0.0.1 rtbbnr.com^
 127.0.0.1 rtbidder.net^
 127.0.0.1 rtbnowads.com^
 127.0.0.1 rtbpop.com^
@@ -13754,6 +14035,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rubiconproject.com^
 127.0.0.1 rubsayprelude.com^
 127.0.0.1 rucegipti.com^
+127.0.0.1 rucrop.com^
 127.0.0.1 ruefulspanishresolute.com^
 127.0.0.1 rugrukoca.com^
 127.0.0.1 rujioimped.xyz^
@@ -13769,6 +14051,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rungginlout.com^
 127.0.0.1 runghollow.com^
 127.0.0.1 runmewivel.com^
+127.0.0.1 runnyamowt.com^
 127.0.0.1 runtnc.net^
 127.0.0.1 rusenov.com^
 127.0.0.1 rushcostscomparison.com^
@@ -13788,6 +14071,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 rwlfznyvivh.com^
 127.0.0.1 rwn1sdb4xqa2.com^
 127.0.0.1 rwpads.com^
+127.0.0.1 rxrtvynxp.com^
 127.0.0.1 rxthdr.com^
 127.0.0.1 rydresa.info^
 127.0.0.1 ryhastille.info^
@@ -13812,7 +14096,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 s2blosh.com^
 127.0.0.1 s2d6.com^
 127.0.0.1 s2sterra.com^
-127.0.0.1 s4yxaqyq95.com^
 127.0.0.1 s83ovp6qyhco.com^
 127.0.0.1 s99i.org^
 127.0.0.1 sa.entireweb.com^
@@ -13863,6 +14146,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 samyarct.top^
 127.0.0.1 sanborner.xyz^
 127.0.0.1 sancontr.com^
+127.0.0.1 sandelf.com^
 127.0.0.1 sangogne.com^
 127.0.0.1 sankaudacityrefine.com^
 127.0.0.1 sapclasped.com^
@@ -13872,12 +14156,15 @@ vkcdnservice.appspot.com^
 127.0.0.1 saqthneauq.com^
 127.0.0.1 sarcasticlinezomby.com^
 127.0.0.1 sartagesampi.com^
+127.0.0.1 sartolutus.com^
 127.0.0.1 saryrecog.top^
 127.0.0.1 sasaniks.net^
 127.0.0.1 satisfactoryviolin.com^
+127.0.0.1 satneb.com^
 127.0.0.1 saturdayloathe.com^
 127.0.0.1 saub27i3os.com^
 127.0.0.1 sauceheirloom.com^
+127.0.0.1 saucepanshakymemorial.com^
 127.0.0.1 saucerharmlessinternational.com^
 127.0.0.1 saucesenseless.com^
 127.0.0.1 saucilytalwood.cam^
@@ -13908,6 +14195,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 schjmp.com^
 127.0.0.1 scholardevilcrayon.com^
 127.0.0.1 scholarshipidol.com^
+127.0.0.1 sciadopi5tysverticil1lata.com^
 127.0.0.1 scientifichoaxfutile.com^
 127.0.0.1 scillathemons.com^
 127.0.0.1 sconvtrk.com^
@@ -13915,6 +14203,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 scotlandon.club^
 127.0.0.1 scoutdealingdrift.com^
 127.0.0.1 screwdianasurgery.com^
+127.0.0.1 scribevideos.fun^
 127.0.0.1 scripsjeermint.com^
 127.0.0.1 scrubheiress.com^
 127.0.0.1 scrupulouscolonial.com^
@@ -13925,6 +14214,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sculifinanthools.site^
 127.0.0.1 sculptorshopfiend.com^
 127.0.0.1 sd5doozry8.com^
+127.0.0.1 sdfer.xyz^
 127.0.0.1 sdhfbvd.com^
 127.0.0.1 sdkfjxjertertry.com^
 127.0.0.1 sdnihyxlqiws.com^
@@ -13993,6 +14283,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 send-news.net^
 127.0.0.1 sensationaleducate.com^
 127.0.0.1 sensationdetermined.com^
+127.0.0.1 sensitivenessbuttons.com^
 127.0.0.1 sensitivenesscrummytea.com^
 127.0.0.1 sentexoticoncoming.com^
 127.0.0.1 sentphysically.com^
@@ -14017,6 +14308,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 servicegetbook.net^
 127.0.0.1 serving-sys.com^
 127.0.0.1 serving-system.com^
+127.0.0.1 servtraff97.com^
 127.0.0.1 seskeu3zk7.com^
 127.0.0.1 setbackrelishdivine.com^
 127.0.0.1 setemoump.com^
@@ -14044,6 +14336,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sg2rgnza7k9t.com^
 127.0.0.1 sgcsuscnyw.com^
 127.0.0.1 sgftrrs.com^
+127.0.0.1 sgifuqjieq.xyz^
 127.0.0.1 sgswuesocfr.com^
 127.0.0.1 shadeslonesome.com^
 127.0.0.1 shadowlegends.pro^
@@ -14057,6 +14350,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 shalleda.com^
 127.0.0.1 shamelesseagleheadstone.com^
 127.0.0.1 shamelessnullneutrality.com^
+127.0.0.1 shampooattackalways.com^
 127.0.0.1 shanaurg.net^
 127.0.0.1 shanta-jos.com^
 127.0.0.1 shaptefitho.com^
@@ -14078,7 +14372,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 sheeroop.com^
 127.0.0.1 sheerprotocol.com^
 127.0.0.1 sheerwhirlpool.com^
-127.0.0.1 shefficera.club^
 127.0.0.1 shenouth.com^
 127.0.0.1 shepeekr.net^
 127.0.0.1 shermore.info^
@@ -14107,6 +14400,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 shockersheva.com^
 127.0.0.1 shockingnovember.com^
 127.0.0.1 shockingstrategynovelty.com^
+127.0.0.1 shocucache.com^
 127.0.0.1 shodcryoft.com^
 127.0.0.1 shodroph.net^
 127.0.0.1 shoescreak.com^
@@ -14167,6 +14461,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 significantlywatertragedy.com^
 127.0.0.1 significbystal.club^
 127.0.0.1 sikelypleaste.site^
+127.0.0.1 sikogesta.com^
 127.0.0.1 silascandiedfastened.com^
 127.0.0.1 silklanguish.com^
 127.0.0.1 silkymalgr.casa^
@@ -14203,10 +14498,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 sixft-apart.com^
 127.0.0.1 sixminutes.biz^
 127.0.0.1 sixteenabsorptionbreed.com^
-127.0.0.1 sixtuxfixer.com^
 127.0.0.1 sjeffrontagr.top^
 127.0.0.1 sketchinferiorunits.com^
 127.0.0.1 sketmothe.space^
+127.0.0.1 skewlyundazed.com^
 127.0.0.1 skilfulbags.com^
 127.0.0.1 skillpropulsion.com^
 127.0.0.1 skilyake.net^
@@ -14236,6 +14531,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 slimelump.com^
 127.0.0.1 slimyfertilisedinventor.com^
 127.0.0.1 slingstapeats.com^
+127.0.0.1 slipclearing.com^
 127.0.0.1 slippersferry.com^
 127.0.0.1 slipperyextremelyvast.com^
 127.0.0.1 sllsbgjfamxckn.com^
@@ -14251,6 +14547,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 slychicks.com^
 127.0.0.1 slymagical.com^
 127.0.0.1 smaato.net^
+127.0.0.1 smac-ad.com^
 127.0.0.1 smallentpation.pro^
 127.0.0.1 smalltiberbridge.com^
 127.0.0.1 smart2cnjuh34jb.com^
@@ -14264,7 +14561,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 smigro.info^
 127.0.0.1 smilingpilgrim.com^
 127.0.0.1 smokedenforcementranch.com^
-127.0.0.1 smokerdecoy.com^
 127.0.0.1 smokerforestallinsane.com^
 127.0.0.1 smokingpetty.com^
 127.0.0.1 smoothbestialityteam.com^
@@ -14287,7 +14583,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 snitswaspshaft.com^
 127.0.0.1 snormida.top^
 127.0.0.1 snortedbingo.com^
-127.0.0.1 snortedconsciencethaw.com^
 127.0.0.1 snowdayonline.xyz^
 127.0.0.1 sntjim.com^
 127.0.0.1 snwpqybkb.com^
@@ -14298,18 +14593,28 @@ vkcdnservice.appspot.com^
 127.0.0.1 soapproceeding.com^
 127.0.0.1 soawhoaw.com^
 127.0.0.1 sobakapi2sa8la09.com^
+127.0.0.1 sobalf.com^
 127.0.0.1 sobatsizniy.com^
 127.0.0.1 soburge.com^
 127.0.0.1 socalledsteadilyeducated.com^
 127.0.0.1 socialbars-web1.com^
 127.0.0.1 socialbars-web4.com^
+127.0.0.1 sociocast.com^
+127.0.0.1 sociomantic.com^
 127.0.0.1 socketboredomdigital.com^
 127.0.0.1 socksorient.com^
+127.0.0.1 soft-com.biz^
+127.0.0.1 soft4dle.com^
 127.0.0.1 softenedprepare.com^
+127.0.0.1 softlygaiety.com^
+127.0.0.1 softonicads.com^
+127.0.0.1 softpopads.com^
 127.0.0.1 softspace.mobi^
 127.0.0.1 softwarepastel.com^
+127.0.0.1 softwares2015.com^
 127.0.0.1 soggykaes.com^
 127.0.0.1 sograuko.net^
+127.0.0.1 sohikephu.com^
 127.0.0.1 soholfit.com^
 127.0.0.1 soilenthusiasmshindig.com^
 127.0.0.1 sokitosa.com^
@@ -14319,6 +14624,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 solarmosa.com^
 127.0.0.1 solderplumboverreact.com^
 127.0.0.1 solelylounge.com^
+127.0.0.1 solepresumablystrangle.com^
+127.0.0.1 solideaved.com^
 127.0.0.1 solihullah.info^
 127.0.0.1 solitudeelection.com^
 127.0.0.1 solitudepeeves.com^
@@ -14328,10 +14635,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 soloistforcefulvarious.com^
 127.0.0.1 sololockscoin.com^
 127.0.0.1 soltitate.site^
+127.0.0.1 solvendtigrai.com^
 127.0.0.1 solvewebagitated.com^
 127.0.0.1 sombes.com^
 127.0.0.1 somedayanchovydepressing.com^
 127.0.0.1 somehowluxuriousreader.com^
+127.0.0.1 somemembersgesture.com^
 127.0.0.1 somethingglamourbeams.com^
 127.0.0.1 somethingprecursorfairfax.com^
 127.0.0.1 somewhate.club^
@@ -14342,12 +14651,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 sonsitself.com^
 127.0.0.1 soofeest.net^
 127.0.0.1 soonbigo.com^
+127.0.0.1 soonen.com^
 127.0.0.1 soosooka.com^
 127.0.0.1 sootuglyconfer.com^
 127.0.0.1 soperatory.xyz^
 127.0.0.1 sophang8.com^
 127.0.0.1 sophiasearch.com^
-127.0.0.1 sophomoremostlyplain.com^
 127.0.0.1 sordidstir.com^
 127.0.0.1 sorryfearknockout.com^
 127.0.0.1 sortacki.net^
@@ -14359,6 +14668,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sousaira.com^
 127.0.0.1 southene.club^
 127.0.0.1 southvane.com^
+127.0.0.1 souvenirsattachedcountenance.com^
 127.0.0.1 souvenirwatery.com^
 127.0.0.1 sovieashlig.club^
 127.0.0.1 soxg.xyz^
@@ -14366,6 +14676,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 soza6rsz3ezi.com^
 127.0.0.1 spaderonium.com^
 127.0.0.1 spagat.space^
+127.0.0.1 spamvariationswithin.com^
 127.0.0.1 spanhamweb.com^
 127.0.0.1 spankswindlewatchman.com^
 127.0.0.1 spannerfragileredhead.com^
@@ -14374,6 +14685,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sparedshabbylaugh.com^
 127.0.0.1 sparklerper.com^
 127.0.0.1 sparksne.com^
+127.0.0.1 sparkstudios.com^
 127.0.0.1 sparktrailerabonnement.com^
 127.0.0.1 spasbatwit.icu^
 127.0.0.1 spattermutiny.com^
@@ -14384,13 +14696,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 speciallyspecifiedsandwich.com^
 127.0.0.1 speciesdecency.com^
 127.0.0.1 specificallydoubtless.com^
+127.0.0.1 specificclick.net^
+127.0.0.1 specificmedia.com^
 127.0.0.1 specifypunkeventful.com^
-127.0.0.1 specimensspittleentrepreneur.com^
 127.0.0.1 specimenvampireserial.com^
 127.0.0.1 speckdiversitypiety.com^
 127.0.0.1 spectaclescasual.com^
+127.0.0.1 spectato.com^
+127.0.0.1 spectserjol.xyz^
 127.0.0.1 spedhowusing.com^
+127.0.0.1 speeb.com^
 127.0.0.1 speechmomentarily.com^
+127.0.0.1 speednetwork14.com^
 127.0.0.1 speedometergreatness.com^
 127.0.0.1 speedsagesleepy.com^
 127.0.0.1 speedsmoosruse.com^
@@ -14407,15 +14724,21 @@ vkcdnservice.appspot.com^
 127.0.0.1 spigotsmetonym.cam^
 127.0.0.1 spillsackterrified.com^
 127.0.0.1 spinachtighten.com^
+127.0.0.1 spinbox.net^
 127.0.0.1 spiralstab.com^
 127.0.0.1 spiritedirreparablemiscarriage.com^
 127.0.0.1 spiteaside.com^
 127.0.0.1 spittsprevi.club^
 127.0.0.1 splashfloating.com^
 127.0.0.1 splashforgodm.com^
+127.0.0.1 splashsjewels.com^
 127.0.0.1 spleniafallows.com^
 127.0.0.1 splittingpick.com^
 127.0.0.1 spnut.com^
+127.0.0.1 spongecell.com^
+127.0.0.1 sponsormob.com^
+127.0.0.1 sponsorpay.com^
+127.0.0.1 sponsorselect.com^
 127.0.0.1 sponsorsunstrokeanne.com^
 127.0.0.1 spontaneousguarded.com^
 127.0.0.1 spontaneousshady.com^
@@ -14423,12 +14746,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 spoonslaxoil.com^
 127.0.0.1 sport205.club^
 127.0.0.1 sportivki2v1cvetocher1fh.com^
+127.0.0.1 sportradarserving.com^
 127.0.0.1 sports-live-streams.club^
 127.0.0.1 sports-streams-online.best^
 127.0.0.1 sportstreams.xyz^
+127.0.0.1 sportsyndicator.com^
 127.0.0.1 spositidonm.biz^
 127.0.0.1 spotofspawn.com^
+127.0.0.1 spotrails.com^
+127.0.0.1 spotscenered.info^
 127.0.0.1 spotsetcpar.com^
+127.0.0.1 spottt.com^
+127.0.0.1 spotxcdn.com^
 127.0.0.1 spotxchange.com^
 127.0.0.1 spoutable.com^
 127.0.0.1 spreadingmulticultural.com^
@@ -14440,6 +14769,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sproutunfairprovisions.com^
 127.0.0.1 spruceatom.com^
 127.0.0.1 spuezain.com^
+127.0.0.1 spyafoepeyddb.xyz^
 127.0.0.1 sq2trk2.com^
 127.0.0.1 sqhneencmysrk.com^
 127.0.0.1 sqnwmwnwok.com^
@@ -14458,8 +14788,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 srodicham.com^
 127.0.0.1 sroiwcncfhi.com^
 127.0.0.1 srtk.net^
+127.0.0.1 srukdxvsk.com^
 127.0.0.1 srvtrck.com^
 127.0.0.1 srxy.xyz^
+127.0.0.1 ssers.xyz^
 127.0.0.1 ssionsupre.fun^
 127.0.0.1 sskmnews.pro^
 127.0.0.1 ssl-services.com^
@@ -14468,6 +14800,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 sslcheckerapi.com^
 127.0.0.1 ssncludingco.biz^
 127.0.0.1 ssorsophicla.info^
+127.0.0.1 ssuilbtg.xyz^
 127.0.0.1 ssumeras.top^
 127.0.0.1 stabiloseront.xyz^
 127.0.0.1 stackattacka.com^
@@ -14497,19 +14830,26 @@ vkcdnservice.appspot.com^
 127.0.0.1 start-xyz.com^
 127.0.0.1 start3dd0wnload.com^
 127.0.0.1 startappexchange.com^
+127.0.0.1 startpagea.com^
 127.0.0.1 startsmajesty.com^
 127.0.0.1 starvationpatio.com^
 127.0.0.1 starveornamentgeneralization.com^
 127.0.0.1 stashedaccel.cam^
+127.0.0.1 stat-rock.com^
+127.0.0.1 statcamp.net^
 127.0.0.1 statementssupervisorthorough.com^
+127.0.0.1 statsforads.com^
+127.0.0.1 statsmobi.com^
 127.0.0.1 statuewas.com^
-127.0.0.1 statutecompatibility.com^
+127.0.0.1 staulrut.net^
 127.0.0.1 stawhoph.com^
 127.0.0.1 stdirection.com^
 127.0.0.1 steadilyhooray.com^
 127.0.0.1 steakyesembarrass.com^
+127.0.0.1 stealthlockers.com^
 127.0.0.1 steamlightslaxative.com^
 127.0.0.1 steepto.com^
+127.0.0.1 step-step-go.com^
 127.0.0.1 stepfatherparamedicthem.com^
 127.0.0.1 stepkeydo.com^
 127.0.0.1 stepmotherembroidery.com^
@@ -14555,6 +14895,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 stootsou.net^
 127.0.0.1 stoppageacceptedgross.com^
 127.0.0.1 stoppatty.com^
+127.0.0.1 stoppedauditioningneed.com^
 127.0.0.1 stopsidafa.com^
 127.0.0.1 stopsrenewalcold.com^
 127.0.0.1 stopstopone.today^
@@ -14579,6 +14920,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 stremanp.com^
 127.0.0.1 strengthletterhotline.com^
 127.0.0.1 strenuoustarget.com^
+127.0.0.1 stressadmiredraffle.com^
 127.0.0.1 stressbureaucracyneighbour.com^
 127.0.0.1 stressfulpyjamas.com^
 127.0.0.1 stretchingcognitioncommission.com^
@@ -14641,7 +14983,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 superbdolly.com^
 127.0.0.1 superfastcdn.com^
 127.0.0.1 superintendsuckshaggy.com^
-127.0.0.1 superiorclueless.com^
 127.0.0.1 supermanmoonfracture.com^
 127.0.0.1 supernaturalcapricorn.com^
 127.0.0.1 superstriker.net^
@@ -14651,6 +14992,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 supplyglossailment.com^
 127.0.0.1 supportiveimpassableevasion.com^
 127.0.0.1 supportstew.com^
+127.0.0.1 supposefright.com^
 127.0.0.1 supreme-hunter.com^
 127.0.0.1 supremish.club^
 127.0.0.1 suptaibo.com^
@@ -14718,7 +15060,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 synsads.com^
 127.0.0.1 synthesissocietysplitting.com^
 127.0.0.1 syphilohmmaging.site^
-127.0.0.1 syrupmagical.com^
 127.0.0.1 syrvqblsaqcfmt.com^
 127.0.0.1 systemleadb.com^
 127.0.0.1 systerwithing.info^
@@ -14739,6 +15080,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tacklesuggestindoors.com^
 127.0.0.1 tacticalpizzanetwork.com^
 127.0.0.1 tadsitblimp.com^
+127.0.0.1 taetsiatomia.com^
 127.0.0.1 tagbom.com^
 127.0.0.1 taghaugh.com^
 127.0.0.1 taifouwo.com^
@@ -14757,6 +15099,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 taptyvexy.pro^
 127.0.0.1 tarabustasses.xyz^
 127.0.0.1 tarlifting.com^
+127.0.0.1 taroads.com^
 127.0.0.1 tartoals.net^
 127.0.0.1 tasteddeceived.com^
 127.0.0.1 tastedisparitychecking.com^
@@ -14765,19 +15108,21 @@ vkcdnservice.appspot.com^
 127.0.0.1 tateuniver.club^
 127.0.0.1 tathitch.net^
 127.0.0.1 tauntdoctrineestablishment.com^
+127.0.0.1 taxodiu2m2dis7tichum.com^
 127.0.0.1 tbkjttmdcjduhs.com^
 127.0.0.1 tbm09.com^
 127.0.0.1 tbnmmjm.com^
-127.0.0.1 tbtrck.com^
 127.0.0.1 tbv157xq.com^
 127.0.0.1 tcdnwha.com^
 127.0.0.1 td553.com^
 127.0.0.1 td563.com^
 127.0.0.1 td583.com^
+127.0.0.1 tdcbvxxhss.xyz^
 127.0.0.1 tdsjsext3.life^
 127.0.0.1 tdugvspdnq.com^
 127.0.0.1 teachcoexist.com^
 127.0.0.1 teads.tv^
+127.0.0.1 teakreese.com^
 127.0.0.1 teambetaffiliates.com^
 127.0.0.1 tearpilotzoo.com^
 127.0.0.1 tearsatecagey.work^
@@ -14789,10 +15134,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 techcrunchman.com^
 127.0.0.1 techitdoit.com^
 127.0.0.1 technicalityplayground.com^
-127.0.0.1 technicallylunaticgarbage.com^
 127.0.0.1 techniciansyllabuspersistent.com^
 127.0.0.1 technoratimedia.com^
 127.0.0.1 techoykd.com^
+127.0.0.1 tecors.com^
 127.0.0.1 tecuil.com^
 127.0.0.1 teddeparati.top^
 127.0.0.1 tedinexplori.biz^
@@ -14822,10 +15167,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 temphilltop.com^
 127.0.0.1 temposnitehah.work^
 127.0.0.1 temptationnecklace.com^
-127.0.0.1 temptedcreationnovel.com^
 127.0.0.1 tenantattackedoctober.com
 127.0.0.1 tend-new.com^
 127.0.0.1 tendents.club^
+127.0.0.1 tenderunderstatement.com^
 127.0.0.1 tensecolonialismwandering.com^
 127.0.0.1 tentinspiredcontradict.com^
 127.0.0.1 tentmess.com^
@@ -14862,6 +15207,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 tfosrv.com^
 127.0.0.1 tfpayjwjphuk.com^
 127.0.0.1 tfqexqeldxjvet.com^
+127.0.0.1 tfzznclztl.com^
+127.0.0.1 tgpsew.com^
+127.0.0.1 tguxiijalpaoggr.xyz^
 127.0.0.1 tgvbwjbnxz.com^
 127.0.0.1 tgxcmcoikpgek.com^
 127.0.0.1 tgzobwoutuwn.com^
@@ -14885,6 +15233,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 thebestfortech.com^
 127.0.0.1 thebestgame2020.com^
 127.0.0.1 thederati.com^
+127.0.0.1 theeburs.com^
+127.0.0.1 theerdax.com^
 127.0.0.1 theersoa.net^
 127.0.0.1 thefootpetso.com^
 127.0.0.1 thefuncoolstuff.com^
@@ -14919,7 +15269,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 thinnerlessenfounded.com^
 127.0.0.1 thiptumuce.com^
 127.0.0.1 third-tracking.com^
-127.0.0.1 thirgoad.top^
 127.0.0.1 thiscdn.com^
 127.0.0.1 thisiswaldo.com^
 127.0.0.1 thisisyourprize.site^
@@ -14951,6 +15300,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 thousandimplied.com^
 127.0.0.1 thricemodestsuffix.com^
 127.0.0.1 thrillingholesantarctic.com^
+127.0.0.1 throbbingmill.com^
 127.0.0.1 throposehodger.pro^
 127.0.0.1 throughhonouredhighest.com^
 127.0.0.1 thrustdeadconsiderably.com^
@@ -14962,6 +15312,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 thursdayfeeemployee.com^
 127.0.0.1 thygrepuwo.pro^
 127.0.0.1 thyoaflucid.com^
+127.0.0.1 thypotipu.com^
 127.0.0.1 thywiphegru.com^
 127.0.0.1 ti583.com^
 127.0.0.1 tibacta.com^
@@ -15034,6 +15385,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tmnlsmvgrkoj.com^
 127.0.0.1 tmpclk.com^
 127.0.0.1 tmqhw.us^
+127.0.0.1 tmrjmp.com^
 127.0.0.1 tncomg.com^
 127.0.0.1 tncred.com^
 127.0.0.1 tnvilqncje.com^
@@ -15051,7 +15403,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 todhamilton.pro^
 127.0.0.1 toeschistache.com^
 127.0.0.1 toffeehierarchy.com^
-127.0.0.1 tofufiresquid.com^
 127.0.0.1 toglooman.com^
 127.0.0.1 togoutso.com^
 127.0.0.1 togroltu.net^
@@ -15075,7 +15426,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 topcpmnetwork.com^
 127.0.0.1 topdisplaycontent.com^
 127.0.0.1 tophotbanan.com^
-127.0.0.1 toplesstacticsdepend.com^
 127.0.0.1 topmaincash.com^
 127.0.0.1 topmosthospitable.com^
 127.0.0.1 topperformance.xyz^
@@ -15094,6 +15444,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 torrentsafeguard.com^
 127.0.0.1 torrentvicious.com^
 127.0.0.1 tortoiselavender.com^
+127.0.0.1 torturegratified.com^
 127.0.0.1 tosfeed.com^
 127.0.0.1 totallifeguru.com^
 127.0.0.1 totentacruelor.com^
@@ -15108,7 +15459,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 towardadvised.com^
 127.0.0.1 towboiledscallop.com^
 127.0.0.1 townsdatabasekidding.com^
-127.0.0.1 toxicbraid.com^
 127.0.0.1 toybahyn.com^
 127.0.0.1 toysvestigetramp.com^
 127.0.0.1 toywafdduceezo.com^
@@ -15126,7 +15476,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 trackapi.net^
 127.0.0.1 trackcapitalvane.com^
 127.0.0.1 tracker-tds.info^
-127.0.0.1 trackerislive.com^
 127.0.0.1 trackingsltns.click^
 127.0.0.1 trackingzen.com^
 127.0.0.1 trackmundo.com^
@@ -15137,6 +15486,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 traff0221.com^
 127.0.0.1 traffic.adexprtz.com^
 127.0.0.1 trafficdok.com^
+127.0.0.1 trafficlide.com^
 127.0.0.1 trafficmoon.com^
 127.0.0.1 trafficmoose.com^
 127.0.0.1 trafficoverus.com^
@@ -15159,6 +15509,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 transientdeteriorate.com^
 127.0.0.1 transmittericilysunstroke.com^
 127.0.0.1 transmitterremember.com^
+127.0.0.1 traost.com^
 127.0.0.1 trapasol.com^
 127.0.0.1 trappist-1d.com^
 127.0.0.1 trapsaminohut.com^
@@ -15178,6 +15529,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 trc85.com^
 127.0.0.1 trccmpnlnk.com^
 127.0.0.1 trcked.me^
+127.0.0.1 treasuresensignron.com^
 127.0.0.1 treeintentlytravel.com^
 127.0.0.1 trejar.com^
 127.0.0.1 trellian.com^
@@ -15232,7 +15584,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 trunkmafia.com^
 127.0.0.1 trustaffs.com^
 127.0.0.1 trusted-click-host.com^
+127.0.0.1 trustedgatetocontent.com^
 127.0.0.1 trustmeiamcdn.com^
+127.0.0.1 trustworthytopmost.com^
 127.0.0.1 trustyfine.com^
 127.0.0.1 truthfulstem.com^
 127.0.0.1 trymynewspirit.com^
@@ -15243,6 +15597,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tsandycateup.com^
 127.0.0.1 tsardagger.com^
 127.0.0.1 tslomhfys.com^
+127.0.0.1 tsmyalesc.club^
 127.0.0.1 tspops.com^
 127.0.0.1 tsuam.com^
 127.0.0.1 tswmel.com^
@@ -15260,8 +15615,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 tubecorp.com^
 127.0.0.1 tubemov.com^
 127.0.0.1 tudotecnologia.site^
+127.0.0.1 tuesdayfetidlit.com^
 127.0.0.1 tujestimater.pro^
-127.0.0.1 tujuvyfu.online^
 127.0.0.1 tuknelym.com^
 127.0.0.1 tulecheja.pro^
 127.0.0.1 tulipinventpins.com^
@@ -15272,6 +15627,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tumri.net^
 127.0.0.1 tumultrecast.com^
 127.0.0.1 tunviralbionic.com^
+127.0.0.1 tupope.com^
 127.0.0.1 tur-tur-key.com^
 127.0.0.1 turbanmixturephysician.com^
 127.0.0.1 turboadv.com^
@@ -15319,6 +15675,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 txcmjo.com^
 127.0.0.1 txgakrasgns.com^
 127.0.0.1 txpodqjhabos.com^
+127.0.0.1 txrzhshxdtn.com^
 127.0.0.1 txyhadai.com^
 127.0.0.1 txzvtgkthjq.com^
 127.0.0.1 tygafso.com^
@@ -15333,12 +15690,12 @@ vkcdnservice.appspot.com^
 127.0.0.1 tysicyse.com^
 127.0.0.1 tytheglupy.com^
 127.0.0.1 tzlchxdwreirbv.com^
+127.0.0.1 tzwkiorzdqqa.com^
 127.0.0.1 u-watchit.com^
 127.0.0.1 u07k3pqfw5jh.com^
 127.0.0.1 u1trkqf.com^
 127.0.0.1 u29qnuav3i6p.com^
 127.0.0.1 u2htfd3bvwvl.com^
-127.0.0.1 u39chju32a.com^
 127.0.0.1 u595sebqih.com^
 127.0.0.1 u9oxdnxk8b.com^
 127.0.0.1 uagopaamgcxme.com^
@@ -15347,6 +15704,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ucatedcanc.top^
 127.0.0.1 ucdn.website^
 127.0.0.1 ucheephu.com^
+127.0.0.1 ucjrmjilkdaudwj.xyz^
 127.0.0.1 udarem.com^
 127.0.0.1 udbvcevablxpk.com^
 127.0.0.1 udiwhryjqdsc.com^
@@ -15358,9 +15716,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 uektb.com^
 127.0.0.1 uel-uel-fie.com^
 127.0.0.1 uelllwrite.com^
+127.0.0.1 ueoftnwvtasmwkw.xyz^
 127.0.0.1 uessentent.fun^
 127.0.0.1 ueudahqfig.com^
 127.0.0.1 ueuerea.com^
+127.0.0.1 uexjrlkcskm.xyz^
 127.0.0.1 ufeaqyzn.com^
 127.0.0.1 ufinkln.com^
 127.0.0.1 ufoukolt.com^
@@ -15368,7 +15728,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 ufuuwfdwsayls.com^
 127.0.0.1 ufvyywlrgpgpyl.com^
 127.0.0.1 ufwpwt.com^
+127.0.0.1 uganod.com^
 127.0.0.1 ugdhsrhcq.com^
+127.0.0.1 ugishdff.xyz^
 127.0.0.1 uglycotsjade.casa^
 127.0.0.1 ugmovxfikvhct.com^
 127.0.0.1 ugoupams.com^
@@ -15384,6 +15746,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 uhpdsplo.com^
 127.0.0.1 uhsmmaq4l2n5.com^
 127.0.0.1 uhxdsplo.com^
+127.0.0.1 uhzjdfpccxtne.com^
 127.0.0.1 uieoogjarimcey.com^
 127.0.0.1 uigruwtql.com^
 127.0.0.1 uilsplentialde.top^
@@ -15395,6 +15758,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 uiwaqbvvhz.com^
 127.0.0.1 uixsuffkzkhbj.com^
 127.0.0.1 ujccccb.com^
+127.0.0.1 ujlvongqbjouubp.xyz^
 127.0.0.1 ujuqvalvvvof.com^
 127.0.0.1 ukbanners.com^
 127.0.0.1 ukcomparends.pro^
@@ -15407,9 +15771,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 ularlyinteres.biz^
 127.0.0.1 ularunicalrep.info^
 127.0.0.1 ulcerselfservice.com^
+127.0.0.1 ulfewmgywwxs.xyz^
 127.0.0.1 ulngtppm.com^
 127.0.0.1 ulourgaz.net^
-127.0.0.1 ulppreciat.club^
 127.0.0.1 ulukaris.com^
 127.0.0.1 uluswozzel.info^
 127.0.0.1 umannwig.com^
@@ -15423,8 +15787,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 unacceptableclevercapable.com^
 127.0.0.1 unanimis.co.uk^
 127.0.0.1 unattractivefrigilityfrigility.com^
+127.0.0.1 unavailablebackedwaved.com^
 127.0.0.1 unclemaidenprecise.com^
 127.0.0.1 uncooleserine.cam^
+127.0.0.1 uncovershotexcept.com^
 127.0.0.1 uncurstcrumbs.com^
 127.0.0.1 undedfracted.club^
 127.0.0.1 underclick.ru^
@@ -15501,6 +15867,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 uporods.com^
 127.0.0.1 uprimp.com^
 127.0.0.1 uprivaladserver.net^
+127.0.0.1 uprotectiehone.xyz^
 127.0.0.1 upsettingcrescentwig.com^
 127.0.0.1 upsettommyvomit.com^
 127.0.0.1 upsghpnqjoo.com^
@@ -15512,6 +15879,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 upush.co^
 127.0.0.1 uramog.com^
 127.0.0.1 urchrevening.info^
+127.0.0.1 urdmorgytjnbn.xyz^
 127.0.0.1 urgesick.com^
 127.0.0.1 urimteku.com^
 127.0.0.1 urineyieldedwasted.com^
@@ -15520,6 +15888,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 urmilan.info^
 127.0.0.1 urnkawsxxh.com^
 127.0.0.1 urokcwwzno.com^
+127.0.0.1 urotenukna.xyz^
 127.0.0.1 urt7bpvfz4am.com^
 127.0.0.1 urtirepor.com^
 127.0.0.1 urubhfce.com^
@@ -15556,6 +15925,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 utarget.co.uk^
 127.0.0.1 utarget.pro^
 127.0.0.1 utarget.ru^
+127.0.0.1 utecer.com^
 127.0.0.1 utenod.com^
 127.0.0.1 uthorner.info^
 127.0.0.1 utilitiespridesweat.com^
@@ -15587,7 +15957,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 uxrjdh.com^
 127.0.0.1 uyhlpmehm.com^
 127.0.0.1 uzcdnzta.com^
-127.0.0.1 uziilrlvkiy.com^
 127.0.0.1 uznbehyrn.com^
 127.0.0.1 uzozagug.xyz^
 127.0.0.1 uzxkuwalnjp.com^
@@ -15638,6 +16007,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 vatlodesim.com^
 127.0.0.1 vatname.info^
 127.0.0.1 vaultwrite.com^
+127.0.0.1 vaureept.com^
 127.0.0.1 vawhigufi.com^
 127.0.0.1 vax-now.com^
 127.0.0.1 vbeas.xyz^
@@ -15650,6 +16020,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 vcommission.com^
 127.0.0.1 vcpcvmfnocsfay.com^
 127.0.0.1 vddf0.club^
+127.0.0.1 vddoxukqwh.xyz^
 127.0.0.1 vdkejkyztas.com^
 127.0.0.1 vdopia.com^
 127.0.0.1 veanumb.biz^
@@ -15665,6 +16036,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 velvetrattle.com^
 127.0.0.1 vempozah.net^
 127.0.0.1 vemtoala.com^
+127.0.0.1 vendedrt.xyz^
 127.0.0.1 vendigamus.com^
 127.0.0.1 vendnibtemp.com^
 127.0.0.1 venetrigni.com^
@@ -15725,8 +16097,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 vidsforuz.com^
 127.0.0.1 vidsorg.com^
 127.0.0.1 vidstorenx.com^
+127.0.0.1 vidvas1.com^
+127.0.0.1 vidvas2.com^
+127.0.0.1 vidvas3.com^
+127.0.0.1 vidvas4.com^
+127.0.0.1 vidvas5.com^
 127.0.0.1 vidverto.io^
 127.0.0.1 viency-vering.com^
+127.0.0.1 view-flix.com^
 127.0.0.1 viewablemedia.net^
 127.0.0.1 viewclc.com^
 127.0.0.1 viewscout.com^
@@ -15739,6 +16117,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 viighj.com^
 127.0.0.1 viihot.com^
 127.0.0.1 viirad.com^
+127.0.0.1 viitgb.com^
 127.0.0.1 viliaff.com^
 127.0.0.1 villageeatable.com^
 127.0.0.1 villelonguien.site^
@@ -15759,6 +16138,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 viralmediatech.com^
 127.0.0.1 virashux.net^
 127.0.0.1 virginoxygen.com^
+127.0.0.1 virotc.com^
 127.0.0.1 virtuallycoollybarber.com^
 127.0.0.1 visariomedia.com^
 127.0.0.1 visiads.com^
@@ -15789,13 +16169,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 vltwox7zl7h1wv.com^
 127.0.0.1 vmctzaxkc.com^
 127.0.0.1 vmhzvqzx.com^
-127.0.0.1 vmmvqbqgqueh.com^
 127.0.0.1 vmraahnmspzy.com^
 127.0.0.1 vmuid.com^
 127.0.0.1 vn6e8w2w92.com^
 127.0.0.1 vnacdnryl.com^
-127.0.0.1 vnbugnmwq.com^
-127.0.0.1 vnkevmoytft.com^
 127.0.0.1 vnrherdsxr.com^
 127.0.0.1 vntsm.com^
 127.0.0.1 voapozol.com^
@@ -15807,7 +16184,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 vocationethelsky.com^
 127.0.0.1 voevtwfpd.xyz^
 127.0.0.1 vogo-vogo.ru^
-127.0.0.1 vogosita.com^
 127.0.0.1 vogueoatgap.com^
 127.0.0.1 voicemakingrenown.com^
 127.0.0.1 voipnewswire.net^
@@ -15874,6 +16250,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 vsvihsib.com^
 127.0.0.1 vswcdns.com^
 127.0.0.1 vsyaiejmfooba.com^
+127.0.0.1 vtfdfrxfxktq.xyz^
 127.0.0.1 vth05dse.com^
 127.0.0.1 vtlahjkbd.com^
 127.0.0.1 vudoutch.com^
@@ -15949,6 +16326,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wasp-182b.com
 127.0.0.1 wasprenovate.com^
 127.0.0.1 wastedcooperate.com^
+127.0.0.1 wastedposterapostrophe.com^
 127.0.0.1 wastesshimssat.world^
 127.0.0.1 watchcensorbully.com^
 127.0.0.1 watchercasketremained.com^
@@ -15958,6 +16336,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 watgzh.com^
 127.0.0.1 waugeboa.net^
 127.0.0.1 waugique.net^
+127.0.0.1 waust.at^
 127.0.0.1 wauthaik.net^
 127.0.0.1 wauthaum.com^
 127.0.0.1 wautoosa.net^
@@ -15975,6 +16354,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wbidder.online^
 127.0.0.1 wbidr.com^
 127.0.0.1 wboptim.online^
+127.0.0.1 wboux.com^
 127.0.0.1 wcdny.com^
 127.0.0.1 wciivrou.com^
 127.0.0.1 wcmcs.net^
@@ -16028,6 +16408,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 welsworn.info^
 127.0.0.1 wengesog.net^
 127.0.0.1 wensoono.com^
+127.0.0.1 wentwidespread.com^
 127.0.0.1 weownthetraffic.com^
 127.0.0.1 wepthandbook.com^
 127.0.0.1 weptpremisedefined.com^
@@ -16045,6 +16426,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wgbeugkn.com^
 127.0.0.1 wgpsjcpdulptl.com^
 127.0.0.1 wgqakonrahgprc.com^
+127.0.0.1 wgqeigtu.xyz^
 127.0.0.1 wgrjizeaimbxx.com^
 127.0.0.1 whackaggressive.com^
 127.0.0.1 whackmaturityclosure.com^
@@ -16095,8 +16477,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 whixekica.pro^
 127.0.0.1 whixochyxy.pro^
 127.0.0.1 whkesznbi.com^
+127.0.0.1 whoachoh.com^
 127.0.0.1 whoavaud.net^
 127.0.0.1 whoevercloakroom.com^
+127.0.0.1 whoeverfrecklessfrecklesssupper.com^
 127.0.0.1 whohuphi.com^
 127.0.0.1 wholecommonposts.com^
 127.0.0.1 wholefreshposts.com^
@@ -16105,6 +16489,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 whoseuntruelag.com^
 127.0.0.1 whoshood.com^
 127.0.0.1 whouledu.com^
+127.0.0.1 whoutsog.net^
 127.0.0.1 whowhipi.net^
 127.0.0.1 whozuxoko.com^
 127.0.0.1 whs82908.com^
@@ -16120,6 +16505,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 widgetadvertising.biz^
 127.0.0.1 widgetbucks.com^
 127.0.0.1 widvffyokrmlkk.com^
+127.0.0.1 wifevini.com^
 127.0.0.1 wifgutjpmqctrx.com^
 127.0.0.1 wigetmedia.com^
 127.0.0.1 wigglecrisis.com^
@@ -16134,6 +16520,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 willingplatitude.com^
 127.0.0.1 willowdrainsuspend.com^
 127.0.0.1 willowmutilatebanking.com^
+127.0.0.1 wimpossip.xyz^
 127.0.0.1 wimsocou.com^
 127.0.0.1 win-your-prize-now2.life^
 127.0.0.1 winbuyer.com^
@@ -16172,7 +16559,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 witmorningmuscles.com^
 127.0.0.1 witsoats.net^
 127.0.0.1 witstandfridge.com^
-127.0.0.1 wiwapaxo.xyz^
 127.0.0.1 wizardssqueakcontractor.com^
 127.0.0.1 wizhumpgyros.com^
 127.0.0.1 wizliebeg.com^
@@ -16180,15 +16566,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 wkcuhilbg.com^
 127.0.0.1 wkfdymfxmyckr.com^
 127.0.0.1 wkll7glfazgp.com^
+127.0.0.1 wknaczrxjrj.com^
 127.0.0.1 wlapdczzpceb.com^
 127.0.0.1 wlbcqvral.com^
 127.0.0.1 wlengrclxzypf.com^
+127.0.0.1 wlnrofikppw.xyz^
 127.0.0.1 wlzohrpjbuq.com^
 127.0.0.1 wm-abms.com^
 127.0.0.1 wma.io^
 127.0.0.1 wmnejndvberrd.com^
 127.0.0.1 wmonthsaft.biz^
 127.0.0.1 wmruzfvtg.com^
+127.0.0.1 wnbeiskivkkmpy.xyz^
 127.0.0.1 wndhsykmbe.com^
 127.0.0.1 wndlkj.com^
 127.0.0.1 wnllmofqxsziio.com^
@@ -16207,6 +16596,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wonderhsjnsd.com^
 127.0.0.1 wood-pen.com^
 127.0.0.1 woodynoddinghalfbrother.com^
+127.0.0.1 woofheapverdure.com^
 127.0.0.1 woofspectrumbookcase.com^
 127.0.0.1 woogoust.com^
 127.0.0.1 woogrooz.net^
@@ -16219,6 +16609,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 woredi.com^
 127.0.0.1 workedlew.top^
 127.0.0.1 workplacehorse.com^
+127.0.0.1 workplacelimetree.com^
 127.0.0.1 workshirty.club^
 127.0.0.1 worldsbestoffer.xyz^
 127.0.0.1 worldspromising.com^
@@ -16231,8 +16622,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 worthersefim.club^
 127.0.0.1 worthlessjeepphysician.com^
 127.0.0.1 worthyadvertising.com^
+127.0.0.1 wosork.com^
 127.0.0.1 woundedassurance.com^
 127.0.0.1 wounderfullife.xyz^
+127.0.0.1 wovazaix.com^
 127.0.0.1 wowad.xyz^
 127.0.0.1 wowjogsot.com^
 127.0.0.1 wowreality.info^
@@ -16244,9 +16637,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 wpnjs.com^
 127.0.0.1 wpnsrv.com^
 127.0.0.1 wpu.sh^
+127.0.0.1 wpunativesh.com^
 127.0.0.1 wpush.org^
 127.0.0.1 wpyjkfcucjpuwh.com^
-127.0.0.1 wqgdajjozr.com^
 127.0.0.1 wqlkp.com^
 127.0.0.1 wqmfbqpbnmgyi.com^
 127.0.0.1 wqnmbecaugfpl.com^
@@ -16254,6 +16647,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wqpoqalozlciw.com^
 127.0.0.1 wretchauraflirt.com^
 127.0.0.1 wretchedchapterdozen.com^
+127.0.0.1 wretchedsuperiority.com^
 127.0.0.1 writerredolasy.club^
 127.0.0.1 writerspeechless.com^
 127.0.0.1 writerswhow.biz^
@@ -16282,6 +16676,8 @@ vkcdnservice.appspot.com^
 127.0.0.1 wvmvgqvmbobxb.xyz^
 127.0.0.1 wvpkoyjoq.com^
 127.0.0.1 wvs3bmct6mkz.com^
+127.0.0.1 wwfx.xyz^
+127.0.0.1 wwjijoywqiu.xyz^
 127.0.0.1 wwnrdqxo.com^
 127.0.0.1 wwpon365.ru^
 127.0.0.1 wwrpfevyca.com^
@@ -16293,7 +16689,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 wwzacuiecwaz.com^
 127.0.0.1 wxspfkln.com^
 127.0.0.1 wxyn0o3xmora.com^
-127.0.0.1 wybutary.xyz^
+127.0.0.1 wyliswbimeotllt.xyz^
 127.0.0.1 wynather.com^
 127.0.0.1 wypovuwu.pro^
 127.0.0.1 wysitewhe.com^
@@ -16305,7 +16701,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 x-adservice.com^
 127.0.0.1 x40u1vj75ks9.com^
 127.0.0.1 x4pollyxxpush.com^
-127.0.0.1 x7xirtzmot.com^
 127.0.0.1 x9b05t5jsqje.com^
 127.0.0.1 xad.com^
 127.0.0.1 xadcentral.com^
@@ -16363,7 +16758,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 ximitedawas.space^
 127.0.0.1 xineday.com^
 127.0.0.1 xiqgqftva.com^
-127.0.0.1 xixlgtczn.com^
 127.0.0.1 xizupsawo.pro^
 127.0.0.1 xjngxaij.com^
 127.0.0.1 xkkhgnszfd.com^
@@ -16384,6 +16778,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 xmlppcbuzz.com^
 127.0.0.1 xmlrtb.com^
 127.0.0.1 xmlwizard.com^
+127.0.0.1 xmvusqpp.com^
 127.0.0.1 xmwbplpgjc.com^
 127.0.0.1 xndvfnon.com^
 127.0.0.1 xniusvzxu.com^
@@ -16405,18 +16800,25 @@ vkcdnservice.appspot.com^
 127.0.0.1 xqiaqb.com^
 127.0.0.1 xqzlgbbe.com^
 127.0.0.1 xr117.xyz^
+127.0.0.1 xrdatsuclxrvpx.com^
 127.0.0.1 xrhobrrgwhtlu.com^
 127.0.0.1 xroynaxvqvouy.com^
 127.0.0.1 xrqrpdxqpm.com^
 127.0.0.1 xsrs.com^
+127.0.0.1 xsusmtvgvxp.xyz^
+127.0.0.1 xtcfjrwdyga.xyz^
 127.0.0.1 xtmuasvldoiz.com^
 127.0.0.1 xtow.xyz^
+127.0.0.1 xtrackme.com^
 127.0.0.1 xtremeserve.xyz^
 127.0.0.1 xts7fgss.com^
 127.0.0.1 xu5ctufltn.com^
 127.0.0.1 xubob.com^
+127.0.0.1 xudawhuwa.com^
 127.0.0.1 xuhycaphe.com^
+127.0.0.1 xunucegy.com^
 127.0.0.1 xuteketa.com^
+127.0.0.1 xuwdejffxtxx.xyz^
 127.0.0.1 xvbelink.com^
 127.0.0.1 xvcmsfoeheu.com^
 127.0.0.1 xvcrbzyiul.com^
@@ -16424,8 +16826,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 xvstvids.co^
 127.0.0.1 xvstvids.com^
 127.0.0.1 xvwebllndr.com^
+127.0.0.1 xvxxbrzhjunco.com^
 127.0.0.1 xwhtnxakjqrtf.com^
 127.0.0.1 xwktyiydn.com^
+127.0.0.1 xwkxpxili.com^
 127.0.0.1 xxccdshj.com^
 127.0.0.1 xxe2.com^
 127.0.0.1 xxladu.com^
@@ -16438,6 +16842,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 xxxallaccesspass.com^
 127.0.0.1 xxxbannerswap.com^
 127.0.0.1 xxxex.com^
+127.0.0.1 xxxijmp.com^
 127.0.0.1 xxxjmp.com^
 127.0.0.1 xxxmov.site^
 127.0.0.1 xxxmyself.com^
@@ -16479,7 +16884,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 yauhbgfc.com^
 127.0.0.1 yawcoynag.com^
 127.0.0.1 yazcash.com^
-127.0.0.1 yb0t.com^
 127.0.0.1 ybytexer.xyz^
 127.0.0.1 yceml.net^
 127.0.0.1 ycipiwic.xyz^
@@ -16490,6 +16894,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ye185hcamw.com^
 127.0.0.1 yeabble.com^
 127.0.0.1 yeaonesad.com^
+127.0.0.1 yedikthslvl.xyz^
 127.0.0.1 yeegsxcwbnn.com^
 127.0.0.1 yegsrmqqpg.com^
 127.0.0.1 yellowacorn.net^
@@ -16501,10 +16906,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 yescomition.club^
 127.0.0.1 yesmessenger.com^
 127.0.0.1 yesnexus.com^
+127.0.0.1 yesterdayscancautiously.com^
+127.0.0.1 yestole.com^
 127.0.0.1 yfbiwkxjkaw.com^
 127.0.0.1 yfcxzvdyrnp.com^
 127.0.0.1 yfibjzosrqrtmv.com^
-127.0.0.1 yfivoqeh.online^
 127.0.0.1 yfomeimset.com^
 127.0.0.1 yfum.com^
 127.0.0.1 yfzjhvllsioo.com^
@@ -16513,10 +16919,10 @@ vkcdnservice.appspot.com^
 127.0.0.1 yggzrdiq.com^
 127.0.0.1 ygnbukywx.com^
 127.0.0.1 ygqukhllchpw.com^
+127.0.0.1 ygudtbdnhkhlmkd.xyz^
 127.0.0.1 yguuoibdsscki.com^
 127.0.0.1 ygzkedoxwhqlzp.com^
 127.0.0.1 yhaxlxpuwl.com^
-127.0.0.1 yhhbtavgpuo.com^
 127.0.0.1 yhmceakev.com^
 127.0.0.1 yieldads.com^
 127.0.0.1 yieldadvert.com^
@@ -16535,12 +16941,14 @@ vkcdnservice.appspot.com^
 127.0.0.1 yiopse.com^
 127.0.0.1 yiydtredbofv.com^
 127.0.0.1 yjaobumyovp.com^
+127.0.0.1 yjxmijncfaiag.xyz^
 127.0.0.1 yjyjnolllezo.com^
+127.0.0.1 ykbeeweifodyyb.com^
 127.0.0.1 ykcoijcfpzda.com^
 127.0.0.1 ykrssqaufg.com^
+127.0.0.1 ykxipfcg.com^
 127.0.0.1 yldbt.com^
 127.0.0.1 yldmgrimg.net^
-127.0.0.1 ylicxdkgkvfc.com^
 127.0.0.1 yltcgyud.com^
 127.0.0.1 ylvessovi.pro^
 127.0.0.1 ylwu7xm3a1wv.com^
@@ -16595,9 +17003,11 @@ vkcdnservice.appspot.com^
 127.0.0.1 ypuxlzxa.com^
 127.0.0.1 ypwpzgld.com^
 127.0.0.1 ypymsisnwv.com^
+127.0.0.1 yqanlvekcrfkd.xyz^
 127.0.0.1 yqeuu.com^
 127.0.0.1 yqezqofkb1nnmz.com^
 127.0.0.1 yqorexok.xyz^
+127.0.0.1 yqsoxyhmumnn.com^
 127.0.0.1 yr9n47004g.com^
 127.0.0.1 ysdtcdnoox.com^
 127.0.0.1 ysmhcwwvgtcx.com^
@@ -16606,7 +17016,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 ytimm.com^
 127.0.0.1 ytsa.net^
 127.0.0.1 ytuxrqbxf.com^
-127.0.0.1 ytymetuw.xyz^
 127.0.0.1 yu0123456.com^
 127.0.0.1 yudexjr.com^
 127.0.0.1 yuhuads.com^
@@ -16619,11 +17028,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 yuppyads.com^
 127.0.0.1 yuqnibpyn.com^
 127.0.0.1 yuriaftereleven.com^
-127.0.0.1 yuriassignmentmall.com^
 127.0.0.1 yuuykrunvh.com^
 127.0.0.1 yvatswzotstdve.com^
 127.0.0.1 yvebbtqvqvhufs.com^
-127.0.0.1 yviletet.online^
 127.0.0.1 yvirandu.top^
 127.0.0.1 yvmads.com^
 127.0.0.1 yvoria.com^
@@ -16634,6 +17041,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 ywofuxyq.xyz^
 127.0.0.1 yxkhpk.com^
 127.0.0.1 yxkobelxlljv.com^
+127.0.0.1 yxytiixolce.com^
 127.0.0.1 yy9s51b2u05z.com^
 127.0.0.1 yydtbpms8tf4.com^
 127.0.0.1 yyibqpcg.com^
@@ -16643,7 +17051,9 @@ vkcdnservice.appspot.com^
 127.0.0.1 yzus09by.com^
 127.0.0.1 z3dmbpl6309s.com^
 127.0.0.1 z5x.net^
+127.0.0.1 z7yru.com^
 127.0.0.1 zagvee.com^
+127.0.0.1 zagxgmzmiledvh.com^
 127.0.0.1 zaintrillet.com^
 127.0.0.1 zaivikuk.com^
 127.0.0.1 zangocash.com^
@@ -16654,6 +17064,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 zaugroaw.net^
 127.0.0.1 zaushegi.net^
 127.0.0.1 zavrotfro.com^
+127.0.0.1 zavunuve.pro^
 127.0.0.1 zayac2volk11.com^
 127.0.0.1 zbdvvwpia.com^
 127.0.0.1 zctibmvmbmev.com^
@@ -16671,6 +17082,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 zeesiti.com^
 127.0.0.1 zeewepie.net^
 127.0.0.1 zefeegnu.com^
+127.0.0.1 zefodesty.com^
 127.0.0.1 zel-zel-fie.com^
 127.0.0.1 zelllwrite.com^
 127.0.0.1 zelrasty.net^
@@ -16680,6 +17092,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 zeqqvubxtrh.com^
 127.0.0.1 zerezas.com^
 127.0.0.1 zerg.pro^
+127.0.0.1 zerodestructive.com^
 127.0.0.1 zeroidtech.com^
 127.0.0.1 zerolullaby.com^
 127.0.0.1 zetadeo.com^
@@ -16688,6 +17101,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 zeuuwb.com^
 127.0.0.1 zexastize.pro^
 127.0.0.1 zferral.com^
+127.0.0.1 zhcmuccccixz.com^
 127.0.0.1 zhhoeyksp.com^
 127.0.0.1 zhkquyvfndeker.com^
 127.0.0.1 zhqqozqbk.com^
@@ -16700,6 +17114,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 zijaipse.com^
 127.0.0.1 zikroarg.com^
 127.0.0.1 zim-zim-zam.com^
+127.0.0.1 zimank.com^
 127.0.0.1 zincdatawipe.com^
 127.0.0.1 zingtormanc.top^
 127.0.0.1 zinhavnpak.com^
@@ -16773,7 +17188,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 zuphaims.com^
 127.0.0.1 zupsawhenu.com^
 127.0.0.1 zurilito.online^
-127.0.0.1 zuyejecgb.com^
 127.0.0.1 zvhgxssgec.com^
 127.0.0.1 zvkytbjimbhk.com^
 127.0.0.1 zvmldjxh.com^
@@ -17164,6 +17578,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 againstanctu.info^
 127.0.0.1 aim4media.com^
 127.0.0.1 akavita.com^
+127.0.0.1 alimama.com^
 127.0.0.1 amobee.com^
 127.0.0.1 andbeyond.media^
 127.0.0.1 aniview.com^
@@ -17380,6 +17795,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 content.ad^
 127.0.0.1 contentiq.com^
 127.0.0.1 contenture.com^
+127.0.0.1 contextads.live^
 127.0.0.1 contextuads.com^
 127.0.0.1 coolerads.com^
 127.0.0.1 coull.com^
@@ -17634,7 +18050,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 inuxu.co.in^
 127.0.0.1 inviziads.com^
 127.0.0.1 involve.asia^
-127.0.0.1 ip-adress.com^
 127.0.0.1 ipraccessie.info^
 127.0.0.1 ipromote.com^
 127.0.0.1 jewishcontentnetwork.com^
@@ -17691,7 +18106,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 mangoads.net^
 127.0.0.1 marketfly.net^
 127.0.0.1 markethealth.com^
-127.0.0.1 marketingautomation.services^
 127.0.0.1 marketleverage.com^
 127.0.0.1 marsads.com^
 127.0.0.1 mcontigo.com^
@@ -17906,7 +18320,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 redirectnative.com^
 127.0.0.1 redirectpopads.com^
 127.0.0.1 reduxmediagroup.com^
-127.0.0.1 redventures.io^
 127.0.0.1 reelcentric.com^
 127.0.0.1 referback.com^
 127.0.0.1 reflethenfortoft.info^
@@ -18040,52 +18453,18 @@ vkcdnservice.appspot.com^
 127.0.0.1 socialreach.com^
 127.0.0.1 socialspark.com^
 127.0.0.1 societingna.info^
-127.0.0.1 sociocast.com^
-127.0.0.1 sociomantic.com^
-127.0.0.1 soft4dle.com^
-127.0.0.1 softonicads.com^
-127.0.0.1 softpopads.com^
-127.0.0.1 softwares2015.com^
 127.0.0.1 sonobi.com^
 127.0.0.1 sotuktraffic.com^
-127.0.0.1 sparkstudios.com^
 127.0.0.1 speakol.com^
-127.0.0.1 specificclick.net^
-127.0.0.1 specificmedia.com^
-127.0.0.1 spectato.com^
-127.0.0.1 speeb.com^
-127.0.0.1 speednetwork14.com^
-127.0.0.1 speedshiftmedia.com^
-127.0.0.1 sphdigital.com^
-127.0.0.1 spinbox.freedom.com^
-127.0.0.1 spinbox.net^
 127.0.0.1 splinky.com^
 127.0.0.1 splut.com^
-127.0.0.1 spongecell.com^
 127.0.0.1 sponsoredtweets.com^
-127.0.0.1 sponsormob.com^
-127.0.0.1 sponsorpay.com^
-127.0.0.1 sponsorselect.com^
-127.0.0.1 sportradarserving.com^
-127.0.0.1 sportsyndicator.com^
-127.0.0.1 spotrails.com^
-127.0.0.1 spotscenered.info^
-127.0.0.1 spottt.com^
 127.0.0.1 spotx.tv^
-127.0.0.1 spotxcdn.com^
 127.0.0.1 springserve.com^
 127.0.0.1 sprintrade.com^
 127.0.0.1 sprout-ad.com^
 127.0.0.1 spyoff.com^
 127.0.0.1 starlayer.com^
-127.0.0.1 startpagea.com^
-127.0.0.1 stat-rock.com^
-127.0.0.1 statcamp.net^
-127.0.0.1 statsforads.com^
-127.0.0.1 statsmobi.com^
-127.0.0.1 staulrut.net^
-127.0.0.1 stealthlockers.com^
-127.0.0.1 step-step-go.com^
 127.0.0.1 stickyadstv.com^
 127.0.0.1 stocker.bonnint.net^
 127.0.0.1 stootoat.com^
@@ -18156,7 +18535,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 tbaffiliate.com^
 127.0.0.1 tcadops.ca^
 127.0.0.1 tdmd.us^
-127.0.0.1 tdsjsext.com^
 127.0.0.1 teasernet.com^
 127.0.0.1 telemetryverification.net^
 127.0.0.1 terratraf.com^
@@ -18380,7 +18758,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 couponcp-a.akamaihd.net^
 127.0.0.1 cperformmedia-a.akamaihd.net^
 127.0.0.1 cpm.amateurcommunity.de^
-127.0.0.1 creative.bshrdr.com^
 127.0.0.1 creatives.inmotionhosting.com^
 127.0.0.1 customer.heartinternet.co.uk^
 127.0.0.1 dart.clearchannel.com^
@@ -18392,6 +18769,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 dtrk.slimcdn.com^
 127.0.0.1 dunhilltraveldeals.com^
 127.0.0.1 engine.eroge.com^
+127.0.0.1 epnt.ebay.com^
 127.0.0.1 escape.insites.eu^
 127.0.0.1 etrader.kalahari.com^
 127.0.0.1 etrader.kalahari.net^
@@ -18489,6 +18867,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 d15gt9gwxw5wu0.cloudfront.net^
 127.0.0.1 d15jg7068qz6nm.cloudfront.net^
 127.0.0.1 d15kdpgjg3unno.cloudfront.net^
+127.0.0.1 d15nyyrvgr35tv.cloudfront.net^
 127.0.0.1 d162nnmwf9bggr.cloudfront.net^
 127.0.0.1 d188elxamt3utn.cloudfront.net^
 127.0.0.1 d188m5xxcpvuue.cloudfront.net^
@@ -18511,6 +18890,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 d1fs2ef81chg3.cloudfront.net^
 127.0.0.1 d1il9t8pu4dsoj.cloudfront.net^
 127.0.0.1 d1ilwohzbe4ao6.cloudfront.net^
+127.0.0.1 d1izuvv2qy7hel.cloudfront.net^
 127.0.0.1 d1jnvfp2m6fzvq.cloudfront.net^
 127.0.0.1 d1jow6p6g37b9u.cloudfront.net^
 127.0.0.1 d1ks8roequxbwa.cloudfront.net^
@@ -18553,6 +18933,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 d25dfknw9ghxs6.cloudfront.net^
 127.0.0.1 d25xkbr68qqtcn.cloudfront.net^
 127.0.0.1 d261u4g5nqprix.cloudfront.net^
+127.0.0.1 d26adrx9c3n0mq.cloudfront.net^
 127.0.0.1 d26c6kzavi5zwd.cloudfront.net^
 127.0.0.1 d27gtglsu4f4y2.cloudfront.net^
 127.0.0.1 d28s7kbgrs6h2f.cloudfront.net^
@@ -18582,6 +18963,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 d2lp70uu6oz7vk.cloudfront.net^
 127.0.0.1 d2mic0r0bo3i6z.cloudfront.net^
 127.0.0.1 d2muzdhs7lpmo0.cloudfront.net^
+127.0.0.1 d2n726m6x5iwwx.cloudfront.net^
 127.0.0.1 d2na2p72vtqyok.cloudfront.net^
 127.0.0.1 d2nlytvx51ywh9.cloudfront.net^
 127.0.0.1 d2nz8k4xyoudsx.cloudfront.net^
@@ -18859,6 +19241,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+127.0.0.1 cs02-pps-drcn.dbankcdn.com^
 127.0.0.1 an.facebook.com^
 127.0.0.1 live.hyprmx.com^
 127.0.0.1 marketplace-*.hyprmx.com^
@@ -19485,6 +19868,17 @@ vkcdnservice.appspot.com^
 !127.0.0.1 i.snssdk.com/log/*
 !127.0.0.1 i.snssdk.com/slardar/sdk.js
 !
+127.0.0.1 integrations.syncmedia.io^
+127.0.0.1 fbthirdpartypixel.com^
+127.0.0.1 log.lon22.com^
+127.0.0.1 tracking.leeep.jp^
+127.0.0.1 tracking.parte.com^
+127.0.0.1 permutive.app^
+127.0.0.1 f.sen.seg.br^
+127.0.0.1 stat-feedot.ru^
+127.0.0.1 analytics.kkb.com.tr^
+127.0.0.1 scupio.net^
+127.0.0.1 t.metrilo.com^
 127.0.0.1 eye.rd.services^
 127.0.0.1 analytics.appsbnet.com.br^
 127.0.0.1 logging.prefixbox.com^
@@ -19578,7 +19972,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 analytics.core.retell.cc^
 127.0.0.1 powerbiz.co^
 127.0.0.1 tag.search.sensefuel.live^
-127.0.0.1 dataunlocker.com^
 127.0.0.1 microanalytics.io^
 127.0.0.1 tracking.sexcash.com^
 127.0.0.1 fastly-insights.com^
@@ -19802,7 +20195,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 4sqt6jq.de^
 127.0.0.1 sprocket-ping.s3.amazonaws.com^
 127.0.0.1 events.launchdarkly.com^
-127.0.0.1 eclog*.cafe24.com^
+127.0.0.1 eclog*-*.cafe24.com^
 127.0.0.1 tag.goadopt.io^
 127.0.0.1 tag.hariken.co^
 127.0.0.1 tracker.cauly.co.kr^
@@ -19923,6 +20316,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tr.connatix.com^
 127.0.0.1 pbstck.com^
 127.0.0.1 k50.ru^
+127.0.0.1 poorlydig.com^
 127.0.0.1 f.zgbmw.com.cn^
 127.0.0.1 advangelists.com^
 127.0.0.1 bfmio.com^
@@ -20174,7 +20568,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 s24-analytics.com^
 127.0.0.1 checkyourgeo.info^
 127.0.0.1 targetman.ru^
-127.0.0.1 adtlgc.com^
 127.0.0.1 mateti.net^
 127.0.0.1 digitru.st^
 127.0.0.1 s-onetag.com^
@@ -20227,6 +20620,7 @@ vkcdnservice.appspot.com^
 127.0.0.1 tgdaudience.com^
 127.0.0.1 quadran.eu^
 127.0.0.1 piwik.pro^
+127.0.0.1 marketingautomation.services^
 127.0.0.1 audiens.com^
 127.0.0.1 lift.acquia.com^
 127.0.0.1 osniffer.pro^
@@ -20266,7 +20660,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 smrtrdrct.com^
 127.0.0.1 medialogger.ru^
 127.0.0.1 rtbanalytics.com^
-127.0.0.1 waust.at^
 127.0.0.1 user-clicks.com^
 127.0.0.1 bluecava.com^
 127.0.0.1 alcmpn.com^
@@ -21928,7 +22321,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 revolvermaps.com^
 127.0.0.1 rewardtv.com^
 127.0.0.1 reztrack.com^
-127.0.0.1 rfihub.com^
 127.0.0.1 rhinoseo.com^
 127.0.0.1 riastats.com^
 127.0.0.1 richard-group.com^
@@ -22187,7 +22579,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 survicate.com^
 127.0.0.1 svr-prc-01.com^
 127.0.0.1 svtrd.com^
-127.0.0.1 swcs.jp^
 127.0.0.1 swfstats.com^
 127.0.0.1 swiss-counter.com^
 127.0.0.1 synergy-e.com^
@@ -22235,7 +22626,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 tiser.com.au^
 127.0.0.1 tisoomi-services.com^
 127.0.0.1 titag.com^
-127.0.0.1 tkqlhce.com^
 127.0.0.1 tl813.com^
 127.0.0.1 tm1-001.com^
 127.0.0.1 tmvtp.com^
@@ -22599,6 +22989,8 @@ vkcdnservice.appspot.com^
 ! These domains are used for tracking purposes according to the data that is being sent there.
 ! More info: https://getadmiral.com/products/measure
 !
+127.0.0.1 cherriescare.com^
+127.0.0.1 conditionchange.com^
 127.0.0.1 scarfsmash.com^
 127.0.0.1 fadewaves.com^
 127.0.0.1 breakableinsurance.com^
@@ -23616,6 +24008,8 @@ vkcdnservice.appspot.com^
 ! Commanders Act
 127.0.0.1 tagcommander.com^
 127.0.0.1 commandersact.com^
+! DataUnlocker
+127.0.0.1 dataunlocker.com^
 ! Wizaly
 127.0.0.1 wizaly.com^
 ! Ingenious Technologies
@@ -23648,6 +24042,11 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ! Disabled in DNS filter
 !
+127.0.0.1 track.peavoidud.com^
+127.0.0.1 telemetry.malwarebytes.com^
+127.0.0.1 analytics.marquiz.ru^
+127.0.0.1 webvitals.luxnet.ua^
+127.0.0.1 counter24.luxnet.ua^
 127.0.0.1 player-telemetry.vimeo.com^
 127.0.0.1 tms.oracle.com^
 127.0.0.1 tim.nextinpact.com^
@@ -24613,7 +25012,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 trk.10ru.pt^
 127.0.0.1 code.lockbot.net^
 127.0.0.1 codes.royalad.pl^
-127.0.0.1 az416426.vo.msecnd.net^
 127.0.0.1 a.klaviyo.com^
 127.0.0.1 kctag.net^
 127.0.0.1 mpc.nicequest.com^
@@ -24753,7 +25151,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 infostroy.nnov.ru^
 127.0.0.1 ingest.crittercism.com^
 127.0.0.1 js-agent.newrelic.com^
-127.0.0.1 kinesis.us-east-1.amazonaws.com^
 127.0.0.1 lct.salesforce.com^
 127.0.0.1 kr.phorm.com^
 127.0.0.1 lb.secureweb24.net^
@@ -24940,10 +25337,6 @@ vkcdnservice.appspot.com^
 127.0.0.1 pixel.roymorgan.com^
 127.0.0.1 bdg-analytics.appspot.com^
 127.0.0.1 beacon.walmart.ca^
-127.0.0.1 stc.oa.zalo.me^
-127.0.0.1 oa-stc.zdn.vn^
-127.0.0.1 store-stc.zdn.vn^
-127.0.0.1 stats.zaloapp.com^
 127.0.0.1 static-ads.zaloapp.com^
 127.0.0.1 log.api.zaloapp.com^
 127.0.0.1 stc.store.page.zaloapp.com^
@@ -25376,6 +25769,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 torimochi.line-apps.com^
 127.0.0.1 appanalysis*.banggood.com^
 127.0.0.1 line1-log.biligame.net^
+127.0.0.1 log-upload-eur.mihoyo.com^
 127.0.0.1 log-upload-os.mihoyo.com^
 127.0.0.1 s3-analytics-events.easybrain.com^
 127.0.0.1 mgs123.com^
@@ -25792,7 +26186,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 nxakpj4ac8gkd53.info^
 127.0.0.1 p2r14.com^
 127.0.0.1 pdflive.org^
-127.0.0.1 permutive.app^
 127.0.0.1 pixrealm.com^
 127.0.0.1 progmxs.com^
 127.0.0.1 quantserve.com^
@@ -25851,6 +26244,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 advalo.com^
 127.0.0.1 adways.com^
 127.0.0.1 adxcel-ec2.com^
+127.0.0.1 aff-handler.com^
 127.0.0.1 affilired.com^
 127.0.0.1 afftrack.pro^
 127.0.0.1 agentanalytics.com^
@@ -25891,7 +26285,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 audienceplay.com^
 127.0.0.1 audio.sex^
 127.0.0.1 autoline-top.com^
-127.0.0.1 automizely.com^
 127.0.0.1 avapartner.com^
 127.0.0.1 azointel.com^
 127.0.0.1 b1js.com^
@@ -26118,7 +26511,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 iotechnologies.com^
 127.0.0.1 iovation.com^
 127.0.0.1 ip2c.org^
-127.0.0.1 ipapi.co^
 127.0.0.1 ipdata.co^
 127.0.0.1 ipgp.net^
 127.0.0.1 iplist.cc^
@@ -26305,6 +26697,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 quartic.pl^
 127.0.0.1 quintesse.io^
 127.0.0.1 quitsnap-blue.com^
+127.0.0.1 r2b2.io^
 127.0.0.1 radiateb2b.com^
 127.0.0.1 rampanel.com^
 127.0.0.1 ravelin.click^
@@ -26387,7 +26780,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 social-sb.com^
 127.0.0.1 socsi.in^
 127.0.0.1 soflopxl.com^
-127.0.0.1 soft-com.biz^
 127.0.0.1 soko.ai^
 127.0.0.1 sol-data.com^
 127.0.0.1 solosegment.com^
@@ -26851,7 +27243,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 annoyedairport.com^
 127.0.0.1 borderbrush.com^
 127.0.0.1 closedcows.com^
-127.0.0.1 conditionchange.com^
 127.0.0.1 confesschairs.com^
 127.0.0.1 consciouscheese.com^
 127.0.0.1 cushionpig.com^
@@ -26922,6 +27313,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 analytics.atomiconline.com^
 127.0.0.1 analytics.avanser.com.au^
 127.0.0.1 analytics.bigcommerce.com^
+127.0.0.1 analytics.bitrix.info^
 127.0.0.1 analytics.brandcrumb.com^
 127.0.0.1 analytics.chegg.com^
 127.0.0.1 analytics.cincopa.com^
@@ -27044,6 +27436,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 carl.pubsvs.com^
 127.0.0.1 caspionlog.appspot.com^
 127.0.0.1 ccexperimentsstatic.oracleoutsourcing.com^
+127.0.0.1 ccpa.psg.nexstardigital.net^
 127.0.0.1 cdn-channels-pixel.ex.co^
 127.0.0.1 cdn.trafficexchangelist.com^
 127.0.0.1 cf.overblog.com^
@@ -27142,6 +27535,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 d2tcg4i9q4js4a.cloudfront.net^
 127.0.0.1 d2wu036mkcz52n.cloudfront.net^
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net^
+127.0.0.1 d2zjlj1vewrxcj.cloudfront.net^
 127.0.0.1 d34qb8suadcc4g.cloudfront.net^
 127.0.0.1 d36u3psykfwy91.cloudfront.net^
 127.0.0.1 d36upaw912d02q.cloudfront.net^
@@ -27197,7 +27591,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ecommstats.s3.amazonaws.com^
 127.0.0.1 edge.bredg.com^
 127.0.0.1 eel.transistor.fm^
-127.0.0.1 epnt.ebay.com^
 127.0.0.1 errors.snackly.co^
 127.0.0.1 event-api.contactatonce.co.uk^
 127.0.0.1 event-api.contactatonce.com.au^
@@ -27252,6 +27645,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 geoip.cookieyes.com^
 127.0.0.1 geoip.nekudo.com^
 127.0.0.1 geolocation.outreach.com^
+127.0.0.1 gi-client-tracking.goodgamestudios.com^
 127.0.0.1 go.toutapp.com^
 127.0.0.1 green-griffin-860.appspot.com^
 127.0.0.1 gsp1.baidu.com^
@@ -27432,6 +27826,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 st.cdnco.us^
 127.0.0.1 st.linkfire.com^
 127.0.0.1 stas.outbrain.com^
+127.0.0.1 stat.belonnanotservice.ga^
 127.0.0.1 stat.boredomtherapy.com^
 127.0.0.1 stat.glaze.ai^
 127.0.0.1 stat.moevideo.net^
@@ -27573,6 +27968,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 tracking.badgeville.com^
 127.0.0.1 tracking.brandmentions.com^
 127.0.0.1 tracking.buygoods.com^
+127.0.0.1 tracking.chilipiper.com^
 127.0.0.1 tracking.customerly.io^
 127.0.0.1 tracking.drsfostersmith.com^
 127.0.0.1 tracking.drum.io^
@@ -27623,6 +28019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 vdrn.redplum.com^
 127.0.0.1 visit.geocities.com^
 127.0.0.1 vmstats.varrando.com^
+127.0.0.1 vortex.data.microsoft.com^
 127.0.0.1 wco.crownpeak.com^
 127.0.0.1 web1.51.la^
 127.0.0.1 weblog.livesport.eu^
@@ -27840,8 +28237,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 reachmax.cn^
 127.0.0.1 sagetrc.com^
 127.0.0.1 scupio.com^
+127.0.0.1 sdqoi2d.com^
 127.0.0.1 tagmanager.cn^
 127.0.0.1 tenmax.io^
+127.0.0.1 threatbook.cn^
 127.0.0.1 tomonline-inc.com^
 127.0.0.1 topsem.com^
 127.0.0.1 turtlemobile.com.tw^
@@ -27862,6 +28261,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 digitaladvisor.dk^
 127.0.0.1 jubiitag.dk^
 ! Dutch
+127.0.0.1 onlinesucces.nl^
 127.0.0.1 synovite-scripts.com^
 ! Estonian
 ! Finnish
@@ -27994,6 +28394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 adblockmetrics.ru^
 127.0.0.1 admile.ru^
 127.0.0.1 audtd.com^
+127.0.0.1 avsplow.com^
 127.0.0.1 bidderrtb.com^
 127.0.0.1 botdetector.ru^
 127.0.0.1 bumlam.com^
@@ -28203,6 +28604,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cms.grandcloud.cn^
 127.0.0.1 d17m68fovwmgxj.cloudfront.net^
 127.0.0.1 da.netease.com^
+127.0.0.1 datacollector-dra.dt.hicloud.com^
 127.0.0.1 epro.sogou.com^
 127.0.0.1 g.yccdn.com^
 127.0.0.1 haostat.qihoo.com^
@@ -28227,6 +28629,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 tracking.cat898.com^
 127.0.0.1 useg.nextdigital.com.hk^
 127.0.0.1 v.emedia.cn^
+127.0.0.1 web-trace.ksapisrv.com^
 ! Croatian
 127.0.0.1 tracking.vid4u.org^
 ! Czech
@@ -28427,6 +28830,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 stat.matichon.co.th^
 ! Turkish
 127.0.0.1 st.tmgrup.com.tr^
+127.0.0.1 statistics.daktilo.com^
 ! Ukranian
 127.0.0.1 informers.sinoptik.ua^
 127.0.0.1 tracker.esputnik.com^
@@ -28577,6 +28981,18 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+127.0.0.1 mybmrtrg.com^
+127.0.0.1 sitewithg.com^
+127.0.0.1 fatlossremedies.com^
+127.0.0.1 brodmn.com^
+127.0.0.1 xcec.ru^
+127.0.0.1 ssso.ru^
+127.0.0.1 hzucji.com^
+127.0.0.1 0iqiehoa35.ru^
+127.0.0.1 inforuss.site^
+127.0.0.1 ouphoarg.com^
+127.0.0.1 dfffpyu8fhawcnd.ru^
+127.0.0.1 dfnetwork.link^
 127.0.0.1 fodorw.com^
 127.0.0.1 rbtwo.bid^
 127.0.0.1 glvczl.com^
@@ -28605,7 +29021,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xhzspi.com^
 127.0.0.1 qq86tbqodk.ru^
 127.0.0.1 ljknem.com^
-127.0.0.1 sandelf.com^
 127.0.0.1 fooluminou.review^
 127.0.0.1 rzqdqw.com^
 127.0.0.1 refpakykgqyf.top^
@@ -28616,6 +29031,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ogocvet.ru^
 127.0.0.1 blaindgatum.com^
 127.0.0.1 cdn.yanews24.com^
+127.0.0.1 bkqqpm.com^
 127.0.0.1 yebmyp.com^
 127.0.0.1 r2gf0vo139.ru^
 127.0.0.1 kafar4.club^
@@ -28695,7 +29111,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ece8c2alhz.ru^
 127.0.0.1 vionertelssat.pro^
 127.0.0.1 ylesmn.com^
-127.0.0.1 xtrackme.com^
 127.0.0.1 duper8flash.com^
 127.0.0.1 oaovcb.com^
 127.0.0.1 cbibhbghgdjbbageabd.ru^
@@ -28987,6 +29402,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 uymjbn.com^
 127.0.0.1 iulftx.com^
 127.0.0.1 eqmx04n5s0.ru^
+127.0.0.1 yhhbtavgpuo.com^
+127.0.0.1 nklrfqgz.com^
 127.0.0.1 qerusgreyt.com^
 127.0.0.1 bukolii.ru^
 127.0.0.1 west.click^
@@ -29011,7 +29428,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 rtb.trade^
 127.0.0.1 iidfxj.com^
 127.0.0.1 qakdki.com^
-127.0.0.1 trafficlide.com^
 127.0.0.1 daklatasvir.su^
 127.0.0.1 annrdf.com^
 127.0.0.1 yycjho.com^
@@ -29128,6 +29544,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 icbwyfg.pro^
 127.0.0.1 6esfc37938pur4.com^
 127.0.0.1 vast.videocdn.tv^
+127.0.0.1 adfinity.pro^
 127.0.0.1 ackhoo.com^
 127.0.0.1 gadgettest.ru^
 127.0.0.1 portakamus.com^
@@ -29588,7 +30005,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 1mint1.info^
 127.0.0.1 1pop.ru^
 127.0.0.1 1rtl.info^
-127.0.0.1 newdomain.center^
 127.0.0.1 1rtlfor.info^
 127.0.0.1 1sputnik.ru^
 127.0.0.1 1traf.com^
@@ -32396,6 +32812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 vodnet.info^
 127.0.0.1 vogopita.com^
 127.0.0.1 vogorita.com^
+127.0.0.1 vogosita.com^
 127.0.0.1 vogotita.com^
 127.0.0.1 vogozae.ru^
 127.0.0.1 vogozapa.ru^
@@ -32673,6 +33090,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+127.0.0.1 dsp-eu.surfy.tech^
 127.0.0.1 lzupkz.com^
 127.0.0.1 ad.tehno-rating.ru^
 127.0.0.1 r.z2.fm^
@@ -32929,6 +33347,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 !
 !
+127.0.0.1 storj.cloud^
 127.0.0.1 bwcdn.xyz^
 127.0.0.1 wonoddgiris.com^
 127.0.0.1 aj2373.online^
@@ -33163,6 +33582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+127.0.0.1 ads.inegolonline.com^
 127.0.0.1 rek.yemlee.com^
 127.0.0.1 files.pbgiris.com^
 127.0.0.1 r20.club^
@@ -33377,7 +33797,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 z-profit.com^
 127.0.0.1 dn.msmstatic.com^
 127.0.0.1 aff.jskyservices.com^
-127.0.0.1 smac-ad.com^
 127.0.0.1 a-i-ad.com^
 127.0.0.1 managedweb.net^
 127.0.0.1 thench.net^
@@ -33407,7 +33826,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 okbp.xyz^
 127.0.0.1 primead.jp^
 127.0.0.1 advert.punyu.com^
-127.0.0.1 js.blozoo.info^
 127.0.0.1 xxxxxxxx.jp^
 127.0.0.1 act1-1.info^
 127.0.0.1 dis.hogei.info^
@@ -33415,7 +33833,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 js.colo2.jp^
 127.0.0.1 preaf-ad.jp^
 127.0.0.1 aaacompany.net^
-127.0.0.1 sdqoi2d.com^
 127.0.0.1 v4dwkcv.com^
 127.0.0.1 fam-ad.com^
 127.0.0.1 ap.ad-feed.com^
@@ -33518,7 +33935,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 widget-view.dmm.com^
 127.0.0.1 widget.zenback.jp^
 127.0.0.1 w.zenback.jp^
-
+!
+! For Safari
 !
 ! Source name: AdGuard German filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
@@ -33552,6 +33970,15 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Section contains list of advertising networks
 !
+127.0.0.1 js.brstke.top^
+127.0.0.1 pxx.tnklrs.cn^
+127.0.0.1 ad.kshuiz.top^
+127.0.0.1 click.xjfatm.top^
+127.0.0.1 j.zlszw.com^
+127.0.0.1 bbk5921.yncjsc.cn^
+127.0.0.1 cdxyb.cn^
+127.0.0.1 ysx8.vip^
+127.0.0.1 pop.wioau.com^
 127.0.0.1 zsyk91.cn^
 127.0.0.1 8jrc564wtf.cn^
 127.0.0.1 tinkshop.cn^
@@ -33822,7 +34249,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 advolution.biz^
 127.0.0.1 advolution.de^
 127.0.0.1 adworx.at^
-127.0.0.1 aff-handler.com^
 127.0.0.1 affiliando.com^
 127.0.0.1 affiliates.de^
 127.0.0.1 affilimatch.de^
@@ -34031,7 +34457,7 @@ charlestownwyllie.oaklawnnonantum.com^
 
 !
 ! Source name: EasyList Italy ad servers
-! Source: https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt
+! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
 127.0.0.1 24network.it^
 127.0.0.1 ad4mat.it^
@@ -34102,7 +34528,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 mediamond.it^
 127.0.0.1 mondoecommerce.it^
 127.0.0.1 mycookies.it^
-127.0.0.1 natexo-programmatic.com^
 127.0.0.1 nativery.com^
 127.0.0.1 netszex.com^
 127.0.0.1 newclick.com^
@@ -34267,6 +34692,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 javaiklan.com^
 127.0.0.1 juruiklan.com^
 127.0.0.1 klikajadeh.com^
+127.0.0.1 kozoysnsx.com^
 127.0.0.1 l9tdhe6.com^
 127.0.0.1 ld82ydd.com^
 127.0.0.1 leoceran.pw^
@@ -34340,6 +34766,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 yesads.com^
 127.0.0.1 yhig.info^
 127.0.0.1 ys3e965d.top^
+127.0.0.1 zuyejecgb.com^
 
 !
 ! Source name: hostsVN ad servers
@@ -34347,9 +34774,9 @@ charlestownwyllie.oaklawnnonantum.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Oct 2021 13:46 UTC+7
-! Version: 2110041346
-! Blocked: 1,002 rules
+! Last modified: 20 Oct 2021 21:35 UTC+7
+! Version: 2110202135
+! Blocked: 1.014 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -34476,6 +34903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 piads.vn^
 127.0.0.1 pinetech.vn^
 127.0.0.1 piwik.*.vn^
+127.0.0.1 pixel.coccoc.com^
 127.0.0.1 popup.sapoapps.vn^
 127.0.0.1 promotionpopup.sapoapps.vn^
 127.0.0.1 pushdi.com^
@@ -34502,6 +34930,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 static-addtoany-com.cdn.ampproject.org^
 127.0.0.1 static.accesstrade.vn^
 127.0.0.1 stats.vng.com.vn^
+127.0.0.1 stats.zaloapp.com^
 127.0.0.1 subiz-cdn.com^
 127.0.0.1 subiz.com^
 127.0.0.1 subiz.com.vn^
@@ -34557,6 +34986,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ad.phunuxuavanay.vn^
 127.0.0.1 ad.qtcs.com.vn^
 127.0.0.1 ad.sunflower.vn^
+127.0.0.1 ad.vietbao.vn^
 127.0.0.1 ad.vkool.net^
 127.0.0.1 adadmin.headlines.pw^
 127.0.0.1 adapi.tuyensinh247.com^
@@ -34976,12 +35406,14 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 1126bet.com^
 127.0.0.1 11bet.com^
 127.0.0.1 11bet.net^
+127.0.0.1 11bet.us^
 127.0.0.1 11bet.win^
 127.0.0.1 123b.bet^
 127.0.0.1 123b.com^
 127.0.0.1 123b.org^
 127.0.0.1 12b99.com^
 127.0.0.1 179bet.net^
+127.0.0.1 188thethao.com^
 127.0.0.1 1xbetvn.com^
 127.0.0.1 388bet.top^
 127.0.0.1 388bet.us^
@@ -35002,6 +35434,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 79sodo.com^
 127.0.0.1 888b.com^
 127.0.0.1 888b.in^
+127.0.0.1 88gobet.com^
 127.0.0.1 88viet.com^
 127.0.0.1 88vwin.com^
 127.0.0.1 8live.com^
@@ -35049,6 +35482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 fabetvn.com^
 127.0.0.1 fb88.com^
 127.0.0.1 fb88.link^
+127.0.0.1 fb88aff.com^
 127.0.0.1 fb88anh.com^
 127.0.0.1 fb88club.com^
 127.0.0.1 fb88cup.com^
@@ -35090,6 +35524,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ibet889.com^
 127.0.0.1 income88.com^
 127.0.0.1 interwinvn.com^
+127.0.0.1 jbo010.com^
 127.0.0.1 jbo064.com^
 127.0.0.1 jboviet.com^
 127.0.0.1 jbovietnam.com^
@@ -35215,6 +35650,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 top88.uk^
 127.0.0.1 top88.us^
 127.0.0.1 trungso.vip^
+127.0.0.1 twin188.co^
 127.0.0.1 uw88vnd.com^
 127.0.0.1 uw88vnd1.com^
 127.0.0.1 v7ac.com^
@@ -35235,6 +35671,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 vn88.casino^
 127.0.0.1 vn88.club^
 127.0.0.1 vn88.com^
+127.0.0.1 vndbet88.com^
 127.0.0.1 vngame66.com^
 127.0.0.1 vnloto.com^
 127.0.0.1 vnloto.vip^
@@ -35243,11 +35680,13 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 vuabai9.com^
 127.0.0.1 vuaclub1008.club^
 127.0.0.1 vw220.com^
+127.0.0.1 vwin010.com^
 127.0.0.1 vwinnow.com^
 127.0.0.1 vwinthethao.com^
 127.0.0.1 vx88.com^
 127.0.0.1 vx88e.com^
 127.0.0.1 vz681.com^
+127.0.0.1 vz79.com^
 127.0.0.1 w388.com^
 127.0.0.1 w88.vin^
 127.0.0.1 w88bkk.com^
@@ -35255,6 +35694,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 w88city.com^
 127.0.0.1 w88club.com^
 127.0.0.1 w88hn.com^
+127.0.0.1 w88ok.com^
 127.0.0.1 w88yes.com^
 127.0.0.1 wbet99.net^
 127.0.0.1 websvn.info^
@@ -35306,11 +35746,12 @@ charlestownwyllie.oaklawnnonantum.com^
 
 !
 ! Source name: EasyList China ad servers
-! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
+! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
 127.0.0.1 00-gov.cn^
 127.0.0.1 0024aaaa.com^
 127.0.0.1 008844.cc^
+127.0.0.1 00xvppy.cn^
 127.0.0.1 01fen.com^
 127.0.0.1 022aifang.com^
 127.0.0.1 025suyu.com^
@@ -35350,6 +35791,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 168zwm.com^
 127.0.0.1 169bj.cn^
 127.0.0.1 16k6.com^
+127.0.0.1 16m.cc^
 127.0.0.1 170yy.com^
 127.0.0.1 175bar.com^
 127.0.0.1 176um.com^
@@ -35443,6 +35885,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 47api.cn^
 127.0.0.1 4kyu.cn^
 127.0.0.1 50zera.com^
+127.0.0.1 51-tour.net^
 127.0.0.1 5125129.com^
 127.0.0.1 517m.cn^
 127.0.0.1 51dmn.top^
@@ -35474,6 +35917,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 592man.com^
 127.0.0.1 593pi.cn^
 127.0.0.1 59gt.cn^
+127.0.0.1 5b1d.com^
 127.0.0.1 5imoney.com^
 127.0.0.1 643226.com^
 127.0.0.1 65tgh.com^
@@ -35591,6 +36035,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 agathaedith.com^
 127.0.0.1 agilehw.online^
 127.0.0.1 agtsjb.com^
+127.0.0.1 ah58tc.com^
 127.0.0.1 ahjinhuayi.com^
 127.0.0.1 ahjzys.com^
 127.0.0.1 ahlxxx.com^
@@ -35691,6 +36136,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 bolimen.top^
 127.0.0.1 bosatria.cn^
 127.0.0.1 bosiwangzi.cn^
+127.0.0.1 botsforger.com.cn^
 127.0.0.1 bozhixiang.top^
 127.0.0.1 braincf.com^
 127.0.0.1 brownfox.top^
@@ -35733,6 +36179,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cgiale.com^
 127.0.0.1 cgskqg.com^
 127.0.0.1 championmachinery-cn.com^
+127.0.0.1 chaoyi4.com^
 127.0.0.1 chaxinyong.net^
 127.0.0.1 chayayeon.com^
 127.0.0.1 chehuanjie.com^
@@ -35982,6 +36429,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 govkunming.cn^
 127.0.0.1 govshenzhen.cn^
 127.0.0.1 govxian.cn^
+127.0.0.1 govyunfu.cn^
 127.0.0.1 gowin01.com^
 127.0.0.1 gqswg.com^
 127.0.0.1 greenbetterkids.com^
@@ -36031,6 +36479,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 harridan.cc^
 127.0.0.1 harveysarv.com^
 127.0.0.1 hascosafety.com^
+127.0.0.1 hbcygs518.com^
 127.0.0.1 hbguzhenyuan.com^
 127.0.0.1 hbhnwy.com^
 127.0.0.1 hbhtbn.com^
@@ -36092,6 +36541,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 hslyqs.com^
 127.0.0.1 hsyjxzl.cn^
 127.0.0.1 ht12366.top^
+127.0.0.1 htxcl.com.cn^
 127.0.0.1 huaerduo.com^
 127.0.0.1 huapuzs.com^
 127.0.0.1 huataisangao.cn^
@@ -36103,6 +36553,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 humanding.com^
 127.0.0.1 hurom365.cn^
 127.0.0.1 hw6.com^
+127.0.0.1 hwanjia.com^
 127.0.0.1 hxadt.com^
 127.0.0.1 hxlif.com^
 127.0.0.1 hxnzyy.com^
@@ -36137,6 +36588,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 imglolo.xyz^
 127.0.0.1 imgpipi.xyz^
 127.0.0.1 imim.me^
+127.0.0.1 immaohao.cn^
 127.0.0.1 imnvgma.cn^
 127.0.0.1 iomsew.com^
 127.0.0.1 iqiyi.kim^
@@ -36147,7 +36599,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 itemccmod.com^
 127.0.0.1 iupnlpd.cn^
 127.0.0.1 iwansf.com^
-127.0.0.1 iyoowi.com^
+127.0.0.1 iyodoctor.com^
 127.0.0.1 iyptc.cn^
 127.0.0.1 ja9377.com^
 127.0.0.1 jacquelinelaura.com^
@@ -36241,6 +36693,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 kan8.xyz^
 127.0.0.1 kanfaxing.com^
 127.0.0.1 kanwby.com^
+127.0.0.1 kc-valves.com^
 127.0.0.1 kdy365.vip^
 127.0.0.1 keeyekey.xyz^
 127.0.0.1 kele4.com^
@@ -36290,7 +36743,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 lanshi021.com^
 127.0.0.1 lantata.com^
 127.0.0.1 laobei.top^
-127.0.0.1 laolinow.com^
 127.0.0.1 laoliulaoliu.com^
 127.0.0.1 lc442.com^
 127.0.0.1 lcloc.com^
@@ -36330,8 +36782,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 lizehuandian.top^
 127.0.0.1 llguandongyan.com^
 127.0.0.1 llqss.top^
+127.0.0.1 lm335.com^
 127.0.0.1 lm343.com^
 127.0.0.1 lm663.com^
+127.0.0.1 lm665.com^
 127.0.0.1 lm995.com^
 127.0.0.1 loclog.cn^
 127.0.0.1 log.interest.mix.sina.com.cn^
@@ -36341,6 +36795,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 lovexia.top^
 127.0.0.1 lpjxzs.com^
 127.0.0.1 lpsgc.cn^
+127.0.0.1 lqjince.com^
 127.0.0.1 lqunionsoft.top^
 127.0.0.1 lsaeb.com^
 127.0.0.1 lsxmg.com^
@@ -36579,6 +37034,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 safe555.xyz^
 127.0.0.1 saleonce.top^
 127.0.0.1 samanthyean.com^
+127.0.0.1 sanxiucaiwu.top^
 127.0.0.1 sawadeca.com^
 127.0.0.1 sbrqp.com^
 127.0.0.1 scenepass.com^
@@ -36659,6 +37115,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ssroa.cc^
 127.0.0.1 staqnet.com^
 127.0.0.1 static-cn.plista.com^
+127.0.0.1 stgowan.com^
 127.0.0.1 stn88.com^
 127.0.0.1 stocksbsc.com^
 127.0.0.1 stsywl.com^
@@ -36709,6 +37166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 techantuijian.com^
 127.0.0.1 tencent.xn--io0a7i^
 127.0.0.1 tequanma.com^
+127.0.0.1 teresacd.cn^
 127.0.0.1 tesfw.com^
 127.0.0.1 th-make.com^
 127.0.0.1 th21333.com^
@@ -36739,6 +37197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 toutiao.xn--fiqs8s^
 127.0.0.1 towers-shield.com^
 127.0.0.1 tpe163.com^
+127.0.0.1 tqpay.top^
 127.0.0.1 trourted.pro^
 127.0.0.1 tsdlp.com^
 127.0.0.1 ttbc.cc^
@@ -36811,6 +37270,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 watchsk.com^
 127.0.0.1 waterserver.cn^
 127.0.0.1 wcnmd.top^
+127.0.0.1 wdswgjn.cn^
 127.0.0.1 wdxxx.top^
 127.0.0.1 wdymwzz.com^
 127.0.0.1 wdzsb.com.cn^
@@ -36885,6 +37345,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xi0021.com^
 127.0.0.1 xiald.com^
 127.0.0.1 xianguangergaozhi.com^
+127.0.0.1 xiangzhengjinshu.com^
 127.0.0.1 xiaochengzhixue.com^
 127.0.0.1 xiaoxiangmovie.com^
 127.0.0.1 xiarikui08.com^
@@ -36996,6 +37457,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 yinyuehu.cn^
 127.0.0.1 yipanhaocai.com^
 127.0.0.1 yiran686.cn^
+127.0.0.1 yirendajiankang.com^
 127.0.0.1 yisd.press^
 127.0.0.1 yishuifa.org^
 127.0.0.1 yixui.com^
@@ -37026,6 +37488,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 yuailairuci.com^
 127.0.0.1 yuanmengbi.com^
 127.0.0.1 yuanyanglw.com^
+127.0.0.1 yueleshenghuo.cn^
 127.0.0.1 yuggcd.com^
 127.0.0.1 yujiangchu.com^
 127.0.0.1 yujianmeihao179.cn^
@@ -37078,9 +37541,11 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zhengyejixie.com^
 127.0.0.1 zhichi08.com^
 127.0.0.1 zhihei.com^
+127.0.0.1 zhilii.com^
 127.0.0.1 zhimengweike.com^
 127.0.0.1 zhinengap.com^
 127.0.0.1 zhiong.net^
+127.0.0.1 zhisuyunonline.cn^
 127.0.0.1 zhixiuchang.com^
 127.0.0.1 zhizhunbao.top^
 127.0.0.1 zhizones.com^
@@ -37125,6 +37590,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zzsssy.com^
 127.0.0.1 zzwflxs.com^
 127.0.0.1 zzwpsm.cn^
+127.0.0.1 zzxlhwyp.com^
 127.0.0.1 zzyonghao.com^
 127.0.0.1 1024mzs.pw^
 127.0.0.1 1024wanzhai.
@@ -37284,7 +37750,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 g.hsw.cn^
 127.0.0.1 g.lznews.cn^
 127.0.0.1 g.mnw.cn^
-127.0.0.1 g.ousns.net^
 127.0.0.1 g2.ousns.net^
 127.0.0.1 ganjituiguang.ganji.com^
 127.0.0.1 gdt.qq.com^
@@ -37569,6 +38034,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 a.dyjqd.com^
 127.0.0.1 a.epinv.com^
 127.0.0.1 a.exam58.com^
+127.0.0.1 a.hbf23.cn^
 127.0.0.1 a.icdol.com^
 127.0.0.1 a.imgso.cn^
 127.0.0.1 a.jing55.com^
@@ -37672,6 +38138,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 bd.ahsrst.cn^
 127.0.0.1 bd.beimap.com^
 127.0.0.1 bd.czxuexi.com^
+127.0.0.1 bd.dhsz.cn^
 127.0.0.1 bd.ershenghuo.com^
 127.0.0.1 bd.watu.cn^
 127.0.0.1 bd1-china.6789.com^
@@ -37827,6 +38294,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ejunshi.com^
 127.0.0.1 emjs.mkzhan.com^
 127.0.0.1 enennsa.gushiwen.cn^
+127.0.0.1 enews10.yxlady.net^
 127.0.0.1 ent1.12584.cn^
 127.0.0.1 ent1.qunchua.cn^
 127.0.0.1 ent1.qunchua.com^
@@ -37885,7 +38353,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 hxbt.alading123.com^
 127.0.0.1 hy.huangye88.com.cn^
 127.0.0.1 hy.huangye88.net^
-127.0.0.1 idgdmgroup.com.cn^
 127.0.0.1 ii1.chajiaotong.com^
 127.0.0.1 iia1.pikacn.com^
 127.0.0.1 images8.gaotie.cn^
@@ -37938,6 +38405,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 js.shangxueba.com^
 127.0.0.1 js.ubaike.cn^
 127.0.0.1 js.yanyue.cn^
+127.0.0.1 js.yanyue.net^
 127.0.0.1 js1.haoge500.com^
 127.0.0.1 jsb.qianzhan.com^
 127.0.0.1 jscode.acg68.com^
@@ -37961,7 +38429,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ll38.com^
 127.0.0.1 lm.ijq.tv^
 127.0.0.1 lm1.tuliu.com^
-127.0.0.1 lm1.wzpcw.com^
+127.0.0.1 lm1.wkpcw.cn^
 127.0.0.1 lraa.xiaoniutui.com^
 127.0.0.1 lv.myapks.com^
 127.0.0.1 lynr.com^
@@ -38138,6 +38606,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xuexi.hydcd.com^
 127.0.0.1 y1.spreton.com^
 127.0.0.1 y66xvgo5i.chuimg.com^
+127.0.0.1 yan.zhouguanchen.com^
 127.0.0.1 yi.ximizi.com^
 127.0.0.1 yijiuningyia.gushiwen.org^
 127.0.0.1 ykxwn.com^
@@ -38169,7 +38638,6 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 bihutg.com^
 127.0.0.1 blossommo.com^
 127.0.0.1 ccbccb.cn^
-127.0.0.1 cdxyb.cn^
 127.0.0.1 dakawm.cc^
 127.0.0.1 dfcwg.com^
 127.0.0.1 enyayinxiang.com^
@@ -38210,6 +38678,9 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 runkao.net^
 127.0.0.1 stunninglover.com^
 127.0.0.1 watakaw133.xyz^
+127.0.0.1 yybnk.cn^
+127.0.0.1 lyytc.cn^
+127.0.0.1 000123456789.online^
 127.0.0.1 01tn.cn^
 127.0.0.1 027whht.com^
 127.0.0.1 029mxhs.cn^
@@ -38226,6 +38697,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 0713bzksl.xyz^
 127.0.0.1 0727vjdl.xyz^
 127.0.0.1 0755man.cn^
+127.0.0.1 07568592222.xyz^
 127.0.0.1 0769liancheng.cn^
 127.0.0.1 080120.com^
 127.0.0.1 0817zfbj.xyz^
@@ -38241,6 +38713,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 1214bdk.xyz^
 127.0.0.1 1221dhb.xyz^
 127.0.0.1 1234567sg.xyz^
+127.0.0.1 123su.top^
 127.0.0.1 1314sss.top^
 127.0.0.1 13owamwp6c.cn^
 127.0.0.1 1494.top^
@@ -38257,6 +38730,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 23uuw3.com^
 127.0.0.1 256k.xyz^
 127.0.0.1 258580w.cn^
+127.0.0.1 2860885.com^
 127.0.0.1 2886115.com^
 127.0.0.1 2886996.com^
 127.0.0.1 2969firefighterstore.com^
@@ -38293,6 +38767,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 50milan.xyz^
 127.0.0.1 517kp.com^
 127.0.0.1 519397.com^
+127.0.0.1 51boxian.cc^
 127.0.0.1 51check.com.cn^
 127.0.0.1 51df7z.cn^
 127.0.0.1 51dianji.cn^
@@ -38304,12 +38779,14 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 51wxyx.cn^
 127.0.0.1 51zdwy.cn^
 127.0.0.1 52homie.cn^
+127.0.0.1 52lty.store^
 127.0.0.1 52tushuo.com^
 127.0.0.1 53953.club^
 127.0.0.1 53gem.com^
 127.0.0.1 563217.com^
 127.0.0.1 56space.com^
 127.0.0.1 5807807.com^
+127.0.0.1 58zj.cc^
 127.0.0.1 591huishou.cn^
 127.0.0.1 5dydk.com^
 127.0.0.1 5fst22.cn^
@@ -38328,6 +38805,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 66993.top^
 127.0.0.1 66cn.com^
 127.0.0.1 6789.run^
+127.0.0.1 686go.cc^
 127.0.0.1 6shuge.com^
 127.0.0.1 70bhsd.cn^
 127.0.0.1 70fp7880qz.cn^
@@ -38358,7 +38836,9 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 979067.com^
 127.0.0.1 9860775.com^
 127.0.0.1 991019.top^
+127.0.0.1 9960960.com^
 127.0.0.1 996f3d.cn^
+127.0.0.1 99mc.xyz^
 127.0.0.1 9a9j.cn^
 127.0.0.1 9b0v.cn^
 127.0.0.1 9c1g.cn^
@@ -38370,6 +38850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 9y88.com^
 127.0.0.1 a3pz36.cn^
 127.0.0.1 a3vy69.cn^
+127.0.0.1 a7lrf.xyz^
 127.0.0.1 a8cd.com^
 127.0.0.1 aa.wenxue6.com^
 127.0.0.1 aa13.cloud^
@@ -38379,6 +38860,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 abblm.com^
 127.0.0.1 abc98.cc^
 127.0.0.1 abcccccc.club^
+127.0.0.1 abcxs.net^
 127.0.0.1 abhabh.club^
 127.0.0.1 abi.run^
 127.0.0.1 abjjsc.cn^
@@ -38388,6 +38870,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 acaog.com^
 127.0.0.1 acaox.com^
 127.0.0.1 acaoz.com^
+127.0.0.1 acemo.vip^
+127.0.0.1 acvps.cn^
 127.0.0.1 adaog.com^
 127.0.0.1 adddyy.com^
 127.0.0.1 adfangxiang.com^
@@ -38430,6 +38914,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 alibdn.xyz^
 127.0.0.1 alicpd.top^
 127.0.0.1 aligiao.info^
+127.0.0.1 aliweimeng.top^
 127.0.0.1 aliyoo999.com^
 127.0.0.1 aliyune.xyz^
 127.0.0.1 aliyunf.xyz^
@@ -38437,6 +38922,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 aliyuni.xyz^
 127.0.0.1 aliyunj.xyz^
 127.0.0.1 aliyunp.xyz^
+127.0.0.1 allengao.top^
 127.0.0.1 allluck.cn^
 127.0.0.1 altao.xyz^
 127.0.0.1 alwonroad.club^
@@ -38453,6 +38939,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 anqpq.cn^
 127.0.0.1 anweigongsi.com^
 127.0.0.1 anyihuan.com^
+127.0.0.1 anyview.wang^
 127.0.0.1 anyysz.com^
 127.0.0.1 aodepuo.cn^
 127.0.0.1 aoidf3.com^
@@ -38464,6 +38951,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ap72el.com^
 127.0.0.1 apainter.cn^
 127.0.0.1 apdingqian.com^
+127.0.0.1 api.abcxs.org^
 127.0.0.1 apjiangte.com^
 127.0.0.1 applequan.com^
 127.0.0.1 appstreets.com^
@@ -38474,6 +38962,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 arkn81.com^
 127.0.0.1 aroudy.cn^
 127.0.0.1 asai77.top^
+127.0.0.1 asdead24.club^
 127.0.0.1 askfsh.cn^
 127.0.0.1 aslro.top^
 127.0.0.1 aspaz.cn^
@@ -38483,12 +38972,17 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 autobedo.com.cn^
 127.0.0.1 awtks.com^
 127.0.0.1 awyys.com^
+127.0.0.1 axfrb.cn^
+127.0.0.1 axfvv.cn^
 127.0.0.1 axizb.cn^
+127.0.0.1 axpvy.cn^
+127.0.0.1 axqpn.cn^
 127.0.0.1 axuns.com^
 127.0.0.1 ayun.ltd^
 127.0.0.1 b2b5.net^
 127.0.0.1 b32lx7qjk0.cn^
 127.0.0.1 b5mc3.life^
+127.0.0.1 b6yule.xyz^
 127.0.0.1 babalink.top^
 127.0.0.1 bahu.xyz^
 127.0.0.1 baidu2img.com^
@@ -38500,6 +38994,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 baiyangzs.com^
 127.0.0.1 baiyaqin.xyz^
 127.0.0.1 bangdu2.com^
+127.0.0.1 bangxin.xyz^
 127.0.0.1 banma51.cn^
 127.0.0.1 baojiada.vip^
 127.0.0.1 baolanke.top^
@@ -38526,6 +39021,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 better-better.com.cn^
 127.0.0.1 bgtrtv.top^
 127.0.0.1 bhyddc.com^
+127.0.0.1 bian123.icu^
 127.0.0.1 bianxianwu.com^
 127.0.0.1 bigcooa.xyz^
 127.0.0.1 bigcoob.xyz^
@@ -38567,6 +39063,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 bmuju.com^
 127.0.0.1 bndbddt.top^
 127.0.0.1 bntxt.com^
+127.0.0.1 boassistant.com^
 127.0.0.1 bodapet.com^
 127.0.0.1 bolijiupingchang.com^
 127.0.0.1 bolili.info^
@@ -38611,6 +39108,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cbgyhe.cn^
 127.0.0.1 cbxe1r.cn^
 127.0.0.1 cbyckdf.cn^
+127.0.0.1 cccfw.vip^
+127.0.0.1 ccgtime-gn.xyz^
 127.0.0.1 cchfjz.com^
 127.0.0.1 ccioo.vip^
 127.0.0.1 ccjxybj.cn^
@@ -38625,6 +39124,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cdnfjz.com^
 127.0.0.1 cdzimeijia.com^
 127.0.0.1 ceai.xyz^
+127.0.0.1 cehbf.com^
 127.0.0.1 cehbg.com^
 127.0.0.1 cehbs.com^
 127.0.0.1 ceiyo.com^
@@ -38632,6 +39132,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cf89.gold^
 127.0.0.1 cfdanet.com^
 127.0.0.1 cfhijdsb.cn^
+127.0.0.1 cfyao.club^
 127.0.0.1 chaluoyi.cn^
 127.0.0.1 chang555.cn^
 127.0.0.1 changhehengqi.com^
@@ -38644,6 +39145,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 chengzilte.top^
 127.0.0.1 chenmujiang.com.cn^
 127.0.0.1 chenqi.vip^
+127.0.0.1 chenqinghui.xyz^
 127.0.0.1 chexiw.com^
 127.0.0.1 chgdf.cn^
 127.0.0.1 chinaairs.cn^
@@ -38678,12 +39180,14 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 claiks.com^
 127.0.0.1 classicgir.cn^
 127.0.0.1 clmmw.com^
+127.0.0.1 cloudassistant.vip^
 127.0.0.1 clxxkz.com.cn^
 127.0.0.1 clzgd.com^
 127.0.0.1 cmyx.xyz^
 127.0.0.1 cn-3drp.com^
 127.0.0.1 cndaizi.com^
 127.0.0.1 cniuv.com^
+127.0.0.1 cnjiudao.cn^
 127.0.0.1 cnlhg.cn^
 127.0.0.1 cnliken.com^
 127.0.0.1 cnoufangfeng.cn^
@@ -38718,14 +39222,17 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 cqut.ltd^
 127.0.0.1 cqxykj.com.cn^
 127.0.0.1 cqyijiu.cn^
+127.0.0.1 crazymonkey.top^
 127.0.0.1 cs12d.com^
 127.0.0.1 csalsylqx.com^
 127.0.0.1 cshwhy.cn^
 127.0.0.1 cssjs.info^
+127.0.0.1 csxvsd.cn^
 127.0.0.1 cuhzsx.xyz^
 127.0.0.1 cuoss.com^
 127.0.0.1 cw49z0.cn^
 127.0.0.1 cwhsmgs1.cn^
+127.0.0.1 cx0001.cn^
 127.0.0.1 cxb4.cn^
 127.0.0.1 cxcxt.com^
 127.0.0.1 cxjju.cn^
@@ -38742,6 +39249,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 czhongbao.net^
 127.0.0.1 czlongle.cn^
 127.0.0.1 czxjx.cn^
+127.0.0.1 d2robot.com.cn^
 127.0.0.1 dacedsfa.cn^
 127.0.0.1 dachadu.cn^
 127.0.0.1 dadawm.cc^
@@ -38768,6 +39276,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 datazhan.com^
 127.0.0.1 dayouyuanliao.com^
 127.0.0.1 dazhi360.cn^
+127.0.0.1 dbkdwe1.com^
+127.0.0.1 dblcs.cn^
 127.0.0.1 dbxnvh.cn^
 127.0.0.1 dceni.com^
 127.0.0.1 dd-lightingshow.com^
@@ -38786,6 +39296,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 dfseafood.com^
 127.0.0.1 dgaoz.com^
 127.0.0.1 dgbaozhuang.cn^
+127.0.0.1 dgchengyu.xyz^
 127.0.0.1 dglscm.cn^
 127.0.0.1 dgxzwj.com^
 127.0.0.1 dhdgkj.com^
@@ -38793,8 +39304,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 diandongchetoukui.com^
 127.0.0.1 diangezan.me^
 127.0.0.1 dianshihuanping.cn^
+127.0.0.1 dianyingmi1.cn^
 127.0.0.1 dibyc.com^
 127.0.0.1 dirbfm.cn^
+127.0.0.1 djss-design.cn^
 127.0.0.1 djvalve.com.cn^
 127.0.0.1 dkjdnq.cn^
 127.0.0.1 dl12349.net^
@@ -38807,6 +39320,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 dnfkong.com^
 127.0.0.1 dnjszp.cn^
 127.0.0.1 dodolive.cn^
+127.0.0.1 dongdm.cn^
 127.0.0.1 donghua.asia^
 127.0.0.1 doujl.cn^
 127.0.0.1 doulaihai.top^
@@ -38818,6 +39332,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 dryraw.vip^
 127.0.0.1 dsdsds8848.xyz^
 127.0.0.1 dsjre.com^
+127.0.0.1 dspdy.cn^
+127.0.0.1 dss8l0f.cn^
 127.0.0.1 dssdr.top^
 127.0.0.1 dt02kc9.cn^
 127.0.0.1 dtxdwl.cn^
@@ -38827,10 +39343,12 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 duier.top^
 127.0.0.1 duluoweiyu.com^
 127.0.0.1 duofulai.vip^
+127.0.0.1 duojixing.com^
 127.0.0.1 duyousxtd.com^
 127.0.0.1 dvtxt.cn^
 127.0.0.1 dvzk66.cn^
 127.0.0.1 dxcssc.cn^
+127.0.0.1 dxsh.shop^
 127.0.0.1 dy-home.cc^
 127.0.0.1 dycxkj.cn^
 127.0.0.1 dydd.xyz^
@@ -38852,6 +39370,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ediun.com^
 127.0.0.1 edoedrl.cn^
 127.0.0.1 edumsys.com^
+127.0.0.1 eduszft.cn^
 127.0.0.1 edysn.cn^
 127.0.0.1 eeer.ren^
 127.0.0.1 egozne.cn^
@@ -38887,6 +39406,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 f50b5.cn^
 127.0.0.1 f8ij9.life^
 127.0.0.1 f9evcyf.cn^
+127.0.0.1 fanghua2.cn^
 127.0.0.1 fangjslc.com^
 127.0.0.1 fanglinwang.cn^
 127.0.0.1 fangzhixinxi.cn^
@@ -38898,11 +39418,13 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 fcunq.com^
 127.0.0.1 fdoun.com^
 127.0.0.1 fedsdq.com^
+127.0.0.1 feilan5.cn^
 127.0.0.1 feimotailan.cn^
 127.0.0.1 feipaihehuoren.cn^
 127.0.0.1 feizailin.com^
 127.0.0.1 fengmishop.cn^
 127.0.0.1 fengousm.com^
+127.0.0.1 fengspw.xyz^
 127.0.0.1 fenhao14.com^
 127.0.0.1 ff01s.cn^
 127.0.0.1 ffg34fg.877zw.com^
@@ -38956,8 +39478,11 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 furenyanfa.cn^
 127.0.0.1 futengbao.com.cn^
 127.0.0.1 fuxin-tech.com^
+127.0.0.1 fuzhang.xyz^
 127.0.0.1 fw.zhuaji.org^
 127.0.0.1 fwnetrb.cn^
+127.0.0.1 fx2lh9m.cn^
+127.0.0.1 fxbjg.com^
 127.0.0.1 fxfhjs.com^
 127.0.0.1 fxtckg.cn^
 127.0.0.1 fxyg168.com^
@@ -38970,6 +39495,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 fztattoo.cn^
 127.0.0.1 g1mm3d.cn^
 127.0.0.1 g3ao2q.cn^
+127.0.0.1 g9c7ofl.cn^
 127.0.0.1 g9o.cn^
 127.0.0.1 gagaz.cn^
 127.0.0.1 gagkf.top^
@@ -38993,6 +39519,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 geoidd.vip^
 127.0.0.1 geomon.top^
 127.0.0.1 gerunsenbo.cn^
+127.0.0.1 getsgroup.cn^
 127.0.0.1 gflcsiot.com^
 127.0.0.1 girli.top^
 127.0.0.1 giroud.top^
@@ -39027,6 +39554,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 grjs02.com^
 127.0.0.1 grjs06.com^
 127.0.0.1 grjs08.com^
+127.0.0.1 grsea.cn^
 127.0.0.1 grubfast.com^
 127.0.0.1 gsb9.cn^
 127.0.0.1 gslyxny.com^
@@ -39044,6 +39572,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 guansenff.cn^
 127.0.0.1 guanxingyule.com^
 127.0.0.1 guasim.top^
+127.0.0.1 gufan.fun^
 127.0.0.1 gugulm.net^
 127.0.0.1 guideserv.cn^
 127.0.0.1 guigankj.cn^
@@ -39053,6 +39582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 guoshihuaiyao.com^
 127.0.0.1 guruguru.cn^
 127.0.0.1 guvdfs.cn^
+127.0.0.1 gwaaz.cn^
 127.0.0.1 gxdianhua.com^
 127.0.0.1 gxfc2021.top^
 127.0.0.1 gxklsftz.cn^
@@ -39079,6 +39609,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 haichengdzsp.com^
 127.0.0.1 haidongqing.top^
 127.0.0.1 haishengwh123.cn^
+127.0.0.1 haite.xyz^
 127.0.0.1 haitv.top^
 127.0.0.1 haixingou.shop^
 127.0.0.1 haiyinsiwang.com^
@@ -39104,6 +39635,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 hbnygj.com^
 127.0.0.1 hbttcc.com^
 127.0.0.1 hbyyzm.com^
+127.0.0.1 hbzhurong.cn^
 127.0.0.1 hcenc.com^
 127.0.0.1 hchik.com^
 127.0.0.1 hdfdm.com^
@@ -39112,6 +39644,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 hdminfeng.com^
 127.0.0.1 hdsahfkja.top^
 127.0.0.1 hdxxaq.cn^
+127.0.0.1 hdypw.com^
 127.0.0.1 he3kz8.com^
 127.0.0.1 headwell.cn^
 127.0.0.1 heavenwil.top^
@@ -39126,6 +39659,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 hengyisoft.vip^
 127.0.0.1 hepburn.net.cn^
 127.0.0.1 heylookhere.top^
+127.0.0.1 heyux.cn^
 127.0.0.1 hflvhua.com^
 127.0.0.1 hfqjs.cn^
 127.0.0.1 hfyxdl.com^
@@ -39186,6 +39720,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 houanjijuxie.cn^
 127.0.0.1 houfang8.com^
 127.0.0.1 hougonw.com^
+127.0.0.1 hqycr.cn^
 127.0.0.1 hsbkr.com^
 127.0.0.1 hsdianqi.vip^
 127.0.0.1 hswenwan.cn^
@@ -39201,6 +39736,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 huayancn.cn^
 127.0.0.1 huayange.com^
 127.0.0.1 huayi65.com^
+127.0.0.1 huhangkuaiji.cn^
 127.0.0.1 huhuhiiuio.com^
 127.0.0.1 huician.cn^
 127.0.0.1 huigoushop.com^
@@ -39250,13 +39786,16 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 identified.cn^
 127.0.0.1 idevoa.cn^
 127.0.0.1 ieatlu.xyz^
+127.0.0.1 if37.com^
 127.0.0.1 igig87.cn^
 127.0.0.1 ihais.com^
 127.0.0.1 ihear123.com^
 127.0.0.1 ihhii.xyz^
 127.0.0.1 iigushi.com^
+127.0.0.1 iklda.cn^
 127.0.0.1 ikxcep.xyz^
 127.0.0.1 ilczz.cn^
+127.0.0.1 imengyoujia.xyz^
 127.0.0.1 imgxb.top^
 127.0.0.1 imiek.com^
 127.0.0.1 importcat.com^
@@ -39311,6 +39850,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jia-huan.cn^
 127.0.0.1 jiachangwuliu.cn^
 127.0.0.1 jiahewine.cn^
+127.0.0.1 jianbuxing.cn^
 127.0.0.1 jianchajingmk.net^
 127.0.0.1 jiangboshidai.com^
 127.0.0.1 jiangchunli.cn^
@@ -39320,6 +39860,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jiasheng-china.cn^
 127.0.0.1 jiayi2019.top^
 127.0.0.1 jiayiss.com^
+127.0.0.1 jiayushaiwang.cn^
 127.0.0.1 jiedaibao120.cn^
 127.0.0.1 jiejiemimu.cn^
 127.0.0.1 jiemeichike.cn^
@@ -39329,10 +39870,12 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jindowins.com^
 127.0.0.1 jingcaiedc.cn^
 127.0.0.1 jingdayiyuan.com^
+127.0.0.1 jingdingjy.top^
 127.0.0.1 jingxiangyalvji.cn^
 127.0.0.1 jingyazhuangshi.com^
 127.0.0.1 jingyuzuo.top^
 127.0.0.1 jingzekeji.com^
+127.0.0.1 jinhaitun888.xyz^
 127.0.0.1 jinkelai66.com^
 127.0.0.1 jinliaoyang.com^
 127.0.0.1 jinlubaojie.cn^
@@ -39354,6 +39897,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jixiby.cn^
 127.0.0.1 jiyuanzixun.com^
 127.0.0.1 jj0453.com^
+127.0.0.1 jjli87.life^
 127.0.0.1 jkleosnfjutme.top^
 127.0.0.1 jkxtd77.com^
 127.0.0.1 jlxzt.com^
@@ -39383,6 +39927,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jswnuq.cn^
 127.0.0.1 jsyjwj.com^
 127.0.0.1 jtwlj.cn^
+127.0.0.1 juechenghuanbao.top^
+127.0.0.1 jufengputao.com^
 127.0.0.1 juhuandian.com^
 127.0.0.1 julitenj.com^
 127.0.0.1 jullycn.com^
@@ -39418,9 +39964,11 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 jzn360.cn^
 127.0.0.1 jzq2019.top^
 127.0.0.1 jzrzpump.com^
+127.0.0.1 jzwp.fun^
 127.0.0.1 k2215.cn^
 127.0.0.1 k22x6.cn^
 127.0.0.1 k5p8f2.cn^
+127.0.0.1 kaafu.cn^
 127.0.0.1 kaihutai.cn^
 127.0.0.1 kaiyiluye.com^
 127.0.0.1 kakam.info^
@@ -39444,11 +39992,15 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 keyand.xyz^
 127.0.0.1 kfweo2.com^
 127.0.0.1 kgfnhf.cn^
+127.0.0.1 khrg04h.cn^
 127.0.0.1 khuoy.com^
 127.0.0.1 kid9.info^
+127.0.0.1 kidisland.cn^
+127.0.0.1 kiezohky.xyz^
 127.0.0.1 kinlivme.cn^
 127.0.0.1 kjdw.com.cn^
 127.0.0.1 kjhfy.com^
+127.0.0.1 kjjzx.cn^
 127.0.0.1 kju369.cn^
 127.0.0.1 kl0ru78.xyz^
 127.0.0.1 klorn.cn^
@@ -39467,6 +40019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 kuaidube.cn^
 127.0.0.1 kuaipaobiaoju.com^
 127.0.0.1 kuprvs.cn^
+127.0.0.1 kuuhv.cn^
 127.0.0.1 kuzexinxi.com^
 127.0.0.1 kykmuyi.cn^
 127.0.0.1 kypzu.cn^
@@ -39512,6 +40065,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 lhcqbim.cn^
 127.0.0.1 lianfuhuang.cn^
 127.0.0.1 liangzimo.ltd^
+127.0.0.1 lianjikeji.cn^
+127.0.0.1 lianruntang.cn^
 127.0.0.1 lianyicq.cn^
 127.0.0.1 liaoningo.cn^
 127.0.0.1 liaotian4.com^
@@ -39528,10 +40083,12 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 linghangshouji.com^
 127.0.0.1 linkjingkeji.com^
 127.0.0.1 listenother.com^
+127.0.0.1 listinsteats.cn^
 127.0.0.1 liufang1994.top^
 127.0.0.1 liuhemei.com.cn^
 127.0.0.1 liujiaqi.top^
 127.0.0.1 liulu888.com^
+127.0.0.1 liuyansha.vip^
 127.0.0.1 liuzishen.com^
 127.0.0.1 liwq.club^
 127.0.0.1 lixianze.top^
@@ -39542,8 +40099,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ljlxy.cn^
 127.0.0.1 ljmei.com^
 127.0.0.1 lkle.top^
+127.0.0.1 lknad215.top^
 127.0.0.1 llqd5.cn^
 127.0.0.1 lnalttc.com^
+127.0.0.1 lnscxrqgfyxgs.xyz^
 127.0.0.1 lntx.shop^
 127.0.0.1 lntyjjh.org.cn^
 127.0.0.1 lobmuc.cn^
@@ -39557,14 +40116,16 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 lovepets70.com^
 127.0.0.1 loverzhou.club^
 127.0.0.1 lownguw.top^
-127.0.0.1 lq1.abcxs.com^
 127.0.0.1 lr96.top^
 127.0.0.1 lrwgc.com^
 127.0.0.1 lscckgm.cn^
 127.0.0.1 lshmjz.com^
+127.0.0.1 lsxc.shop^
+127.0.0.1 lszwj.top^
 127.0.0.1 ltaome.cn^
 127.0.0.1 lthzd.cn^
 127.0.0.1 ltyonej.cn^
+127.0.0.1 luochengwen.vip^
 127.0.0.1 luojianrong.cn^
 127.0.0.1 lusrg.cn^
 127.0.0.1 luxoshopde.com^
@@ -39595,6 +40156,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 mageti.cn^
 127.0.0.1 maicaoren.cn^
 127.0.0.1 maimaias.cn^
+127.0.0.1 mamababu.cn^
 127.0.0.1 mao1.jsnovel.com^
 127.0.0.1 maobujie.com^
 127.0.0.1 maosengss.cn^
@@ -39613,6 +40175,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 meibiisheng.com^
 127.0.0.1 meirensuan.xyz^
 127.0.0.1 meishi0554.com^
+127.0.0.1 meiweipub.cn^
 127.0.0.1 meiyuedu.vip^
 127.0.0.1 meizhuli365.cn^
 127.0.0.1 mendoc.cn^
@@ -39643,10 +40206,13 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ml44.cn^
 127.0.0.1 mlion.cn^
 127.0.0.1 mlre.com.cn^
+127.0.0.1 mm88m.top^
 127.0.0.1 mmfusheng.com^
 127.0.0.1 mmhhjt.com^
+127.0.0.1 mmlala.com^
 127.0.0.1 mmszxc.top^
 127.0.0.1 mnszpr.cn^
+127.0.0.1 mnyh.fun^
 127.0.0.1 mohaijishu.cn^
 127.0.0.1 mokeylife.cn^
 127.0.0.1 monimoni.top^
@@ -39657,6 +40223,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 movii-loft.cn^
 127.0.0.1 moxiaoyang.top^
 127.0.0.1 mozqca.cn^
+127.0.0.1 mp83fkx.cn^
 127.0.0.1 mrclown.cn^
 127.0.0.1 mrjfsc.cn^
 127.0.0.1 mrzhifu.net^
@@ -39722,6 +40289,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 nkyyls.cn^
 127.0.0.1 nkzjc.cn^
 127.0.0.1 nkzker.cn^
+127.0.0.1 nloader.xyz^
 127.0.0.1 nlyjs2015.com^
 127.0.0.1 nmctm.cn^
 127.0.0.1 nmlhkj.com^
@@ -39735,6 +40303,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 notepade.top^
 127.0.0.1 nouzhu.cn^
 127.0.0.1 novaleafgroup.cn^
+127.0.0.1 nq42.com^
 127.0.0.1 nqfwx.cn^
 127.0.0.1 nshkedu.com^
 127.0.0.1 ntfirstleap.cn^
@@ -39754,6 +40323,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 oberry.cn^
 127.0.0.1 obj9.cn^
 127.0.0.1 oceanbreezecarlsbad.com^
+127.0.0.1 ocexikc.cn^
 127.0.0.1 oende.cn^
 127.0.0.1 ohthub.com.cn^
 127.0.0.1 ojojoj.cn^
@@ -39772,7 +40342,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ouhwjdv.cn^
 127.0.0.1 ouxutong.com^
 127.0.0.1 ovoawh.com^
-127.0.0.1 ow*.biqugego.com^
+127.0.0.1 owghrl6.cn^
 127.0.0.1 ox11.com^
 127.0.0.1 oxsm.top^
 127.0.0.1 oycslia.xyz^
@@ -39888,6 +40458,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 qwddcwmwqiqwd19.cn^
 127.0.0.1 qwddcwmwqiqwd20.cn^
 127.0.0.1 qwddcwmwqiqwd21.cn^
+127.0.0.1 qwer0001.top^
 127.0.0.1 qxyu.top^
 127.0.0.1 qysyyg.com^
 127.0.0.1 qzbxfs.com^
@@ -39919,9 +40490,12 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 rioufn.cn^
 127.0.0.1 rishenglaw.cn^
 127.0.0.1 rjakwq.cn^
+127.0.0.1 rjigj.cn^
 127.0.0.1 rjtpos.cn^
 127.0.0.1 rl-yh.com^
 127.0.0.1 rmwdn.com^
+127.0.0.1 rng1812.top^
+127.0.0.1 rng1912.top^
 127.0.0.1 rockcoke.cn^
 127.0.0.1 romgv.com^
 127.0.0.1 rongdingkeji.cn^
@@ -39958,18 +40532,23 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 sdajxz.xyz^
 127.0.0.1 sdalxz.xyz^
 127.0.0.1 sdfjtwp.com^
+127.0.0.1 sdgmyj.cn^
+127.0.0.1 sdhuiqian.cn^
 127.0.0.1 sdweldrobot.cn^
 127.0.0.1 sdytsh.com^
 127.0.0.1 seawayz.com.cn^
 127.0.0.1 sec-cloud.cn^
 127.0.0.1 seerpiu002.com^
+127.0.0.1 sf-ifc.cn^
 127.0.0.1 sfanf.com^
 127.0.0.1 sgyebd.com^
+127.0.0.1 sh5208.vip^
 127.0.0.1 shandongaosen.cn^
 127.0.0.1 shanghebaizhou.cn^
 127.0.0.1 shangzhe.vip^
 127.0.0.1 shanprint.com^
 127.0.0.1 shantelope.com^
+127.0.0.1 shanxige.com^
 127.0.0.1 shanyuebrowser.com^
 127.0.0.1 shaque.vip^
 127.0.0.1 shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -39996,6 +40575,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 shrtswkj.com^
 127.0.0.1 shsnjj.top^
 127.0.0.1 shua66.vip^
+127.0.0.1 shuazili.wang^
 127.0.0.1 shufan.club^
 127.0.0.1 shunxinyuancaiwu.cn^
 127.0.0.1 shweiwen.cn^
@@ -40006,6 +40586,9 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 sinotealife.cn^
 127.0.0.1 sixgen.cn^
 127.0.0.1 sjaidu.com^
+127.0.0.1 sjhl.club^
+127.0.0.1 sjhxy.cn^
+127.0.0.1 sjjz8.cn^
 127.0.0.1 sjljz.cn^
 127.0.0.1 sjmltjmgw.com^
 127.0.0.1 skrmzl.cn^
@@ -40022,7 +40605,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 soso.ws^
 127.0.0.1 spaung.cn^
 127.0.0.1 speaknews.cn^
+127.0.0.1 sqdjg.cn^
+127.0.0.1 sqr3.xyz^
 127.0.0.1 srkfhl.cn^
+127.0.0.1 srmdz.vip^
 127.0.0.1 srwiiu.cn^
 127.0.0.1 ssdoi.com^
 127.0.0.1 ssznrs.com^
@@ -40034,6 +40620,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 subshall.cn^
 127.0.0.1 sugarpuff.net^
 127.0.0.1 suhusushi.com^
+127.0.0.1 suigeng.shop^
 127.0.0.1 suitmatters.cn^
 127.0.0.1 sunang37.cn^
 127.0.0.1 sungong1987.com^
@@ -40041,6 +40628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 superbao.top^
 127.0.0.1 svfwer.top^
 127.0.0.1 sviss.top^
+127.0.0.1 svwsvn.top^
 127.0.0.1 sw9t.ml^
 127.0.0.1 swaa.top^
 127.0.0.1 swbclcq.cn^
@@ -40049,8 +40637,10 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 swyhome.com^
 127.0.0.1 sx9zy.cn^
 127.0.0.1 sxbxzc.com^
+127.0.0.1 sxcysmyxgs.top^
 127.0.0.1 sxdech.cn^
 127.0.0.1 sxehny.cn^
+127.0.0.1 sxhdth.cn^
 127.0.0.1 sxjxhg.com^
 127.0.0.1 sxljldh.top^
 127.0.0.1 sxmdxy.com^
@@ -40091,6 +40681,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 taidi.net.cn^
 127.0.0.1 taikangshenyuan.com^
 127.0.0.1 taiquandao0.cn^
+127.0.0.1 taiquandao1.cn^
 127.0.0.1 taishijian.com^
 127.0.0.1 taixuan.net.cn^
 127.0.0.1 tajxgs.com^
@@ -40105,10 +40696,12 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 tcbdd.cn^
 127.0.0.1 tchep.com^
 127.0.0.1 tchkcc.cn^
+127.0.0.1 tcmsp.cn^
 127.0.0.1 tcnmf.com^
 127.0.0.1 tcsgcdn.top^
 127.0.0.1 tdain.com^
 127.0.0.1 tdbwgrm.cn^
+127.0.0.1 tdjc.shop^
 127.0.0.1 tearf.cn^
 127.0.0.1 tf639.top^
 127.0.0.1 tfg8.com^
@@ -40161,6 +40754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 tpool.cn^
 127.0.0.1 tqlyjz.cn^
 127.0.0.1 travel-together.cn^
+127.0.0.1 trdyx.cn^
 127.0.0.1 trhccn.cn^
 127.0.0.1 trpsm.xyz^
 127.0.0.1 truecrimesss.com^
@@ -40189,13 +40783,16 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 tyyjzs.cn^
 127.0.0.1 tzh019.cn^
 127.0.0.1 tzhqg.cn^
+127.0.0.1 tzlit.cn^
 127.0.0.1 u05m.cn^
 127.0.0.1 u0r9.cn^
 127.0.0.1 u2c8.cn^
 127.0.0.1 u5wzi0h.cn^
+127.0.0.1 u98l6o.online^
 127.0.0.1 u98ql6o.top^
 127.0.0.1 uaevivi.top^
 127.0.0.1 uater.cn^
+127.0.0.1 uaxyutpxh.xyz^
 127.0.0.1 ubt573.org^
 127.0.0.1 ububyiw6655.xyz^
 127.0.0.1 uc4a.cn^
@@ -40203,6 +40800,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 uissm.com^
 127.0.0.1 ujiasm.com^
 127.0.0.1 umbbs.cn^
+127.0.0.1 umbrella.asia^
 127.0.0.1 umm6.cn^
 127.0.0.1 unetall.com^
 127.0.0.1 unilz588.com^
@@ -40210,6 +40808,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 uo12.com^
 127.0.0.1 urlet.cn^
 127.0.0.1 usefavour.xyz^
+127.0.0.1 usst.store^
 127.0.0.1 ut0ej.cn^
 127.0.0.1 uu7ey6.cn^
 127.0.0.1 uuka.vip^
@@ -40227,6 +40826,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 vchim.com^
 127.0.0.1 venber.cn^
 127.0.0.1 vgimer.cn^
+127.0.0.1 vicustom.cn^
 127.0.0.1 vinuxhome.com^
 127.0.0.1 vivi87.cn^
 127.0.0.1 vjptye.cn^
@@ -40254,6 +40854,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 wangqing7.top^
 127.0.0.1 wangtianci.cn^
 127.0.0.1 wangxingkui.online^
+127.0.0.1 wangyeshij.top^
 127.0.0.1 wangyuekun.xyz^
 127.0.0.1 wangzhenzhi.cn^
 127.0.0.1 wangzibo.top^
@@ -40264,6 +40865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 wbdsj.top^
 127.0.0.1 wbiev.com^
 127.0.0.1 wbmvohkn.cn^
+127.0.0.1 wcknxoy.cn^
 127.0.0.1 web0513.com^
 127.0.0.1 webbridcar.xyz^
 127.0.0.1 webstd.cn^
@@ -40299,8 +40901,11 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 whsseqpcs.top^
 127.0.0.1 whxhhjx.com^
 127.0.0.1 whxjnwzhs.com^
+127.0.0.1 williamsun.vip^
 127.0.0.1 win10zyb.cn^
 127.0.0.1 win999.com.cn^
+127.0.0.1 winingcpi.cn^
+127.0.0.1 wisesoftsh.com.cn^
 127.0.0.1 wjaa23.com^
 127.0.0.1 wjdfv.com^
 127.0.0.1 wjlzs.cn^
@@ -40315,6 +40920,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 wlshotel.cn^
 127.0.0.1 wlxzzx.cn^
 127.0.0.1 wmbuilr.cn^
+127.0.0.1 wmgt.xyz^
 127.0.0.1 wmk0099.xyz^
 127.0.0.1 wnsoth.cn^
 127.0.0.1 wo1990.com^
@@ -40327,6 +40933,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 woshiyunying.com^
 127.0.0.1 wotto.cn^
 127.0.0.1 woxts.cn^
+127.0.0.1 wsabci.com^
+127.0.0.1 wscn.site^
 127.0.0.1 wskei.cn^
 127.0.0.1 wsnew.cn^
 127.0.0.1 wtgongsi.com^
@@ -40334,6 +40942,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 wuxiap.xyz^
 127.0.0.1 wuyuande.com^
 127.0.0.1 wvcdn.cn^
+127.0.0.1 wwyysheng.xyz^
 127.0.0.1 wxbdwj.cn^
 127.0.0.1 wxebgpj.cn^
 127.0.0.1 wxhdwy.com^
@@ -40343,6 +40952,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 wxtuoke.cn^
 127.0.0.1 wy95.xyz^
 127.0.0.1 wyafelk.cn^
+127.0.0.1 wydong.top^
 127.0.0.1 wytsoft.xyz^
 127.0.0.1 wywna.cn^
 127.0.0.1 wyxcb6.top^
@@ -40376,12 +40986,17 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xhvljiw.cn^
 127.0.0.1 xiachouchou.com^
 127.0.0.1 xiandafood.cn^
+127.0.0.1 xiangkantv.cn^
+127.0.0.1 xianglong360.cn^
 127.0.0.1 xiangwangdesh.com^
 127.0.0.1 xiangyudj.cn^
+127.0.0.1 xianweidang.cc^
+127.0.0.1 xianxhwy.com^
 127.0.0.1 xiaoertuina.top^
 127.0.0.1 xiaogouzhuanqian.cn^
 127.0.0.1 xiaokeaiapp.com^
 127.0.0.1 xiaonengdou.vip^
+127.0.0.1 xiaoniu166.wang^
 127.0.0.1 xiaoshuoyun.cn^
 127.0.0.1 xiaotaowangluo.com^
 127.0.0.1 xiayk.cn^
@@ -40396,6 +41011,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xingzhu.top^
 127.0.0.1 xinheshengmce.com^
 127.0.0.1 xinqiannv.com^
+127.0.0.1 xinshiji.ltd^
 127.0.0.1 xintaizhaoming.com^
 127.0.0.1 xintengfeiyang.info^
 127.0.0.1 xinxbh.cn^
@@ -40428,6 +41044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 xpxvok.cn^
 127.0.0.1 xqigou.top^
 127.0.0.1 xqygyp.cn^
+127.0.0.1 xsspt.vip^
 127.0.0.1 xsyouwei.cn^
 127.0.0.1 xuchangmuying.com^
 127.0.0.1 xuenengyoujiaoyu.com^
@@ -40524,6 +41141,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 ylykd.cn^
 127.0.0.1 ymxlm.cc^
 127.0.0.1 ynbzxh.com^
+127.0.0.1 ynevxkx.cn^
 127.0.0.1 ynhuya.cn^
 127.0.0.1 ynjyhm.com^
 127.0.0.1 ynmpzs.cn^
@@ -40539,19 +41157,24 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 youngalsobeautiful.com^
 127.0.0.1 youpukeji.cn^
 127.0.0.1 youshouge513.cn^
+127.0.0.1 youtome.xyz^
 127.0.0.1 youweiprint.com^
+127.0.0.1 youwenzhi.xyz^
 127.0.0.1 youxingtx.xyz^
 127.0.0.1 youzhizi.com^
+127.0.0.1 yp333.top^
 127.0.0.1 yqqlm.vip^
 127.0.0.1 yrqwyn.cn^
 127.0.0.1 yrrsckr.cn^
 127.0.0.1 ysclub.top^
 127.0.0.1 ysfc360.cn^
 127.0.0.1 yswenhua.com^
+127.0.0.1 yswuen.top^
 127.0.0.1 ysyhljt.vip^
 127.0.0.1 ytbctyy.com^
 127.0.0.1 ytbnm.cn^
 127.0.0.1 ytcard.cn^
+127.0.0.1 ytlkmy.cn^
 127.0.0.1 ytmaitian.com^
 127.0.0.1 ytmaksim.cn^
 127.0.0.1 yu520o.top^
@@ -40622,6 +41245,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zhangyiqian.top^
 127.0.0.1 zhanjiangletian.com^
 127.0.0.1 zhanlan5.cn^
+127.0.0.1 zhaoanhu.vip^
 127.0.0.1 zhaosijie.cn^
 127.0.0.1 zhaoyafang.cn^
 127.0.0.1 zhcps.cn^
@@ -40631,6 +41255,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zhenxingkuangchanpin.com^
 127.0.0.1 zhiboiot.cn^
 127.0.0.1 zhide-edu.cn^
+127.0.0.1 zhihuirenjia.xyz^
 127.0.0.1 zhihuizeyuan.com^
 127.0.0.1 zhimeihui.fun^
 127.0.0.1 zhinengcd.cn^
@@ -40641,6 +41266,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zhixianghuibao.com^
 127.0.0.1 zhmyq.cn^
 127.0.0.1 zhongfujiaoyu.cn^
+127.0.0.1 zhonghuachuanmeikeji.cn^
 127.0.0.1 zhonglitz.cn^
 127.0.0.1 zhongxiangjin.vip^
 127.0.0.1 zhouqin520.top^
@@ -40657,6 +41283,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zichunping.cn^
 127.0.0.1 zijuejueta.com^
 127.0.0.1 zimingdh.com^
+127.0.0.1 zishahh.com^
 127.0.0.1 zitaoh.cn^
 127.0.0.1 zixiansun.com^
 127.0.0.1 zixun8.com^
@@ -40689,6 +41316,8 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zswph.com^
 127.0.0.1 ztffac.com^
 127.0.0.1 ztxbd.com^
+127.0.0.1 zuirengou.shop^
+127.0.0.1 zunchengmaoyi.cn^
 127.0.0.1 zunhuioa.cn^
 127.0.0.1 zuopp.com^
 127.0.0.1 zutodu.cn^
@@ -40706,6 +41335,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 zxopen.tech^
 127.0.0.1 zxsmxt.com^
 127.0.0.1 zxucii.com^
+127.0.0.1 zxvvcvd.cn^
 127.0.0.1 zykxjt.com^
 127.0.0.1 zyqtc.cn^
 127.0.0.1 zywhjd.com^
@@ -40761,6 +41391,7 @@ charlestownwyllie.oaklawnnonantum.com^
 127.0.0.1 qhdbfjx.com^
 127.0.0.1 sohu999.com^
 127.0.0.1 tcmdz.com^
+
 !
 ! Source name: Additional rules
 ! Source: Filters/rules.txt
@@ -40833,11 +41464,29 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 !
 !
+! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
+@@||analytics.amplitude.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
+@@|adsterra.com^|
+@@|ads.adsterra.com^|
+@@|publishers.adsterra.com^|
+@@|beta.publishers.adsterra.com^|
+@@|partners.adsterra.com^|
+@@|beta.partners.adsterra.com^|
+@@|affiliates.adsterra.com^|
+@@|beta.affiliates.adsterra.com^|
+@@|help-advertisers.adsterra.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
+! Blocked by CNAME we-stats.com
+@@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
+@@||goto.target.com^|
 @@||goto.walmart.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/743
 @@||citiintl.122.2o7.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/805
+@@||ma135-r.analytics.edgekey.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/89190
 @@||79423.analytics.edgekey.net^|
 ! Blocked by CNAME 127.0.0.1 leadpages.net^$third-party

@@ -1,7 +1,36 @@
-! Version: 20211003075301
+! Version: 20211021074256
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+127.0.0.1 dongdm.cn^
+127.0.0.1 rcpuierp.cn^
+127.0.0.1 zhongwenqing.com^
+127.0.0.1 sxhjty.cn^
+127.0.0.1 propsad.com^
+127.0.0.1 thefatherofsalmon.com^
+127.0.0.1 xchina.co/upload/ad^
+127.0.0.1 shise.me^
+127.0.0.1 5689285.com^
+127.0.0.1 xchina.xyz/upload/ad^
+127.0.0.1 ccjudian.com^
+127.0.0.1 pdjyzx.com^
+127.0.0.1 xiaohuangshu.me^
+127.0.0.1 zzxlhwyp.com^
+127.0.0.1 realsrv.com^
+127.0.0.1 qqdata.ab.qq.com^
+127.0.0.1 s.bdstatic.com/common/openjs/openBox.js^
+m.baidu.com,www.baidu.com##div[tpl*="ball"]
+127.0.0.1 mmlala.com^
+127.0.0.1 weixinxx.com^
+127.0.0.1 jngdg.top^
+127.0.0.1 mhtrt.com^
+127.0.0.1 haoweb.top^
+127.0.0.1 fjdfqy.com^
+127.0.0.1 mp.weixin.qq.com/tp/ad_detail_info^
+127.0.0.1 reactor.xingye.work^
+127.0.0.1 thallus.net^
+127.0.0.1 yijiafangzhi.cn^
+127.0.0.1 uni69.top^
 127.0.0.1 static-img.threatbook.cn^
 127.0.0.1 sanme2.lanzoui.com^
 127.0.0.1 glores2.lanzoui.com^
